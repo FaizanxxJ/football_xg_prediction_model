@@ -1,0 +1,4659 @@
+Player,Position,Minutes,Goals,Assists,Total Shoot,Touches,Expected Goals (xG),Carries
+Gorka Guruzeta,FW,90,0,1,1,30,0.1,15
+Álex Berenguer,LW,71,0,0,0,33,0,17
+Nico Williams,LW,19,0,0,2,11,0.1,6
+Iñaki Williams,RW,90,0,0,2,36,0.1,22
+Oihan Sancet,AM,90,1,0,1,26,0,15
+Mikel Vesga,DM,56,0,0,0,44,0,19
+Unai Gómez,DM,34,0,0,0,17,0,7
+Beñat Prados,DM,56,0,0,0,33,0,15
+Ander Herrera,DM,34,0,0,0,37,0,23
+Yuri Berchiche,LB,90,0,0,1,70,0,25
+Aitor Paredes,CB,80,0,0,0,66,0,37
+Daniel Vivian,CB,10,0,0,0,20,0,18
+Yeray Álvarez,CB,90,0,0,0,73,0,37
+Andoni Gorosabel,RB,80,0,0,0,34,0,9
+Iñigo Lekue,RB,10,0,0,0,17,0,11
+Alex Padilla,GK,90,0,0,0,45,0,24
+Chrisantus Uche,FW,90,1,0,1,26,0,18
+Alex Sola,LM,78,0,0,1,18,0,12
+Jesús Santiago,CM,12,0,0,0,2,0,0
+Mauro Arambarri,CM,39,0,0,0,10,0,5
+Carles Aleñá,"CM,RM",51,0,0,1,21,0.5,10
+Luis Milla,CM,90,0,1,0,45,0,15
+Carles Pérez,RM,45,0,0,2,21,0,14
+Peter Federico,"RM,LM",45,0,0,1,11,0.2,4
+Nabil Aberdin,DM,90,0,0,1,29,0,11
+Diego Rico,LB,90,0,0,0,42,0,13
+Omar Alderete,CB,90,0,0,2,36,0,18
+Djené,CB,90,0,0,0,27,0,7
+Iglesias,RB,90,0,0,0,45,0,13
+David Soria,GK,90,0,0,0,21,0,12
+Aitor Ruibal,FW,69,0,0,3,23,0.4,16
+Ezequiel Ávila,FW,21,0,0,1,7,0.1,4
+Juanmi,LW,58,0,0,1,23,0.1,11
+Abde Ezzalzouli,LW,32,0,0,0,16,0,10
+Pablo Fornals,RW,58,0,0,2,28,0.1,19
+Rodri,RW,32,0,0,1,26,0.1,19
+Nabil Fekir,AM,90,0,1,2,44,0,30
+Marc Roca,DM,76,0,0,0,23,0,13
+Sergi Altimira,DM,14,0,0,0,23,0,16
+William Carvalho,DM,76,0,0,2,43,0.1,31
+Johnny Cardoso,DM,14,0,0,2,16,0.1,9
+Romain Perraud,LB,90,0,0,2,48,0.1,27
+Diego Llorente,CB,90,0,0,0,62,0,43
+Marc Bartra,CB,90,1,0,1,58,0.2,41
+Youssouf Sabaly,RB,90,0,0,2,48,0.1,21
+Rui Silva,GK,90,0,0,0,42,0,24
+Abel Ruiz,FW,80,0,0,2,24,0.3,17
+Ladislav Krejčí,CB,10,0,0,0,11,0,9
+Portu,LW,65,0,0,1,34,0,24
+Iker Almena,"WB,LW",25,0,1,1,16,0,11
+Bryan Gil,RW,80,0,0,4,65,0.2,48
+Cristhian Stuani,FW,10,0,0,1,3,0.2,2
+Iván Martín,"LM,CM",90,0,0,0,80,0,58
+Oriol Romeu,CM,65,0,0,0,59,0,45
+Jhon Solis,CM,25,0,0,1,25,0,20
+Yangel Herrera,RM,70,0,0,1,55,0.1,35
+Gabriel Osei Misehouy,"FW,RM",20,1,0,2,10,0.8,7
+Miguel Gutiérrez,"LB,WB",90,0,0,0,68,0,37
+Daley Blind,CB,90,0,0,0,91,0,72
+David López,CB,90,0,0,0,70,0,46
+Arnau Martinez,"RB,CM",90,0,0,0,90,0,48
+Paulo Gazzaniga,GK,90,0,0,0,46,0,32
+Anastasios Douvikas,FW,77,0,0,0,19,0,16
+Borja Iglesias,FW,13,0,0,0,10,0,7
+Jonathan Bamba,AM,45,0,0,0,26,0,14
+Jailson Siqueira,AM,45,0,0,0,44,0,29
+Iago Aspas,AM,90,1,0,3,42,0.7,32
+Fran Beltrán,CM,64,0,0,1,51,0,25
+Ilaix Moriba,CM,26,0,0,0,23,0,9
+Damián Rodríguez,CM,90,0,0,0,58,0,27
+Óscar Mingueza,WB,90,0,0,1,83,0,39
+Hugo Álvarez,WB,90,0,1,0,69,0,38
+Carlos Dominguez,CB,90,0,0,0,99,0,53
+Carl Starfelt,CB,45,0,0,0,62,0,37
+Williot Swedberg,CB,45,1,1,1,16,0.1,9
+Javier Manquillo,CB,45,0,0,0,44,0,22
+Javi Rodríguez,WB,45,0,0,0,37,0,17
+Iván Villar,GK,90,0,0,0,26,0,12
+Kiké,FW,79,1,0,4,24,0.6,15
+Asier Villalibre,FW,11,0,0,1,4,0.3,2
+Tomás Conechny,LW,67,0,0,0,26,0,15
+Luis Rioja,LW,23,0,0,0,15,0,8
+Luka Romero,RW,57,0,0,0,20,0,10
+Hugo Novoa,RW,33,0,0,1,15,0.5,10
+Jon Guridi,AM,67,0,0,1,29,0,16
+Stoichkov,AM,23,0,0,1,13,0.1,9
+Antonio Blanco,DM,90,0,1,2,45,0.1,24
+Ander Guevara,DM,79,0,0,0,52,0,24
+Carlos Benavídez,DM,11,0,0,0,6,0,5
+Moussa Diarra,LB,90,0,0,0,42,0,18
+Nahuel Tenaglia,CB,90,0,0,0,33,0,10
+Abdel Abqar,CB,90,0,0,0,35,0,16
+Carlos Vicente,RB,90,0,0,0,58,0,24
+Antonio Sivera,GK,90,0,0,0,34,0,12
+Oliver McBurnie,FW,86,0,0,1,29,0.5,18
+Marc Cardona,FW,4,0,0,0,4,0,2
+Alberto Moleiro,LW,86,0,0,5,33,0.3,24
+Aboubacar Bassinga,AM,4,0,0,0,4,0,3
+Jaime Mata,RW,67,0,0,1,22,0.1,15
+Sandro Ramírez,RW,23,1,0,2,11,0.2,9
+Javier Muñoz,"AM,DM",90,0,1,2,47,0.2,27
+Kirian Rodríguez,DM,90,0,0,1,88,0,47
+Enzo Loiodice,DM,68,0,0,0,55,0,28
+Manuel Fuster,"DM,LW",22,0,0,0,21,0,13
+Álex Muñoz,LB,68,0,0,1,59,0,25
+Scott McKenna,"LB,CB",22,0,0,0,15,0,14
+Mika Màrmol,"CB,LB",90,0,0,2,67,0.1,50
+Álex Suárez,CB,90,0,0,0,56,0,33
+Marvin,RB,75,0,0,0,33,0,13
+Viti,RB,15,0,0,0,12,0,5
+Jasper Cillessen,GK,90,0,0,0,44,0,33
+Isaac Romero,FW,82,0,1,2,32,0.1,16
+Peque,FW,8,0,0,0,7,0,2
+Dodi Lukebakio,"LW,RW",73,0,0,2,26,0.3,19
+Jesús Navas,RW,17,0,0,0,21,0,13
+Lucas Ocampos,"LW,RW",90,0,0,4,64,0.2,30
+Juanlu Sánchez,AM,82,1,0,2,41,0.6,21
+Kike Salas,CB,8,0,0,0,16,0,9
+Djibril Sow,"DM,AM",90,0,0,3,57,0.5,23
+Lucien Agoume,DM,90,0,0,0,67,0,24
+Adrià Pedrosa,LB,90,0,0,1,48,0,14
+Nemanja Gudelj,"CB,DM",90,0,0,1,66,0,29
+Tanguy Nianzou,CB,90,0,0,2,79,0.2,36
+Carmona,RB,90,0,0,1,78,0,30
+Ørjan Nyland,GK,90,0,0,0,51,0,27
+Ante Budimir,FW,90,0,0,3,39,0.2,13
+Aimar Oroz,LW,89,0,0,4,58,0.7,30
+Raúl,LW,1,0,0,0,1,0,0
+Rubén García,RW,77,0,0,3,51,0.2,27
+Rubén Peña,RW,13,0,0,0,7,0,2
+Moi Gómez,LM,59,0,0,0,51,0,23
+Bryan Zaragoza,LM,31,0,0,2,27,0.1,16
+Lucas Torró,CM,90,0,0,0,80,0,20
+Iker Muñoz,RM,45,0,0,0,31,0,11
+Jon Moncayola,RM,45,0,0,1,31,0.2,8
+Abel,LB,59,0,0,0,51,0,15
+Juan Cruz Armada,LB,31,0,0,0,27,0,8
+Jorge Herrando,CB,90,0,0,1,48,0.1,17
+Catena,CB,90,0,0,2,62,0.2,23
+Jesús Areso,RB,90,0,0,0,58,0,22
+Sergio Herrera,GK,90,0,0,0,25,0,10
+Miguel,FW,87,0,0,2,21,0.1,14
+Diego,FW,3,0,0,0,2,0,0
+Enric Franquesa,LW,90,0,0,0,32,0,10
+Juan Cruz,RW,62,1,0,1,29,0.4,12
+Dani Raba,RW,28,0,0,1,16,0.1,9
+Seydouba Cissé,AM,73,0,0,1,40,0,27
+Julián Chicco,AM,17,0,0,0,12,0,5
+Yvan Neyou,DM,90,0,0,1,50,0,18
+Darko Brašanac,DM,87,0,0,1,40,0.2,11
+Renato Tapia,DM,3,0,0,0,4,0,0
+Javi Hernández,LB,90,0,1,2,51,0.1,19
+Sergi,CB,90,0,0,0,42,0,19
+Aritz Arambarri,CB,87,0,0,1,45,0,24
+Roberto López,CB,3,0,0,0,2,0,1
+Valentin Rosier,RB,90,0,0,0,55,0,20
+Juan Soriano,GK,90,0,0,0,36,0,17
+Hugo Duro,FW,90,1,0,4,19,1,8
+Domingos André Ribeiro Almeida,FW,65,0,0,0,21,0,9
+Dani Gómez,FW,25,0,0,0,11,0,4
+Diego López,LM,65,0,1,0,25,0,14
+Dimitri Foulquier,LM,25,0,0,0,15,0,6
+Javier Guerra,CM,85,0,0,0,33,0,7
+Hugo Guillamón,CM,5,0,0,0,9,0,2
+José Luis García Vayá,CM,90,0,0,1,59,0,15
+Rafa Mir,RM,76,0,0,1,25,0,8
+David Otorbi,LM,14,0,0,0,6,0,3
+Jesus Vazquez,LB,76,0,0,0,23,0,13
+Martín Tejón,LB,14,0,0,0,9,0,3
+Yarek Gasiorowski,CB,90,0,0,0,50,0,15
+Cristhian Mosquera,CB,90,0,0,0,68,0,31
+Thierry Correia,RB,90,0,0,0,53,0,20
+Giorgi Mamardashvili,GK,90,0,0,0,40,0,21
+Robert Lewandowski,FW,90,2,0,3,26,1.8,16
+Ferrán Torres,LW,63,0,0,1,21,0.2,9
+Pedri,"LM,AM",27,0,0,1,24,0,14
+Lamine Yamal,RW,85,0,1,4,60,0.4,45
+Pau Victor Delgado,LW,5,0,0,0,8,0,6
+Raphinha,"AM,LW,RW",90,0,0,2,61,0.1,30
+Marc Casado,"DM,RM",90,0,0,3,79,0.6,41
+Marc Bernal,DM,70,0,0,0,59,0,35
+Eric García,CM,20,0,0,0,15,0,5
+Alejandro Balde,LB,63,0,0,1,50,0,35
+Gerard Martín,LB,27,0,0,0,21,0,6
+Iñigo Martínez,CB,90,0,0,1,90,0.1,58
+Pau Cubarsí,CB,63,0,0,1,58,0,36
+Andreas Christensen,CB,27,0,0,0,18,0,9
+Jules Koundé,RB,90,0,0,0,82,0,47
+Marc-André ter Stegen,GK,90,0,0,0,42,0,27
+Mikel Oyarzabal,FW,82,0,0,2,25,0.2,13
+Luka Sučić,FW,8,0,0,0,10,0,5
+Sheraldo Becker,LW,90,0,0,2,35,0.1,21
+Takefusa Kubo,RW,67,0,0,0,23,0,17
+Sergio Gómez,RW,23,0,0,0,24,0,13
+Beñat Turrientes,LM,67,0,0,1,35,0,13
+Ander Barrenetxea,LM,23,0,0,0,19,0,14
+Urko González,CM,45,0,0,0,20,0,12
+Martín Zubimendi,CM,45,1,0,2,32,0.4,11
+Brais Méndez,RM,90,0,0,2,62,0.1,33
+Javi López,LB,90,0,0,1,66,0,28
+Jon Pacheco,CB,90,0,0,0,60,0,27
+Aritz Elustondo,CB,90,0,0,1,82,0.2,49
+Hamari Traoré,RB,74,0,0,0,54,0,18
+Jon Aramburu,RB,16,0,0,0,19,0,7
+Álex Remiro,GK,90,0,0,0,37,0,21
+Isaac Palazón Camacho,"FW,RW",90,0,0,2,34,0,20
+Randy Nteka,FW,62,0,0,0,18,0,6
+Sergio Camello,FW,28,1,0,1,8,0.2,4
+Adri Embarba,LM,74,0,0,1,35,0,18
+Pep Chavarría,LW,16,0,0,0,5,0,2
+Óscar Valentín,CM,90,0,0,0,45,0,14
+Unai López,CM,45,0,0,0,29,0,10
+Gerard Gumbau,CM,45,0,0,1,16,0.2,5
+Jorge de Frutos,RM,74,1,0,1,16,0.2,11
+Pathé Ciss,CM,16,0,1,0,6,0,2
+Alfonso Espino,LB,90,0,0,2,55,0,16
+Abdul Mumin,CB,90,0,1,0,36,0,11
+Florian Lejeune,CB,90,0,0,2,35,0.1,8
+Andrei Ratiu,RB,79,0,0,2,32,0.4,11
+Iván Balliu,RB,11,0,0,0,6,0,3
+Cárdenas,GK,90,0,0,0,16,0,5
+Vedat Muriqi,FW,90,1,0,3,37,0.4,11
+Dani Rodríguez,LW,66,0,1,2,32,0.1,16
+Antonio Sánchez,RW,24,0,0,3,10,0.4,3
+Takuma Asano,"RW,LW",71,0,0,1,20,0,14
+Cyle Larin,LW,19,0,0,0,14,0,6
+Samu Costa,LM,90,0,0,2,56,0,28
+Omar Mascarell,CM,89,0,0,0,51,0,26
+Copete,CM,1,0,0,0,3,0,0
+Sergi Darder,RM,71,0,0,0,34,0,18
+Manu Morlanes,RM,19,0,0,0,14,0,8
+Johan Mojica,LB,90,0,0,1,64,0,45
+Antonio Raillo,CB,90,0,0,0,43,0,17
+Martin Valjent,CB,90,0,0,0,29,0,8
+Pablo Maffeo,RB,90,0,0,0,52,0,19
+Dominik Greif,GK,90,0,0,0,19,0,9
+Kylian Mbappé,FW,90,0,0,4,40,0.3,26
+Vinicius Júnior,LW,87,0,1,2,55,0.1,41
+Brahim Díaz,LW,3,0,0,0,5,0,5
+Rodrygo,RW,90,1,0,3,77,0.2,50
+Jude Bellingham,LM,87,0,0,0,82,0,57
+Arda Güler,RM,3,0,0,0,5,0,3
+Aurélien Tchouaméni,CM,62,0,0,0,63,0,42
+Luka Modrić,CM,28,0,0,2,46,0,33
+Federico Valverde,"RM,LM",90,0,0,0,88,0,54
+Ferland Mendy,LB,89,0,0,0,81,0,46
+Antonio Rüdiger,CB,90,0,0,1,83,0,50
+Éder Militão,CB,90,0,0,1,67,0,51
+Dani Carvajal,RB,86,0,0,0,68,0,36
+Lucas Vázquez,RB,4,0,0,0,4,0,1
+Thibaut Courtois,GK,90,0,0,0,29,0,17
+Mamadou Sylla,FW,90,0,0,3,18,0.3,7
+Raúl Moro,LW,90,1,0,1,46,0.1,32
+Amath,RW,69,0,1,1,26,0,17
+Iván Sánchez,RW,21,0,0,0,8,0,5
+Selim Amallah,CM,68,0,0,2,34,0.2,16
+Víctor Meseguer,CM,22,0,0,0,10,0,5
+Eray Cömert,"CM,CB",81,0,0,3,38,0.2,16
+David Torres,CB,9,0,0,0,4,0,0
+Kike Pérez,CM,81,0,0,1,57,0,36
+Chuky san jose,CM,9,0,0,0,5,0,4
+Lucas Oliveira Rosa,LB,90,0,0,1,53,0,21
+Enzo Boyomo,CB,90,0,0,0,61,0,41
+Javi Sánchez,CB,61,0,0,0,47,0,27
+Stanko Jurić,CM,29,0,0,0,22,0,10
+Luis Pérez,RB,90,0,0,0,71,0,30
+Karl Jakob Hein,GK,90,0,0,0,39,0,25
+Javi Puado,FW,90,0,0,3,35,0.1,21
+Alejo Véliz,FW,69,0,0,1,27,0,7
+Antoniu,LM,21,0,0,1,7,0,5
+Pol Lozano,CM,56,0,0,0,30,0,13
+Alex Král,CM,34,0,0,1,26,0,12
+José Gragera,CM,77,0,0,0,54,0,18
+Álvaro Aguado,CM,13,0,0,1,16,0.1,9
+Pere Milla,"LM,CM",56,0,0,0,23,0,9
+Irvin Cardona,"FW,LM",34,0,0,1,9,0.1,2
+Carlos Romero,LB,90,0,0,0,57,0,19
+Leandro Cabrera,CB,90,0,0,0,96,0,48
+Sergi Gómez,CB,90,0,0,1,77,0.3,26
+Omar El Hilali,"RB,CB",90,0,0,0,61,0,26
+Álvaro Tejero,"RM,RB",69,0,0,1,38,0,15
+Jofre,RM,21,0,0,0,13,0,9
+Joan García,GK,90,0,0,0,34,0,12
+Arnaut Danjuma,FW,78,1,0,3,20,0.5,12
+Ayoze Pérez,FW,12,0,0,0,9,0,5
+Gerard Moreno,FW,70,0,0,2,35,0.1,24
+Nicolas Pépé,FW,20,0,0,2,13,0.1,5
+Alex Baena,LM,70,0,0,1,37,0,20
+Pape Gueye,CM,20,0,0,0,22,0,8
+Santi Comesaña,"CM,LM",90,0,0,0,46,0,21
+Daniel Parejo,CM,89,0,0,0,65,0,22
+Ramón Terrats,CM,1,0,0,0,4,0,3
+Yeremi Pino,RM,70,0,0,1,27,0.1,15
+Ilias Akhomach,RM,20,0,0,0,15,0,10
+Sergi Cardona,LB,90,0,0,0,66,0,25
+Eric Bailly,CB,90,0,0,0,66,0,31
+Raúl Albiol,CB,90,0,0,0,71,0,30
+Kiko Femenía,RB,90,0,0,0,82,0,39
+Diego Conde,GK,90,0,1,0,25,0,14
+Alexander Sørloth,FW,45,1,0,1,14,0.1,3
+Ángel Correa,FW,45,0,0,1,18,0.1,10
+Samuel Lino,"AM,WB,CM",90,0,0,3,52,0.7,32
+Antoine Griezmann,"AM,FW",77,0,1,1,45,0.1,28
+Julián Álvarez,FW,13,0,0,0,3,0,1
+Koke,CM,63,0,0,0,55,0,32
+Rodrigo De Paul,CM,27,0,0,0,31,0,23
+Pablo Barrios,CM,90,0,1,2,69,0,45
+Reinildo Mandava,WB,53,0,0,0,40,0,20
+Nahuel Molina,WB,37,0,0,0,42,0,20
+Marcos Llorente,"WB,CM",90,1,0,1,56,0.1,34
+Robin Le Normand,CB,90,0,0,0,78,0,53
+Axel Witsel,CB,45,0,0,0,33,0,26
+José María Giménez,CB,45,0,0,0,45,0,27
+César Azpilicueta,CB,90,0,0,0,104,0,63
+Jan Oblak,GK,90,0,0,0,20,0,11
+Anastasios Douvikas,FW,65,0,0,0,20,0,8
+Borja Iglesias,FW,25,0,0,0,5,0,0
+Williot Swedberg,LW,64,0,0,2,22,0.1,12
+Jonathan Bamba,LW,26,0,0,0,14,0,6
+Iago Aspas,RW,86,1,1,1,38,1,28
+Pablo Durán,RW,4,0,0,0,11,0,6
+Óscar Mingueza,LM,45,1,1,1,49,0.1,30
+Sergio Carreira,RM,45,0,0,0,28,0,10
+Fran Beltrán,CM,90,1,0,1,47,0,23
+Damián Rodríguez,CM,90,0,0,0,64,0,25
+Hugo Álvarez,"LM,RM",90,0,0,0,64,0,25
+Carlos Dominguez,CB,90,0,0,0,79,0,36
+Jailson Siqueira,CB,90,0,0,0,75,0,40
+Javi Rodríguez,CB,74,0,0,1,73,0.1,38
+Carl Starfelt,CB,16,0,0,0,14,0,5
+Iván Villar,GK,90,0,0,0,33,0,15
+Hugo Duro,FW,76,0,0,3,25,0.1,8
+Dani Gómez,FW,14,0,0,0,3,0,1
+Domingos André Ribeiro Almeida,"FW,CM",90,0,0,1,67,0,51
+Diego López,"LM,RM",76,1,0,1,43,0.4,27
+Martín Tejón,RM,14,0,0,1,17,0.1,9
+Javier Guerra,CM,60,0,0,1,45,0,35
+Luis Rioja,LM,30,0,0,1,18,0,14
+José Luis García Vayá,CM,90,0,0,0,80,0,44
+Rafa Mir,"RM,FW,LM",83,0,1,2,20,0.1,14
+Alberto Marí,FW,7,0,0,0,4,0,2
+Jesus Vazquez,LB,90,0,0,1,64,0,33
+Yarek Gasiorowski,CB,90,0,0,1,61,0.1,44
+Cristhian Mosquera,CB,90,0,0,0,75,0,57
+Thierry Correia,RB,76,0,0,1,71,0.1,47
+Dimitri Foulquier,RB,14,0,0,0,22,0,18
+Giorgi Mamardashvili,GK,90,0,0,0,32,0,20
+Isaac Romero,FW,76,0,0,2,17,0.4,12
+Kelechi Iheanacho,FW,14,0,0,1,4,0.1,2
+Lucas Ocampos,LW,85,0,1,0,51,0,33
+Jesús Navas,LW,5,0,0,0,8,0,7
+Dodi Lukebakio,RW,70,1,0,1,33,0,20
+Djibril Sow,RW,20,0,0,0,10,0,5
+Saúl Ñíguez,LM,90,0,0,4,73,0.3,50
+Lucien Agoume,CM,90,0,0,0,73,0,43
+Juanlu Sánchez,RM,70,0,0,0,19,0,9
+Chidera Ejuke,RM,20,0,0,0,17,0,15
+Adrià Pedrosa,LB,90,0,0,3,71,0.1,35
+Kike Salas,CB,76,0,0,2,77,0.1,46
+Marcão,CB,14,0,0,0,23,0,17
+Loïc Bade,CB,90,0,0,1,89,0,62
+Carmona,RB,90,0,0,2,94,0.1,57
+Ørjan Nyland,GK,90,0,0,0,33,0,20
+Arnaut Danjuma,FW,64,1,0,2,14,0.3,6
+Ayoze Pérez,FW,26,1,0,2,13,0.2,8
+Nicolas Pépé,FW,64,0,0,3,25,0.3,15
+Thierno Barry,FW,26,0,0,0,12,0,6
+Alex Baena,LM,90,0,1,0,39,0,20
+Pape Gueye,CM,90,0,0,0,45,0,18
+Santi Comesaña,CM,72,0,0,0,41,0,24
+Daniel Parejo,CM,18,0,0,0,11,0,2
+Ilias Akhomach,RM,72,0,0,1,32,0,21
+Yeremi Pino,RM,18,0,0,0,17,0,6
+Sergi Cardona,LB,90,0,0,0,57,0,23
+Eric Bailly,CB,84,0,0,0,49,0,29
+Raúl Albiol,CB,6,0,0,0,12,0,3
+Willy Kambwala,CB,90,0,0,0,50,0,20
+Kiko Femenía,RB,90,0,0,0,53,0,17
+Diego Conde,GK,90,0,0,0,44,0,19
+Ante Budimir,FW,78,0,0,1,21,0,8
+Raúl,FW,12,0,0,0,3,0,2
+Bryan Zaragoza,"LM,RM",90,0,0,2,35,0,28
+Aimar Oroz,CM,78,0,0,5,39,0.3,20
+Iker Muñoz,CM,4,0,0,0,1,0,1
+Pablo Ibáñez,CM,8,0,0,1,4,0,1
+Jon Moncayola,CM,90,0,0,2,56,0.1,17
+Rubén García,RM,70,1,0,1,39,0.1,17
+Moi Gómez,LM,20,0,0,0,10,0,4
+Lucas Torró,DM,90,0,0,1,49,0,14
+Abel,LB,90,0,0,0,52,0,14
+Jorge Herrando,CB,90,0,0,0,36,0,16
+Catena,CB,90,0,0,1,53,0,23
+Jesús Areso,RB,79,0,0,1,55,0,27
+Nacho Vidal,RB,11,0,0,0,8,0,1
+Sergio Herrera,GK,90,0,0,0,27,0,13
+Vedat Muriqi,FW,90,0,0,1,19,0.1,7
+Dani Rodríguez,LW,78,0,0,1,36,0.1,13
+Antonio Sánchez,"RM,LW",12,0,0,0,5,0,2
+Takuma Asano,RW,61,0,0,2,22,0.2,14
+Cyle Larin,"RW,LM",29,0,0,0,14,0,5
+Sergi Darder,LM,84,0,0,2,38,0,21
+Abdón Prats,FW,6,0,0,1,2,0.1,2
+Omar Mascarell,CM,61,0,0,0,38,0,10
+Manu Morlanes,CM,29,0,0,0,28,0,15
+Samu Costa,"RM,CM",90,0,0,2,65,0.1,37
+Johan Mojica,LB,90,0,0,0,77,0,36
+Antonio Raillo,CB,90,0,0,0,71,0,36
+Martin Valjent,CB,90,0,0,0,66,0,34
+Pablo Maffeo,RB,90,0,0,1,50,0,19
+Dominik Greif,GK,90,0,0,0,35,0,18
+Robert Lewandowski,FW,90,1,0,6,36,1.2,16
+Ferrán Torres,LW,62,0,0,1,26,0,13
+Fermin López,AM,28,0,0,0,12,0,9
+Lamine Yamal,RW,89,1,0,2,53,0.1,34
+Pau Victor Delgado,RW,1,0,0,0,2,0,0
+Raphinha,"AM,LW",90,0,0,4,63,0.5,35
+Pedri,DM,90,0,0,0,62,0,35
+Marc Bernal,DM,82,0,0,0,56,0,29
+Eric García,DM,8,0,0,0,4,0,1
+Alejandro Balde,LB,89,0,0,0,68,0,40
+Gerard Martín,LB,1,0,0,0,3,0,0
+Iñigo Martínez,CB,90,0,0,0,104,0,68
+Pau Cubarsí,CB,90,0,0,0,91,0,51
+Jules Koundé,RB,90,0,0,0,79,0,31
+Marc-André ter Stegen,GK,90,0,0,0,41,0,27
+Iñaki Williams,FW,77,0,0,0,23,0,14
+Gorka Guruzeta,FW,13,0,0,0,4,0,2
+Nico Williams,LW,90,0,0,3,36,0.1,25
+Álex Berenguer,RW,71,0,0,1,28,0,17
+Adu Ares,RW,19,0,0,0,11,0,8
+Oihan Sancet,AM,61,1,0,0,27,0.8,18
+Unai Gómez,AM,29,0,0,0,4,0,2
+Mikel Vesga,DM,62,0,0,0,18,0,9
+Mikel Jauregizar,DM,28,0,0,0,10,0,2
+Beñat Prados,DM,77,0,0,2,32,0,19
+Ander Herrera,DM,13,0,0,0,12,0,6
+Yuri Berchiche,LB,90,0,0,0,38,0,13
+Yeray Álvarez,CB,90,0,0,1,50,0.1,28
+Daniel Vivian,CB,90,0,0,0,58,0,36
+Iñigo Lekue,RB,90,0,0,0,46,0,24
+Alex Padilla,GK,90,0,0,0,35,0,21
+Javi Puado,FW,90,0,0,3,17,0.3,9
+Alejo Véliz,FW,90,0,0,4,22,0.8,16
+Irvin Cardona,LM,67,0,0,0,16,0,8
+Brian Oliván,"LM,LB",23,0,0,0,14,0,3
+José Gragera,CM,82,0,0,0,19,0,6
+Antoniu,RM,8,0,0,0,6,0,1
+Alex Král,CM,90,0,0,0,40,0,20
+Jofre,RM,82,0,0,3,31,0.5,18
+Álvaro Aguado,CM,8,0,0,0,12,0,8
+Carlos Romero,LB,86,0,0,2,34,0.1,19
+Pere Milla,LM,4,0,0,0,6,0,3
+Leandro Cabrera,CB,90,0,0,0,52,0,16
+Marash Kumbulla,CB,90,0,0,0,36,0,15
+Omar El Hilali,RB,86,0,0,0,39,0,18
+Álvaro Tejero,RB,4,0,0,0,11,0,7
+Joan García,GK,90,0,0,1,33,0.1,24
+Mikel Oyarzabal,FW,66,0,0,0,19,0,10
+Umar Sadiq,FW,24,0,0,0,9,0,7
+Sheraldo Becker,LM,85,0,0,1,31,0,20
+Pablo Marín,LM,5,0,0,0,1,0,1
+Beñat Turrientes,CM,66,0,0,1,43,0.1,22
+Takefusa Kubo,CM,24,1,0,1,11,0.1,8
+Brais Méndez,CM,65,0,0,2,50,0.3,32
+Olasagasti,CM,25,0,0,0,14,0,7
+Sergio Gómez,RM,90,0,0,2,66,0.1,23
+Martín Zubimendi,DM,90,0,0,0,80,0,42
+Javi López,LB,90,0,0,0,59,0,26
+Jon Pacheco,CB,90,0,0,1,86,0.1,63
+Aritz Elustondo,CB,90,0,0,0,71,0,33
+Hamari Traoré,RB,82,0,1,0,70,0,35
+Jon Aramburu,RB,8,0,0,0,12,0,2
+Álex Remiro,GK,90,0,0,0,42,0,18
+Chrisantus Uche,FW,90,0,0,2,31,0.1,25
+Alex Sola,LW,74,0,0,3,31,0.2,19
+Alberto Risco,LW,16,0,0,1,10,0,5
+Carles Pérez,RW,80,0,0,1,22,0,15
+Mauro Arambarri,RW,10,0,0,0,7,0,3
+Carles Aleñá,AM,74,0,0,1,29,0.1,16
+Peter Federico,AM,16,0,0,0,6,0,5
+Nabil Aberdin,DM,66,0,0,0,19,0,12
+Jesús Santiago,DM,24,0,0,0,6,0,2
+Luis Milla,DM,90,0,0,1,58,0,21
+Diego Rico,LB,90,0,0,0,55,0,14
+Omar Alderete,CB,90,0,0,2,54,0,11
+Djené,CB,90,0,0,0,40,0,20
+Iglesias,RB,90,0,0,1,50,0,15
+David Soria,GK,90,0,0,0,30,0,18
+Randy Nteka,FW,71,0,0,0,21,0,6
+Sergio Camello,FW,19,0,0,0,7,0,5
+Adri Embarba,LW,84,0,0,1,31,0,15
+Pedro Díaz,LW,6,0,0,0,5,0,0
+Jorge de Frutos,RW,63,0,0,0,25,0,16
+Álvaro García,RW,27,0,0,0,11,0,3
+Óscar Trejo,AM,63,0,0,1,30,0.2,15
+Isaac Palazón Camacho,AM,27,0,0,1,8,0,7
+Pathé Ciss,DM,71,0,0,0,45,0,15
+Unai López,DM,19,0,0,0,14,0,7
+Óscar Valentín,DM,90,0,0,0,47,0,20
+Alfonso Espino,LB,90,0,0,0,51,0,16
+Abdul Mumin,CB,90,0,0,0,44,0,18
+Florian Lejeune,CB,90,0,0,0,38,0,14
+Iván Balliu,RB,90,0,0,0,57,0,15
+Cárdenas,GK,90,0,0,0,30,0,11
+Kylian Mbappé,FW,85,0,0,4,41,1,31
+Endrick,FW,5,1,0,1,2,0,1
+Vinicius Júnior,LW,84,0,0,1,48,0,37
+Dani Ceballos,"AM,LW",6,0,0,0,11,0,6
+Rodrygo,RW,68,0,1,0,55,0,44
+Luka Modrić,DM,22,0,0,0,26,0,18
+Arda Güler,AM,68,0,0,5,60,0.5,44
+Brahim Díaz,"RW,LW",22,1,1,1,18,0.3,14
+Aurélien Tchouaméni,DM,90,0,0,1,101,0,65
+Federico Valverde,"DM,AM,RW",90,1,0,2,73,0,54
+Fran Garcia,LB,90,0,0,0,75,0,51
+Antonio Rüdiger,CB,90,0,0,2,91,0.2,62
+Éder Militão,CB,90,0,1,0,89,0,61
+Dani Carvajal,RB,90,0,0,0,74,0,35
+Thibaut Courtois,GK,90,0,0,0,31,0,17
+Marcos André,FW,70,0,0,0,17,0,14
+Mamadou Sylla,FW,20,0,0,1,5,0.1,2
+Darwin Machís,LM,57,0,0,1,16,0,10
+Raúl Moro,LM,33,0,0,2,25,0.1,15
+Víctor Meseguer,CM,58,0,0,1,28,0,13
+Selim Amallah,CM,32,0,0,1,15,0.1,8
+Kike Pérez,CM,84,0,0,0,45,0,24
+Amath,RM,6,0,0,0,4,0,3
+Iván Sánchez,"RM,CM",90,0,0,0,37,0,20
+Stanko Jurić,DM,70,0,0,0,38,0,19
+Mario Martín,DM,20,0,0,1,17,0,10
+Lucas Oliveira Rosa,LB,90,0,0,0,46,0,17
+Enzo Boyomo,CB,90,0,0,1,64,0,31
+Eray Cömert,CB,90,0,0,0,52,0,28
+Luis Pérez,RB,90,0,0,0,46,0,25
+Karl Jakob Hein,GK,90,0,0,0,47,0,29
+Miguel,FW,81,0,0,2,22,0.1,14
+Diego,FW,9,0,0,1,7,0,3
+Seydouba Cissé,LM,81,0,0,0,45,0,18
+Enric Franquesa,"LB,LM",9,1,0,1,6,0.2,3
+Óscar Rodríguez Arnaiz,CM,86,0,1,1,43,0,23
+Adrià Altimira,"RM,CM",4,0,0,0,1,0,1
+Dani Raba,CM,61,0,0,2,27,0.9,11
+Juan Cruz,"CM,LM",29,1,0,1,11,0,6
+Darko Brašanac,RM,61,0,0,1,24,0.2,9
+Renato Tapia,"RM,CM",29,0,0,0,21,0,6
+Yvan Neyou,"DM,CM",90,0,1,0,42,0,19
+Javi Hernández,"LB,CB",90,0,0,0,52,0,24
+Sergi,CB,90,0,0,0,72,0,37
+Aritz Arambarri,CB,90,0,0,0,41,0,20
+Valentin Rosier,RB,90,0,0,0,52,0,19
+Juan Soriano,GK,90,0,0,0,36,0,18
+Oliver McBurnie,FW,90,0,1,3,36,0.2,19
+Sandro Ramírez,LW,90,1,0,4,33,0.6,14
+Marvin,RW,77,0,0,0,35,0,14
+Benito Ramírez,LB,13,0,0,1,16,0,6
+Alberto Moleiro,AM,65,0,0,0,22,0,12
+Enzo Loiodice,AM,25,0,0,0,32,0,21
+Kirian Rodríguez,DM,86,0,0,1,84,0,49
+Manuel Fuster,DM,4,0,0,0,9,0,6
+Javier Muñoz,DM,90,0,0,0,63,0,31
+Álex Muñoz,LB,77,0,0,0,62,0,19
+Jaime Mata,RW,13,0,0,0,7,0,2
+Mika Màrmol,CB,90,0,0,0,85,0,43
+Scott McKenna,CB,90,0,0,1,82,0,43
+Álex Suárez,RB,64,0,0,0,46,0,20
+Viti,RB,26,0,0,0,21,0,13
+Jasper Cillessen,GK,90,0,0,0,44,0,19
+Kiké,FW,76,0,0,0,17,0,6
+Jon Guridi,AM,14,0,0,0,5,0,3
+Stoichkov,FW,60,0,0,1,26,0,18
+Carlos Martín,FW,30,0,0,0,9,0,3
+Tomás Conechny,LM,60,0,0,2,22,0.1,14
+Luka Romero,"LW,LM",30,0,0,0,8,0,6
+Ander Guevara,CM,76,0,0,1,48,0.1,22
+Carlos Benavídez,DM,14,0,0,0,6,0,3
+Antonio Blanco,"CM,DM",90,0,0,1,51,0,23
+Carlos Vicente,"RM,RW",87,0,0,0,42,0,22
+Moussa Diarra,RW,3,0,0,0,1,0,0
+Manu Sánchez,LB,90,0,0,0,57,0,14
+Aleksandar Sedlar,CB,85,0,0,0,37,0,15
+Abdel Abqar,CB,90,0,0,0,46,0,18
+Nahuel Tenaglia,RB,90,0,0,0,51,0,17
+Antonio Sivera,GK,90,0,0,0,32,0,10
+Aitor Ruibal,FW,62,0,0,1,19,0,10
+Ezequiel Ávila,FW,28,0,0,1,17,0.1,9
+Juanmi,LW,62,0,0,2,22,0.4,11
+Abde Ezzalzouli,LW,28,0,0,3,26,0.2,15
+Pablo Fornals,RW,75,0,0,1,48,0.1,21
+Rodri,RW,15,0,0,0,10,0,6
+Nabil Fekir,AM,90,0,0,5,63,0.6,42
+Marc Roca,DM,90,0,0,0,65,0,37
+William Carvalho,DM,90,0,0,1,99,0,66
+Ricardo Rodríguez,LB,45,0,0,0,43,0,23
+Romain Perraud,LB,45,0,0,0,40,0,17
+Diego Llorente,CB,90,0,0,0,69,0,33
+Marc Bartra,CB,85,0,0,0,68,0,40
+Natan,CB,5,0,0,1,6,0,3
+Youssouf Sabaly,RB,90,0,0,0,63,0,25
+Rui Silva,GK,90,0,0,0,37,0,24
+Julián Álvarez,FW,80,0,0,1,20,0,12
+Alexander Sørloth,FW,10,0,0,2,10,0,5
+Antoine Griezmann,FW,80,1,1,1,28,0.1,9
+Ángel Correa,FW,10,0,0,0,8,0,2
+Samuel Lino,"CM,LB",67,0,0,2,50,0.1,25
+Reinildo Mandava,LB,23,0,0,0,11,0,5
+Pablo Barrios,CM,90,0,0,1,67,0,27
+Rodrigo De Paul,CM,58,0,0,0,40,0,26
+Koke,CM,32,1,0,1,25,0.7,10
+Rodrigo Riquelme,LB,57,0,0,2,44,0.2,31
+Conor Gallagher,CM,33,0,0,0,16,0,7
+César Azpilicueta,CB,90,0,0,0,78,0,39
+José María Giménez,CB,90,0,0,0,84,0,48
+Robin Le Normand,CB,90,0,0,0,55,0,34
+Marcos Llorente,RB,90,1,1,1,44,0,25
+Jan Oblak,GK,90,0,0,0,22,0,10
+Abel Ruiz,FW,58,0,0,3,24,0.3,15
+Bojan Miovski,FW,32,0,0,2,10,0.1,8
+Bryan Gil,LW,90,0,0,4,47,0.2,35
+Viktor Tsyhankov,RW,67,0,0,0,47,0,30
+Iker Almena,RW,23,0,0,0,23,0,21
+Yangel Herrera,"LM,DM",90,0,0,1,60,0,43
+Oriol Romeu,CM,58,0,0,1,41,0,28
+Jhon Solis,"DM,CM",32,0,0,0,39,0,30
+Iván Martín,RM,57,0,0,0,30,0,21
+Portu,"AM,RM",33,0,0,0,14,0,7
+Miguel Gutiérrez,LB,90,0,0,1,68,0,38
+Daley Blind,CB,90,0,0,1,112,0,84
+David López,CB,90,0,0,0,103,0,67
+Arnau Martinez,RB,90,0,0,0,105,0,76
+Paulo Gazzaniga,GK,90,0,0,0,20,0,15
+Arnaut Danjuma,FW,58,0,0,1,14,0,7
+Thierno Barry,FW,32,1,0,2,12,0.4,4
+Gerard Moreno,FW,45,0,1,3,25,0.2,11
+Ayoze Pérez,FW,45,0,0,1,14,0,9
+Alex Baena,LM,71,0,0,4,44,0.5,22
+Pape Gueye,CM,19,0,0,1,16,0,9
+Daniel Parejo,CM,90,1,0,1,65,0.9,28
+Santi Comesaña,"CM,LM",90,0,0,2,77,0.1,42
+Yeremi Pino,RM,57,0,0,2,31,0.3,17
+Nicolas Pépé,RM,33,0,0,1,14,0.1,9
+Sergi Cardona,LB,90,1,1,3,58,1,23
+Eric Bailly,CB,57,0,0,1,44,0.1,23
+Logan Costa,CB,33,0,0,0,21,0,6
+Raúl Albiol,CB,90,0,0,0,52,0,26
+Kiko Femenía,RB,90,0,0,1,86,0,46
+Diego Conde,GK,90,0,0,0,20,0,8
+Borja Iglesias,FW,73,1,0,1,24,0.1,12
+Anastasios Douvikas,FW,17,0,0,2,6,0.3,4
+Jonathan Bamba,"LW,RW",90,0,0,3,53,0.2,34
+Alfon,RW,69,0,0,3,23,0.5,17
+Iago Aspas,AM,21,0,0,0,15,0,8
+Sergio Carreira,LM,57,0,0,1,38,0,22
+Hugo Álvarez,"LB,LM",33,0,0,0,27,0,20
+Ilaix Moriba,CM,57,0,0,0,35,0,26
+Fran Beltrán,"DM,CM",33,0,0,2,31,0.1,20
+Damián Rodríguez,"CM,DM",90,0,0,0,82,0,47
+Óscar Mingueza,"RM,RB",90,1,1,1,88,0,59
+Javier Manquillo,CB,69,0,0,0,56,0,36
+Williot Swedberg,LW,21,0,0,4,14,1.1,9
+Carl Starfelt,CB,90,1,0,2,78,0.2,50
+Jailson Siqueira,CB,90,0,0,1,84,0.1,56
+Iván Villar,GK,90,0,0,0,35,0,14
+Vedat Muriqi,FW,81,0,0,5,36,0.7,19
+Abdón Prats,FW,9,0,0,1,1,0,0
+Cyle Larin,LW,64,0,0,0,14,0,13
+Takuma Asano,"LW,RW",26,0,0,1,7,0,4
+Antonio Sánchez,RW,64,0,0,1,29,0,16
+Dani Rodríguez,"RW,LM",26,0,0,0,19,0,13
+Sergi Darder,LM,81,0,0,0,49,0,35
+Marc Domenech,LW,9,0,0,1,3,0,2
+Manu Morlanes,CM,72,0,0,0,52,0,30
+Omar Mascarell,CM,18,0,0,1,10,0,7
+Samu Costa,RM,90,0,0,0,60,0,42
+Johan Mojica,LB,90,0,0,1,57,0,31
+Antonio Raillo,CB,90,0,0,1,56,0,29
+Martin Valjent,CB,90,0,0,0,63,0,34
+Pablo Maffeo,RB,90,0,0,0,61,0,36
+Leo Román,GK,90,0,0,0,30,0,16
+Kelechi Iheanacho,FW,61,0,0,2,12,0.1,6
+Isaac Romero,FW,29,0,0,1,9,0.1,4
+Chidera Ejuke,LW,89,0,0,3,61,0.2,39
+Lucien Agoume,LW,1,0,0,0,1,0,0
+Dodi Lukebakio,RW,69,0,0,4,39,0.1,24
+Jesús Navas,RW,21,0,0,0,7,0,7
+Saúl Ñíguez,LM,88,0,0,2,47,0.1,26
+Albert Sambi Lokonga,CM,62,0,0,0,57,0,29
+Juanlu Sánchez,CM,28,0,0,0,9,0,3
+Djibril Sow,RM,90,0,0,1,55,0.1,34
+Adrià Pedrosa,LB,90,0,0,1,89,0,44
+Nemanja Gudelj,CB,69,0,0,0,54,0,26
+Marcão,CB,21,0,0,0,20,0,14
+Loïc Bade,CB,90,0,0,1,78,0,39
+Carmona,RB,90,0,0,1,56,0,25
+Ørjan Nyland,GK,90,0,0,0,40,0,26
+Isaac Palazón Camacho,FW,90,0,0,1,31,0.1,18
+Sergio Camello,FW,63,0,0,0,23,0,12
+Randy Nteka,FW,27,0,0,0,9,0,4
+Álvaro García,LM,55,0,0,2,35,0.1,20
+Adri Embarba,"RM,LM",35,0,0,2,21,0.1,5
+Óscar Valentín,CM,67,0,0,0,26,0,10
+Pep Chavarría,LM,23,0,0,0,18,0,12
+Unai López,CM,55,1,0,1,24,0.1,13
+Pathé Ciss,CM,35,0,0,0,16,0,7
+Jorge de Frutos,RM,63,0,1,0,25,0,15
+Gerard Gumbau,"CM,RM",27,0,0,1,6,0,2
+Alfonso Espino,LB,90,0,0,1,52,0,16
+Abdul Mumin,CB,90,0,0,0,50,0,18
+Florian Lejeune,CB,90,0,0,0,40,0,18
+Iván Balliu,RB,90,0,0,0,37,0,20
+Cárdenas,GK,90,0,0,0,33,0,17
+Robert Lewandowski,FW,90,0,0,1,30,0,9
+Ferrán Torres,LW,45,0,0,2,17,0.1,9
+Dani Olmo,AM,45,1,0,3,33,0.2,24
+Lamine Yamal,RW,89,0,1,5,72,0.3,45
+Pau Victor Delgado,RW,1,0,0,0,3,0,2
+Raphinha,"LW,AM",90,0,1,3,54,0.3,25
+Pedri,DM,89,1,0,2,78,0.3,38
+Fermin López,DM,1,0,0,0,4,0,3
+Marc Bernal,DM,90,0,0,2,69,0.1,33
+Gerard Martín,LB,64,0,0,0,48,0,11
+Alejandro Balde,LB,26,0,0,0,16,0,7
+Iñigo Martínez,CB,90,0,0,1,56,0.1,28
+Pau Cubarsí,CB,90,0,0,1,79,0.1,40
+Jules Koundé,RB,90,0,0,2,92,0.1,30
+Marc-André ter Stegen,GK,90,0,0,0,33,0,25
+Mamadou Sylla,FW,61,0,0,0,10,0,4
+Juanmi Latasa,FW,29,0,0,3,11,0.2,4
+Raúl Moro,LW,80,0,0,2,51,0.2,33
+Marcos André,LW,10,0,0,0,4,0,3
+Amath,RW,61,0,0,2,24,0.2,16
+Iván Sánchez,RW,29,0,0,0,19,0,14
+Selim Amallah,LM,89,0,0,2,47,0.1,31
+Chuky san jose,LM,1,0,0,0,1,0,0
+Stanko Jurić,CM,90,0,0,0,72,0,38
+Kike Pérez,RM,61,0,0,1,54,0.2,28
+Víctor Meseguer,RM,29,0,0,1,20,0.1,6
+Lucas Oliveira Rosa,LB,90,0,0,0,71,0,34
+Enzo Boyomo,CB,90,0,0,1,90,0,56
+Javi Sánchez,CB,90,0,0,0,87,0,45
+Luis Pérez,RB,90,0,0,0,60,0,32
+Karl Jakob Hein,GK,90,0,0,0,29,0,13
+Miguel,FW,90,0,0,1,19,0,14
+Enric Franquesa,LW,45,0,0,0,10,0,7
+Óscar Rodríguez Arnaiz,"AM,LW,RW",45,0,0,2,25,0,17
+Juan Cruz,RW,65,0,0,0,31,0,20
+Roberto López,"RW,LW",25,0,0,1,14,0,7
+Julián Chicco,AM,70,0,0,0,24,0,13
+Munir El Haddadi,LW,20,0,0,0,10,0,5
+Seydouba Cissé,DM,65,0,0,0,36,0,30
+Darko Brašanac,DM,25,0,0,0,8,0,3
+Yvan Neyou,DM,84,0,0,2,48,0,39
+Renato Tapia,DM,6,0,0,0,5,0,3
+Javi Hernández,LB,90,0,0,1,56,0.1,24
+Sergi,CB,90,0,0,0,56,0,34
+Jorge Sáenz,CB,90,0,0,0,68,0,46
+Valentin Rosier,RB,90,0,0,0,41,0,14
+Juan Soriano,GK,90,0,0,0,30,0,15
+Gorka Guruzeta,FW,69,0,0,3,24,0.3,10
+Mikel Vesga,DM,21,0,0,0,10,0,3
+Álvaro djaló,LW,57,0,0,0,19,0,13
+Nico Williams,LW,33,0,0,3,13,0.3,8
+Iñaki Williams,RW,90,0,0,3,38,0.2,19
+Oihan Sancet,AM,69,0,0,1,41,0.4,20
+Unai Gómez,AM,21,0,0,2,9,0.1,5
+Beñat Prados,DM,70,1,0,1,46,0,17
+Javi Martón,FW,20,0,0,0,7,0,3
+Mikel Jauregizar,DM,90,0,0,0,58,0,23
+Adama Boiro,LB,78,0,0,0,43,0,17
+Iñigo Lekue,LB,12,0,0,0,5,0,1
+Yeray Álvarez,CB,90,0,0,0,68,0,23
+Daniel Vivian,CB,90,0,0,0,85,0,44
+Óscar de Marcos,RB,90,0,1,0,71,0,27
+Julen Agirrezabala,GK,90,0,0,0,36,0,19
+Rafa Mir,FW,58,0,0,0,21,0,5
+Domingos André Ribeiro Almeida,FW,32,0,0,0,18,0,11
+Hugo Duro,FW,88,0,0,0,24,0,11
+Dani Gómez,FW,2,0,0,0,1,0,1
+Luis Rioja,"LM,RM",90,0,0,0,41,0,17
+Hugo Guillamón,CM,90,0,0,0,44,0,16
+José Luis García Vayá,CM,81,0,0,0,69,0,35
+Javier Guerra,CM,9,0,0,0,4,0,0
+Diego López,RM,81,0,0,1,33,0.1,13
+Martín Tejón,LM,9,0,0,0,2,0,1
+Jesus Vazquez,LB,88,0,0,1,69,0,28
+Thierry Correia,LB,2,0,0,0,5,0,2
+Cristhian Mosquera,CB,90,0,0,0,70,0,50
+César Tárrega,CB,90,0,0,0,67,0,44
+Dimitri Foulquier,RB,90,0,0,0,63,0,22
+Giorgi Mamardashvili,GK,90,0,0,0,42,0,24
+Mikel Oyarzabal,FW,28,0,0,1,5,0.1,4
+Sheraldo Becker,FW,65,0,0,0,16,0,9
+Umar Sadiq,FW,25,0,0,1,11,0,5
+Sergio Gómez,LM,80,0,1,0,40,0,9
+Olasagasti,LM,10,0,0,0,6,0,2
+Brais Méndez,CM,80,1,0,2,38,0.5,18
+Pablo Marín,RM,10,0,0,0,10,0,2
+Martín Zubimendi,"CM,CB",90,0,0,2,60,0.1,22
+Takefusa Kubo,"RM,CM",90,0,0,1,48,0.2,28
+Javi López,LB,90,0,0,1,47,0,15
+Jon Pacheco,CB,45,0,0,0,27,0,20
+Jon Martin,CB,45,0,0,2,22,0.1,15
+Igor Zubeldia,CB,80,0,0,0,47,0,26
+Beñat Turrientes,CM,10,0,0,0,18,0,8
+Hamari Traoré,RB,90,0,0,0,60,0,17
+Álex Remiro,GK,90,0,0,0,41,0,13
+Asier Villalibre,FW,62,1,0,2,13,0.9,7
+Kiké,FW,28,0,0,3,11,0.1,7
+Abderrahman Rebbach,"LW,LM",69,0,0,0,24,0,13
+Toni Martínez,FW,21,1,0,3,11,0.5,5
+Carlos Vicente,"RM,RW",89,0,0,1,43,0,20
+Antonio Blanco,RM,1,0,0,0,3,0,1
+Jon Guridi,"CM,AM",90,0,0,1,51,0,27
+Carlos Benavídez,DM,45,0,0,1,26,0,18
+Stoichkov,"LM,FW",45,0,0,1,21,0,11
+Ander Guevara,"CM,DM",90,0,0,0,52,0,28
+Moussa Diarra,LB,62,0,0,0,27,0,13
+Manu Sánchez,LB,28,0,0,0,24,0,8
+Pica,CB,90,0,0,1,47,0.1,28
+Abdel Abqar,CB,90,0,0,0,51,0,28
+Hugo Novoa,RB,90,0,0,0,32,0,14
+Antonio Sivera,GK,90,0,0,0,23,0,11
+Alexander Sørloth,FW,72,0,0,4,19,0.5,8
+Reinildo Mandava,LB,18,0,0,0,28,0,19
+Julián Álvarez,FW,45,0,0,3,23,0.5,10
+Antoine Griezmann,"FW,AM",45,0,0,0,29,0,19
+Samuel Lino,CM,45,0,0,2,34,0.5,21
+Pablo Barrios,CM,45,0,0,3,56,0.1,44
+Koke,CM,90,0,0,3,102,0.2,59
+Rodrigo De Paul,CM,61,0,0,0,57,0,40
+Ángel Correa,"FW,AM",29,0,0,4,20,0.3,14
+Rodrigo Riquelme,"LB,LM,WB",90,0,0,2,61,0.3,43
+César Azpilicueta,"CB,RB",90,0,0,2,78,0.1,47
+Axel Witsel,CB,90,0,0,0,80,0,53
+Robin Le Normand,CB,90,0,0,1,62,0,36
+Nahuel Molina,RB,45,0,0,1,41,0,18
+Marcos Llorente,"RM,RB,WB",45,0,0,0,30,0,15
+Jan Oblak,GK,90,0,0,0,27,0,12
+Javi Puado,FW,90,0,0,2,33,0.4,17
+Alejo Véliz,FW,63,0,0,1,27,0.1,9
+Walid Cheddira,FW,27,0,0,1,8,0,8
+Álvaro Aguado,CM,86,0,0,2,51,0.1,28
+Jofre,LM,4,0,0,0,3,0,2
+José Gragera,CM,65,0,0,0,31,0,12
+Pol Lozano,CM,25,0,0,0,12,0,4
+Alex Král,CM,90,0,0,1,40,0,14
+Carlos Romero,LB,63,0,0,0,37,0,8
+Brian Oliván,LB,27,0,0,0,18,0,5
+Marash Kumbulla,CB,64,0,0,0,50,0,26
+Sergi Gómez,CB,26,0,0,0,15,0,8
+Fernando Calero,CB,90,0,0,0,59,0,28
+Omar El Hilali,"CB,RB",90,0,0,0,40,0,17
+Álvaro Tejero,"RB,RM",90,0,0,1,43,0,14
+Joan García,GK,90,0,0,0,45,0,24
+Bojan Miovski,FW,63,0,0,1,14,0,6
+Cristhian Stuani,FW,27,1,0,1,6,0.9,3
+Abel Ruiz,FW,73,1,0,3,33,0.5,25
+Yaser Asprilla,"RM,FW",17,0,0,0,11,0,9
+Bryan Gil,LM,80,1,0,2,37,0.3,24
+Donny van de Beek,FW,10,0,1,0,5,0,3
+Iván Martín,CM,90,0,0,0,73,0,48
+Yangel Herrera,CM,63,0,1,0,56,0,28
+Oriol Romeu,CM,27,0,0,0,26,0,18
+Viktor Tsyhankov,RM,80,1,1,2,56,0.6,32
+Portu,LM,10,0,0,0,1,0,0
+Miguel Gutiérrez,LB,90,0,0,0,64,0,36
+Daley Blind,CB,90,0,0,0,100,0,82
+David López,CB,90,0,0,0,100,0,58
+Alejandro Francés,RB,90,0,0,1,91,0,60
+Paulo Gazzaniga,GK,90,0,0,0,27,0,18
+Ante Budimir,FW,57,0,0,0,5,0,3
+Raúl,FW,33,0,0,1,7,0,4
+Bryan Zaragoza,LW,67,0,0,0,17,0,12
+Iker Benito,LW,23,0,0,0,14,0,7
+Jon Moncayola,RW,58,0,0,0,17,0,11
+Rubén García,RW,32,0,0,0,25,0,11
+Aimar Oroz,AM,58,0,0,0,22,0,16
+Pablo Ibáñez,AM,32,0,0,0,22,0,11
+Moi Gómez,DM,90,0,0,0,60,0,45
+Lucas Torró,DM,84,0,0,0,42,0,25
+Javi Martínez,DM,6,0,0,0,10,0,6
+Juan Cruz Armada,LB,90,0,0,0,44,0,21
+Jorge Herrando,CB,90,0,0,0,65,0,45
+Catena,CB,90,0,0,0,49,0,30
+Nacho Vidal,RB,90,0,0,0,42,0,18
+Sergio Herrera,GK,90,0,0,0,50,0,29
+Oliver McBurnie,FW,77,0,1,1,39,0.1,23
+Jaime Mata,FW,13,0,0,0,6,0,4
+Alberto Moleiro,LM,60,1,0,1,39,0.3,29
+Benito Ramírez,LM,30,0,0,0,10,0,3
+Kirian Rodríguez,CM,80,0,0,1,70,0,54
+Manuel Fuster,CM,10,0,0,0,6,0,4
+Javier Muñoz,CM,90,0,0,1,57,0,35
+Sandro Ramírez,RM,77,0,0,2,37,0.3,28
+Viti,RM,13,0,0,0,3,0,1
+José Campaña,DM,80,0,0,0,66,0,48
+Enzo Loiodice,DM,10,0,0,0,3,0,2
+Mika Màrmol,LB,90,0,0,1,56,0,31
+Scott McKenna,CB,90,0,0,0,45,0,25
+Álex Suárez,CB,90,0,0,0,53,0,23
+Marvin,RB,90,0,0,0,53,0,22
+Jasper Cillessen,GK,90,0,0,0,44,0,30
+Kylian Mbappé,"FW,LW",90,0,0,9,40,0.5,33
+Vinicius Júnior,LW,85,1,0,5,37,1.1,28
+Endrick,FW,5,0,0,2,3,0.2,2
+Brahim Díaz,RW,45,0,0,0,28,0,23
+Rodrygo,RW,45,0,0,1,29,0,20
+Luka Modrić,AM,63,0,0,0,57,0,40
+Arda Güler,AM,27,0,0,1,14,0.3,11
+Aurélien Tchouaméni,DM,90,0,0,1,89,0.3,61
+Federico Valverde,DM,90,0,0,2,71,0.2,42
+Ferland Mendy,LB,45,0,0,0,35,0,16
+Fran Garcia,LB,45,0,0,1,44,0,28
+Antonio Rüdiger,CB,90,0,0,2,73,0.2,42
+Éder Militão,CB,90,0,0,0,68,0,45
+Lucas Vázquez,RB,75,0,0,0,61,0,36
+Dani Carvajal,RB,15,0,0,0,21,0,12
+Thibaut Courtois,GK,90,0,0,0,33,0,22
+Robert Lewandowski,FW,72,1,1,6,25,1.2,12
+Ferrán Torres,FW,18,1,1,1,6,0.2,3
+Raphinha,LW,90,3,1,6,55,2.2,24
+Lamine Yamal,RW,90,0,2,0,55,0,41
+Pedri,LM,60,0,0,0,55,0,36
+Fermin López,LM,30,0,0,1,19,0,12
+Marc Casado,CM,60,0,0,0,65,0,42
+Eric García,CM,30,0,0,0,21,0,10
+Dani Olmo,RM,82,1,0,6,48,0.9,35
+Pablo Torre,RM,8,0,0,0,3,0,2
+Alejandro Balde,LB,90,0,0,0,50,0,33
+Iñigo Martínez,CB,90,0,0,1,113,0.1,74
+Pau Cubarsí,CB,60,0,1,1,80,0,43
+Sergi Dominguez,CB,30,0,0,0,36,0,27
+Jules Koundé,RB,90,1,0,1,66,0.1,33
+Marc-André ter Stegen,GK,90,0,0,0,32,0,23
+Marcos André,FW,55,0,0,0,14,0,6
+Juanmi Latasa,FW,35,0,0,0,6,0,0
+Raúl Moro,LM,87,0,0,3,27,0.4,9
+Víctor Meseguer,LM,3,0,0,0,0,0,1
+Selim Amallah,CM,56,0,0,0,15,0,9
+Chuky san jose,"RM,CM",34,0,0,0,5,0,3
+Kike Pérez,"CM,FW",87,0,0,1,30,0.1,7
+Cenk Özkacar,FW,3,0,0,0,3,0,0
+Iván Sánchez,RM,61,0,0,0,31,0,22
+Mario Martín,CM,29,0,0,0,8,0,5
+Stanko Jurić,"DM,CM",90,0,0,0,29,0,9
+Lucas Oliveira Rosa,LB,90,0,0,0,34,0,14
+Javi Sánchez,CB,90,0,0,0,44,0,14
+Eray Cömert,CB,90,0,0,0,44,0,16
+Luis Pérez,RB,90,0,0,0,35,0,17
+Karl Jakob Hein,GK,90,0,0,0,39,0,18
+Gorka Guruzeta,FW,63,0,0,1,24,0,16
+Álvaro djaló,FW,27,0,0,0,11,0,6
+Nico Williams,LW,90,0,0,0,42,0,27
+Iñaki Williams,RW,70,0,0,0,42,0,26
+Álex Berenguer,RW,20,0,0,0,21,0,15
+Oihan Sancet,AM,80,0,0,1,56,0,36
+Unai Gómez,AM,10,0,0,0,7,0,4
+Beñat Prados,DM,63,0,0,0,56,0,37
+Mikel Vesga,DM,27,0,0,0,24,0,16
+Ander Herrera,DM,63,0,0,2,62,0.1,36
+Mikel Jauregizar,DM,27,0,0,3,26,0.1,18
+Yuri Berchiche,LB,90,0,0,1,76,0,49
+Yeray Álvarez,CB,90,0,0,0,84,0,55
+Daniel Vivian,CB,90,0,0,0,93,0,73
+Iñigo Lekue,RB,90,0,0,0,77,0,41
+Julen Agirrezabala,GK,90,0,0,0,26,0,15
+Julián Álvarez,FW,69,0,0,1,21,0.1,7
+Rodrigo Riquelme,WB,21,0,0,0,16,0,9
+Conor Gallagher,AM,69,0,0,1,33,0.1,16
+Rodrigo De Paul,"AM,CM",21,0,0,0,8,0,4
+Antoine Griezmann,AM,83,0,0,1,55,0,25
+Giuliano Simeone,AM,7,0,0,0,4,0,3
+Koke,CM,87,0,0,0,62,0,32
+Ángel Correa,AM,3,1,0,1,6,0.9,3
+Pablo Barrios,CM,90,0,0,0,72,0,33
+Samuel Lino,WB,69,0,0,2,48,0.1,34
+Alexander Sørloth,FW,21,0,1,2,12,0.5,5
+Marcos Llorente,WB,90,0,0,0,71,0,41
+Reinildo Mandava,CB,90,0,0,0,75,0,42
+José María Giménez,CB,90,0,0,1,85,0.1,51
+Robin Le Normand,CB,90,0,0,0,72,0,50
+Juan Musso,GK,90,0,0,0,30,0,13
+Alejo Véliz,FW,90,1,0,3,33,0.4,10
+Javi Puado,FW,70,0,0,1,24,0,11
+Walid Cheddira,FW,20,0,1,0,8,0,2
+Carlos Romero,"LM,LB",90,1,0,2,46,0.5,18
+José Gragera,CM,45,0,0,0,18,0,5
+Álvaro Aguado,CM,45,0,0,1,37,0,17
+Alex Král,CM,90,0,0,2,47,0.2,17
+Jofre,RM,64,0,1,0,20,0,7
+Álvaro Tejero,RM,26,0,0,0,17,0,3
+Brian Oliván,LB,45,0,0,0,24,0,9
+Irvin Cardona,"LM,LB",45,0,0,1,20,0.5,9
+Marash Kumbulla,CB,90,0,0,0,65,0,35
+Fernando Calero,CB,89,0,0,0,67,0,34
+Sergi Gómez,CB,1,0,0,0,1,0,0
+Omar El Hilali,RB,90,0,0,0,50,0,22
+Joan García,GK,90,0,0,0,43,0,31
+Sergio Camello,FW,61,0,0,1,12,0.2,6
+Iván Balliu,"RB,FW",29,0,0,0,17,0,5
+Adri Embarba,FW,90,0,1,2,50,0.1,22
+Álvaro García,LM,71,1,0,2,32,0.6,17
+Randy Nteka,FW,19,0,0,1,7,0,2
+Unai López,CM,72,0,0,1,63,0,28
+Pathé Ciss,CM,18,0,0,0,17,0,11
+Óscar Valentín,CM,90,0,0,0,51,0,25
+Jorge de Frutos,RM,62,0,0,0,25,0,19
+Isaac Palazón Camacho,"LM,RM",28,0,0,3,18,0.1,8
+Alfonso Espino,LB,34,0,0,0,12,0,6
+Pep Chavarría,LB,56,0,0,1,43,0,20
+Abdul Mumin,CB,90,0,0,0,62,0,34
+Florian Lejeune,CB,90,0,0,5,76,0.3,42
+Andrei Ratiu,"RB,RM",90,0,0,1,43,0,21
+Cárdenas,GK,90,0,0,0,30,0,17
+Diego,"FW,LM",90,0,0,4,27,0.2,14
+Munir El Haddadi,LW,45,0,0,0,5,0,4
+Enric Franquesa,"LB,LM",45,0,0,0,32,0,13
+Dani Raba,RW,45,0,0,0,22,0,11
+Juan Cruz,RM,45,0,0,2,30,0,21
+Óscar Rodríguez Arnaiz,"AM,CM",56,0,0,1,24,0,15
+Seydouba Cissé,CM,34,0,0,0,36,0,25
+Darko Brašanac,"CM,DM",90,0,0,1,50,0,17
+Renato Tapia,DM,45,0,0,0,28,0,16
+Yvan Neyou,DM,45,0,0,0,39,0,25
+Javi Hernández,LB,66,0,0,1,43,0,26
+Miguel,FW,24,0,0,0,7,0,3
+Sergi,CB,90,0,0,0,87,0,52
+Jorge Sáenz,CB,90,0,0,0,83,0,41
+Adrià Altimira,RB,56,0,0,0,38,0,21
+Valentin Rosier,RB,34,0,0,0,30,0,21
+Juan Soriano,GK,90,0,0,0,33,0,17
+Vedat Muriqi,FW,90,0,1,1,37,0,23
+Marc Domenech,LW,61,0,0,1,25,0.1,11
+Roberto Navarro,"LM,LW,RW",29,0,0,0,7,0,3
+Takuma Asano,RW,71,0,0,4,29,0.4,14
+Sergi Darder,"FW,LW",19,0,0,0,12,0,8
+Dani Rodríguez,"AM,RM",83,1,0,2,40,0.3,26
+Omar Mascarell,CM,7,0,0,0,6,0,3
+Samu Costa,"DM,CM",90,0,0,0,66,0,34
+Manu Morlanes,"DM,CM",83,0,0,1,46,0,24
+Copete,CB,7,0,0,1,5,0.1,2
+Toni Lato,LB,71,0,0,0,59,0,24
+Johan Mojica,"LB,LM",19,0,0,0,9,0,5
+Antonio Raillo,CB,90,0,0,1,72,0,27
+Martin Valjent,CB,90,0,0,0,55,0,26
+Pablo Maffeo,RB,32,0,0,0,18,0,13
+Antonio Sánchez,"RB,RM",58,0,0,1,28,0.1,9
+Dominik Greif,GK,90,0,0,0,29,0,16
+Hugo Duro,FW,90,1,0,5,21,0.2,8
+Domingos André Ribeiro Almeida,"FW,CM",81,0,0,0,53,0,28
+Javier Guerra,CM,9,0,0,3,17,0.1,11
+Luis Rioja,LM,81,0,0,2,46,0.4,22
+Sergi Canós,LM,9,0,0,4,17,0.1,7
+José Luis García Vayá,CM,90,0,0,2,95,0,45
+Hugo Guillamón,CM,68,0,0,0,40,0,16
+Rafa Mir,"FW,CM",22,0,0,1,3,0.1,0
+Diego López,RM,90,0,0,1,41,0,21
+Jesus Vazquez,LB,69,0,0,0,56,0,22
+Dimitri Foulquier,"RB,LB",21,0,0,1,19,0,12
+Cristhian Mosquera,CB,90,0,0,0,63,0,34
+César Tárrega,CB,90,0,0,1,59,0.1,33
+Thierry Correia,"RB,LB",90,0,0,2,83,0,38
+Giorgi Mamardashvili,GK,90,0,0,0,33,0,16
+Ayoze Pérez,"FW,LM",76,1,0,3,33,0.1,19
+Juan Bernat,LM,14,0,0,0,5,0,2
+Thierno Barry,FW,90,0,0,1,23,0.2,9
+Santi Comesaña,"CM,LM",90,0,1,1,36,0,12
+Pape Gueye,CM,67,0,0,2,39,0,14
+Daniel Parejo,CM,45,0,0,0,28,0,13
+Ilias Akhomach,RM,45,0,0,0,25,0,11
+Yeremi Pino,"RM,LM",68,0,0,1,35,0.1,21
+Ramón Terrats,CM,22,0,0,0,16,0,4
+Sergi Cardona,LB,90,0,0,1,51,0,16
+Logan Costa,CB,90,0,0,0,60,0,31
+Raúl Albiol,CB,90,0,0,0,76,0,33
+Kiko Femenía,RB,90,0,0,0,71,0,31
+Diego Conde,GK,90,0,0,0,38,0,19
+Kiké,FW,63,0,0,1,18,0,10
+Toni Martínez,FW,27,1,0,1,15,0,8
+Stoichkov,FW,69,0,1,3,27,0.1,16
+Ander Guevara,CM,21,0,0,0,5,0,1
+Tomás Conechny,LM,63,0,0,3,27,0.1,14
+Carlos Martín,LM,27,0,0,0,7,0,4
+Antonio Blanco,CM,90,0,0,2,35,0.3,14
+Jon Guridi,"CM,FW",81,0,0,0,23,0,11
+Hugo Novoa,FW,9,0,0,0,3,0,0
+Carlos Vicente,RM,81,1,0,3,30,0.7,14
+Luka Romero,RM,9,0,0,0,6,0.8,4
+Manu Sánchez,LB,90,0,0,0,42,0,18
+Aleksandar Sedlar,CB,90,0,0,1,27,0,16
+Abdel Abqar,CB,90,0,0,0,35,0,14
+Nahuel Tenaglia,RB,90,0,0,0,35,0,16
+Antonio Sivera,GK,90,0,0,0,41,0,25
+Oliver McBurnie,"FW,RW",90,0,0,2,38,0.1,17
+Manuel Fuster,LW,45,0,0,1,34,0,20
+Alberto Moleiro,"LW,LM",45,0,0,3,24,0.1,20
+Jaime Mata,RW,57,0,0,1,20,0.3,12
+Sandro Ramírez,"RM,FW,RW",33,0,0,1,15,0,7
+Kirian Rodríguez,CM,76,0,0,2,73,0.1,41
+Marc Cardona,FW,14,0,0,1,5,0.1,3
+José Campaña,CM,63,0,0,0,75,0,42
+Enzo Loiodice,CM,27,0,0,0,30,0,18
+Javier Muñoz,CM,90,0,0,1,73,0,46
+Mika Màrmol,LB,90,0,0,0,60,0,27
+Scott McKenna,CB,90,0,0,0,94,0,56
+Álex Suárez,CB,90,0,0,0,104,0,62
+Viti,RB,57,0,0,0,35,0,17
+Marvin,RB,33,0,0,0,18,0,11
+Jasper Cillessen,GK,90,0,0,0,32,0,19
+Ante Budimir,FW,76,0,1,3,27,0.2,13
+Raúl,FW,14,0,0,0,5,0,3
+Bryan Zaragoza,LM,62,0,1,0,27,0,18
+Rubén Peña,"RM,LM",28,0,0,0,12,0,3
+Aimar Oroz,CM,87,0,0,1,41,0,26
+Moi Gómez,CM,3,0,0,0,5,0,2
+Jon Moncayola,CM,87,0,0,1,42,0,16
+Pablo Ibáñez,CM,3,0,0,0,3,0,2
+Rubén García,RM,76,0,0,2,62,0.3,40
+Iker Benito,LM,14,0,0,0,4,0,1
+Lucas Torró,DM,90,0,0,1,74,0,32
+Abel,LB,90,1,0,1,45,0.1,24
+Enzo Boyomo,CB,90,1,0,1,57,0.1,29
+Catena,CB,90,0,0,0,59,0,28
+Jesús Areso,RB,90,0,0,0,90,0,53
+Sergio Herrera,GK,90,0,0,0,37,0,17
+Borja Iglesias,FW,63,1,0,2,20,1.2,14
+Anastasios Douvikas,FW,27,0,0,0,5,0,0
+Williot Swedberg,LW,45,0,0,0,13,0,12
+Alfon,LW,40,0,0,3,22,0.1,17
+Iago Aspas,RW,90,0,0,3,45,0.2,32
+Hugo Álvarez,LM,90,0,0,2,66,0.1,42
+Ilaix Moriba,CM,75,0,0,0,52,0,39
+Hugo Sotelo,CM,15,0,0,0,15,0,13
+Fran Beltrán,CM,45,0,0,1,23,0,14
+Damián Rodríguez,CM,45,0,0,0,33,0,20
+Óscar Mingueza,RM,90,0,1,1,67,0,38
+Carlos Dominguez,CB,45,0,0,0,42,0,25
+Carl Starfelt,CB,45,0,0,0,24,0,13
+Jailson Siqueira,CB,90,0,0,0,60,0,39
+Javi Rodríguez,CB,90,0,0,0,60,0,46
+Iván Villar,GK,90,0,0,0,36,0,19
+Isaac Romero,FW,90,0,0,5,29,0.3,16
+Chidera Ejuke,"LW,AM",90,0,0,2,69,0.1,47
+Dodi Lukebakio,"RW,WB",64,0,0,3,16,0.2,12
+Jesús Navas,"WB,RB",26,0,0,0,11,0,7
+Juanlu Sánchez,AM,64,0,0,0,20,0,10
+Peque,AM,26,0,0,1,12,0.1,5
+Albert Sambi Lokonga,"DM,CM",90,0,0,1,61,0,35
+Lucien Agoume,"DM,CM",81,0,0,0,54,0,30
+Djibril Sow,DM,9,0,0,0,7,0,5
+Valentín Barco,"LB,WB",90,0,0,3,82,0.1,34
+Marcão,CB,90,0,0,0,75,0,53
+Loïc Bade,CB,90,0,0,1,69,0.1,42
+Carmona,"RB,CB",81,0,0,0,47,0,25
+Stanis Idumbo,RW,9,0,0,0,6,0,5
+Ørjan Nyland,GK,90,0,0,0,20,0,10
+Abel Ruiz,FW,90,1,0,1,28,0.8,16
+Bryan Gil,"LW,RW",88,0,0,1,34,0.1,24
+Portu,RM,2,0,0,0,5,0,3
+Viktor Tsyhankov,RW,45,0,0,0,29,0,13
+Arnaut Danjuma,LW,45,0,0,1,16,0.3,9
+Yangel Herrera,LM,45,0,0,1,26,0,8
+Jhon Solis,LM,45,0,0,0,18,0,10
+Oriol Romeu,CM,90,0,0,0,45,0,20
+Iván Martín,RM,57,1,0,1,28,0.6,9
+Yaser Asprilla,"RM,RW",33,0,0,1,16,0,11
+Miguel Gutiérrez,LB,90,0,1,1,54,0,18
+Daley Blind,CB,90,0,0,0,95,0,51
+David López,CB,90,0,0,1,75,0,43
+Alejandro Francés,RB,88,0,0,2,74,0.1,26
+Arnau Martinez,RB,2,0,0,0,10,0,2
+Paulo Gazzaniga,GK,90,0,0,0,40,0,18
+Bertuğ Yıldırım,FW,77,0,0,0,17,0,11
+Peter Federico,"RW,LW",13,0,0,1,12,0,6
+Alex Sola,"LW,RW",84,0,0,2,40,0,24
+John Joe,LW,6,0,0,1,8,0,4
+Carles Pérez,RW,66,0,0,3,32,0.2,16
+Mauro Arambarri,"DM,RW",24,0,0,1,21,0,10
+Chrisantus Uche,AM,89,0,0,1,31,0.1,18
+Jesús Santiago,AM,1,0,0,0,4,0,1
+Nabil Aberdin,DM,66,0,0,1,21,0,8
+Carles Aleñá,"FW,DM",24,0,0,1,12,0.2,8
+Luis Milla,DM,90,0,0,1,65,0,32
+Diego Rico,LB,90,0,0,0,70,0,24
+Omar Alderete,CB,90,0,0,2,64,0,35
+Djené,CB,90,0,0,0,42,0,14
+Iglesias,RB,90,0,0,2,69,0,26
+David Soria,GK,90,0,0,0,14,0,7
+Umar Sadiq,FW,65,0,0,1,21,0,8
+Orri Steinn Óskarsson,FW,25,0,0,0,12,0,4
+Brais Méndez,FW,27,0,0,0,9,0,2
+Ander Barrenetxea,LM,63,0,0,0,20,0,10
+Sergio Gómez,"FW,LM",90,0,0,0,35,0,13
+Beñat Turrientes,CM,90,0,0,0,33,0,8
+Martín Zubimendi,CM,90,0,0,0,49,0,15
+Takefusa Kubo,RM,59,0,0,0,20,0,10
+Sheraldo Becker,RM,31,0,0,0,9,0,3
+Jon Aramburu,LB,58,0,0,0,36,0,10
+Javi López,LB,32,0,0,0,21,0,3
+Jon Pacheco,CB,90,0,0,0,60,0,19
+Igor Zubeldia,CB,45,0,0,0,43,0,27
+Jon Martin,CB,45,0,0,0,22,0,3
+Hamari Traoré,RB,65,0,0,0,43,0,11
+Aihen Muñoz,RB,25,0,0,0,12,0,0
+Álex Remiro,GK,90,0,0,0,51,0,20
+Kylian Mbappé,FW,83,2,0,8,46,1.7,32
+Luka Modrić,RM,7,0,0,0,28,0,15
+Vinicius Júnior,LW,90,0,0,2,56,0.1,42
+Rodrygo,"RW,FW",88,0,0,2,56,0,34
+Endrick,FW,2,0,0,2,2,0.2,1
+Dani Ceballos,LM,64,0,0,0,61,0,33
+Brahim Díaz,"RM,RW",26,0,0,0,18,0,13
+Aurélien Tchouaméni,CM,90,0,0,1,86,0.1,43
+Federico Valverde,"RM,LM",90,0,1,2,73,0.1,51
+Ferland Mendy,LB,64,0,0,0,52,0,28
+Fran Garcia,LB,26,0,0,0,14,0,7
+Antonio Rüdiger,CB,90,0,0,1,84,0.1,45
+Éder Militão,CB,90,0,0,3,71,0.2,38
+Dani Carvajal,RB,90,0,0,0,87,0,30
+Thibaut Courtois,GK,90,0,0,0,43,0,26
+Aitor Ruibal,FW,56,0,0,1,17,0,12
+Vitor Roque,FW,34,0,0,2,11,0.1,6
+Abde Ezzalzouli,LW,82,0,0,3,43,0.3,24
+Juanmi,LW,8,0,0,0,5,0,3
+Rodri,RW,71,0,0,1,50,0,32
+Assane Diao,RW,19,0,0,0,5,0,3
+Pablo Fornals,AM,82,0,0,1,53,0.1,39
+Iker Losada,AM,8,0,0,0,5,0,4
+William Carvalho,DM,56,0,0,0,46,0,31
+Johnny Cardoso,DM,34,0,0,0,29,0,20
+Marc Roca,DM,90,0,0,1,64,0,41
+Romain Perraud,LB,90,0,0,2,67,0.1,40
+Natan,CB,90,0,0,0,29,0,19
+Diego Llorente,CB,90,0,0,0,43,0,25
+Youssouf Sabaly,RB,90,0,0,0,66,0,42
+Rui Silva,GK,90,0,0,0,32,0,16
+Assane Diao,FW,90,0,0,2,19,0,5
+Abde Ezzalzouli,LW,90,1,0,4,71,1.2,40
+Ezequiel Ávila,RW,60,0,0,0,33,0,13
+Giovani Lo Celso,AM,30,0,0,0,34,0,16
+Pablo Fornals,"AM,RW",86,0,0,1,69,0,30
+Aitor Ruibal,RW,4,0,0,0,6,0,3
+William Carvalho,DM,25,0,0,0,17,0,9
+Sergi Altimira,DM,65,0,0,2,66,0.1,34
+Marc Roca,DM,90,0,0,1,85,0,49
+Romain Perraud,LB,90,0,0,1,96,0,42
+Natan,CB,90,0,0,1,80,0,54
+Diego Llorente,CB,90,0,0,0,85,0,42
+Youssouf Sabaly,RB,61,0,0,1,41,0,14
+Héctor Bellerín,RB,29,0,1,0,18,0,6
+Rui Silva,GK,90,0,0,0,30,0,15
+Sébastien Haller,FW,90,0,0,0,33,0,10
+Enric Franquesa,LW,60,0,0,0,26,0,15
+Renato Tapia,LW,30,0,0,1,19,0,6
+Juan Cruz,RW,45,0,0,0,13,0,8
+Adrià Altimira,RW,45,0,0,0,20,0,8
+Óscar Rodríguez Arnaiz,AM,60,0,0,0,34,0,13
+Seydouba Cissé,AM,30,0,0,0,18,0,10
+Yvan Neyou,DM,65,0,0,1,38,0,23
+Julián Chicco,DM,25,0,0,0,20,0,10
+Darko Brašanac,DM,90,0,0,1,35,0.1,12
+Javi Hernández,LB,90,0,0,0,48,0,26
+Sergi,CB,90,0,0,0,44,0,19
+Jorge Sáenz,CB,45,0,0,0,23,0,11
+Matija Nastasić,CB,45,0,0,0,19,0,7
+Valentin Rosier,RB,90,0,0,0,48,0,19
+Juan Soriano,GK,90,0,0,0,39,0,12
+Vedat Muriqi,FW,90,0,0,1,28,0,16
+Marc Domenech,LW,45,0,0,1,8,0,3
+Valery Fernández,"RM,RB",45,0,0,0,17,0,12
+Takuma Asano,"RW,LW",62,0,0,1,29,0,23
+Sergi Darder,"CM,FW",28,0,0,0,28,0,22
+Dani Rodríguez,AM,61,0,0,0,40,0,23
+Roberto Navarro,LM,29,0,0,1,19,0.1,17
+Samu Costa,"DM,CM",90,0,0,3,78,0.1,56
+Manu Morlanes,"DM,CM",71,0,0,0,41,0,29
+Johan Mojica,LB,19,0,0,0,20,0,13
+Toni Lato,LB,68,0,0,0,47,0,23
+Antonio Raillo,CB,90,0,0,1,67,0,40
+Martin Valjent,"CB,RB",90,0,0,1,50,0.1,30
+Antonio Sánchez,"RB,RW",80,0,0,0,55,0,34
+Copete,CB,10,0,0,0,9,0,4
+Dominik Greif,GK,90,0,0,0,44,0,29
+Thierno Barry,FW,90,0,0,5,32,0.3,24
+Ayoze Pérez,FW,90,1,0,4,35,0.7,28
+Alex Baena,"LM,CM",90,0,1,5,69,0.2,46
+Daniel Parejo,CM,73,0,0,0,50,0,31
+Nicolas Pépé,RM,17,0,0,0,18,0,11
+Santi Comesaña,CM,84,0,0,1,54,0,35
+Ramón Terrats,CM,6,0,0,0,7,0,5
+Ilias Akhomach,RM,62,0,0,2,12,0.1,8
+Yeremi Pino,"LM,RM",28,0,1,1,12,0.1,10
+Sergi Cardona,LB,85,0,0,1,63,0,34
+Juan Bernat,LB,5,0,0,0,6,0,5
+Logan Costa,CB,90,1,0,1,60,0.2,34
+Raúl Albiol,CB,90,0,0,1,54,0.1,26
+Kiko Femenía,RB,90,0,0,0,56,0,30
+Diego Conde,GK,90,0,0,0,25,0,17
+Alejo Véliz,FW,56,0,0,1,6,0.1,6
+Walid Cheddira,FW,34,0,0,1,14,0.1,8
+Javi Puado,"FW,RM",90,3,0,2,30,1.3,16
+Jofre,"LM,RM",74,0,0,0,17,0,12
+Sergi Gómez,CB,16,0,0,0,2,0,1
+Álvaro Aguado,CM,57,0,0,1,27,0,18
+José Gragera,CM,33,0,0,0,6,0,3
+Alex Král,CM,90,0,0,0,28,0,17
+Álvaro Tejero,RM,57,0,2,1,35,0.1,20
+Irvin Cardona,LM,33,0,0,0,18,0,5
+Carlos Romero,LB,84,0,0,2,30,0,19
+Brian Oliván,LB,6,0,0,0,5,0,2
+Leandro Cabrera,CB,90,0,0,0,58,0,30
+Marash Kumbulla,CB,90,0,0,0,71,0,45
+Omar El Hilali,RB,90,0,0,0,58,0,24
+Joan García,GK,90,0,0,0,35,0,21
+Kiké,FW,63,0,0,1,21,0,18
+Ander Guevara,"DM,FW",27,0,0,1,28,0.1,20
+Tomás Conechny,LW,77,1,0,3,42,0.7,24
+Asier Villalibre,FW,13,0,0,1,8,0,6
+Carlos Vicente,"RW,AM",90,0,0,2,37,0.1,26
+Stoichkov,AM,90,0,0,3,44,0.2,30
+Antonio Blanco,DM,63,0,0,0,38,0,27
+Santiago Mouriño,"CB,DM",27,0,0,1,29,0.1,21
+Jon Guridi,DM,63,0,0,0,37,0,25
+Joan Jordán,"DM,RW",27,0,1,1,40,0,26
+Manu Sánchez,LB,90,0,0,0,59,0,29
+Aleksandar Sedlar,CB,90,0,0,0,62,0,34
+Abdel Abqar,CB,63,0,0,1,28,0,12
+Toni Martínez,"FW,CB",27,0,0,4,15,0.4,8
+Nahuel Tenaglia,RB,90,1,0,1,55,0.1,37
+Antonio Sivera,GK,90,0,0,0,31,0,18
+Isaac Romero,FW,89,0,0,4,38,0.3,19
+Gonzalo Montiel,"LM,FW",1,0,0,1,4,0,2
+Chidera Ejuke,LW,66,0,0,0,43,0,31
+Dodi Lukebakio,"FW,LW",24,0,0,1,9,0.4,4
+Peque,RW,75,0,0,0,33,0,18
+Lucien Agoume,"CM,RW",15,0,0,0,13,0,6
+Adrià Pedrosa,"LM,WB,LB",90,0,1,1,59,0.1,22
+Djibril Sow,"CM,AM",89,0,0,0,47,0,27
+Valentín Barco,"RM,AM",1,0,0,0,4,0,1
+Nemanja Gudelj,CM,90,0,0,0,60,0,20
+Jesús Navas,RM,67,1,0,2,45,0.5,24
+Juanlu Sánchez,"RM,WB",19,0,0,0,5,0,1
+Marcão,CB,79,0,0,0,60,0,24
+Kike Salas,CB,11,0,0,0,7,0,1
+Tanguy Nianzou,CB,90,0,0,0,45,0,18
+Carmona,"CB,RB",90,0,0,1,67,0,31
+Ørjan Nyland,GK,90,0,0,0,51,0,25
+Bertuğ Yıldırım,FW,90,0,0,2,19,0.1,8
+Chrisantus Uche,"FW,CM",83,0,0,1,25,0.5,13
+Jesús Santiago,CM,7,0,0,0,4,0,2
+Alex Sola,LM,71,0,0,0,20,0,11
+Peter Federico,"RM,LM,WB",19,0,0,0,2,0,1
+Luis Milla,CM,90,0,0,1,57,0,24
+Mauro Arambarri,CM,70,0,0,0,23,0,11
+Carles Aleñá,FW,20,0,0,1,9,0,2
+Carles Pérez,RM,70,0,0,3,27,0.1,12
+Gorka Rivera Alonso,"LM,LB,CB",20,0,0,0,17,0,5
+Diego Rico,LB,83,0,0,2,54,0,16
+Alberto Risco,"RM,WB",7,0,0,3,12,0.1,6
+Juan Berrocal,CB,89,0,0,0,40,0,15
+John Joe,CM,1,0,0,0,3,0,1
+Djené,CB,90,0,0,1,41,0.1,17
+Iglesias,"RB,CB",90,0,0,1,50,0,17
+David Soria,GK,90,0,0,0,23,0,13
+Umar Sadiq,FW,62,0,0,1,21,0.1,14
+Orri Steinn Óskarsson,FW,28,0,0,0,6,0,3
+Sheraldo Becker,LW,62,0,0,1,17,0.2,12
+Ander Barrenetxea,LW,28,0,0,0,17,0,9
+Takefusa Kubo,RW,90,0,0,1,54,0.1,39
+Sergio Gómez,CM,90,0,0,1,72,0,37
+Martín Zubimendi,CM,90,0,0,0,79,0,50
+Luka Sučić,CM,74,0,0,4,48,0.4,32
+Beñat Turrientes,CM,16,0,0,0,14,0,8
+Javi López,LB,77,0,0,0,42,0,24
+Aihen Muñoz,LB,13,0,0,0,16,0,11
+Nayef Aguerd,CB,74,0,0,2,43,0.3,28
+Jon Pacheco,CB,16,0,0,0,14,0,12
+Igor Zubeldia,CB,90,0,0,0,52,0,24
+Jon Aramburu,RB,90,0,0,1,58,0,32
+Álex Remiro,GK,90,0,0,0,25,0,9
+Kylian Mbappé,FW,89,1,0,2,38,0.9,26
+Endrick,FW,1,0,0,0,3,0,2
+Vinicius Júnior,LW,90,1,0,4,41,1,30
+Brahim Díaz,RW,24,0,0,0,16,0,11
+Rodrygo,RW,66,0,0,0,26,0,20
+Arda Güler,AM,76,0,0,2,43,0.1,29
+Lucas Vázquez,AM,14,0,0,0,12,0,7
+Luka Modrić,DM,90,0,0,2,77,0.1,42
+Federico Valverde,DM,90,0,0,1,72,0,41
+Ferland Mendy,LB,90,0,0,0,63,0,32
+Antonio Rüdiger,CB,90,0,0,1,66,0.1,48
+Éder Militão,CB,90,0,0,1,80,0.1,52
+Dani Carvajal,RB,90,0,0,1,70,0.1,39
+Thibaut Courtois,GK,90,0,0,0,38,0,24
+Borja Iglesias,FW,68,1,0,3,20,0.6,13
+Anastasios Douvikas,FW,22,1,0,4,9,0.8,9
+Pablo Durán,LW,75,0,1,1,25,0.1,15
+Williot Swedberg,LW,15,0,0,0,6,0,5
+Iago Aspas,RW,90,0,1,3,48,0.1,43
+Hugo Álvarez,LM,90,1,0,2,71,0.2,49
+Fran Beltrán,CM,90,0,0,0,50,0,34
+Hugo Sotelo,CM,68,0,0,0,56,0,42
+Damián Rodríguez,CM,22,0,0,0,22,0,17
+Óscar Mingueza,RM,90,0,0,0,66,0,36
+Jailson Siqueira,CB,74,0,0,1,59,0,45
+Marcos Alonso,CB,16,0,0,0,7,0,5
+Carl Starfelt,CB,90,0,0,0,68,0,53
+Javi Rodríguez,CB,88,0,0,0,67,0,50
+Joseph Aidoo,CB,2,0,0,0,8,0,7
+Vicente Guaita,GK,90,0,0,0,28,0,18
+Juanmi Latasa,FW,90,0,0,2,17,0.2,9
+Chuky san jose,FW,45,0,0,0,9,0,4
+Iván Sánchez,RM,45,0,0,0,25,0,15
+Selim Amallah,CM,84,0,1,0,40,0,15
+Kenedy,CM,6,0,0,0,4,0,3
+Mario Martín,"CM,DM",80,0,0,1,46,0,27
+Kike Pérez,CM,45,0,0,0,31,0,17
+Víctor Meseguer,CM,45,0,0,1,19,0.1,7
+Amath,LB,45,0,0,0,17,0,11
+Raúl Moro,LM,45,1,0,1,26,0.1,15
+Lucas Oliveira Rosa,"LB,CB",90,0,0,1,53,0,18
+Cenk Özkacar,CB,90,0,0,0,64,0,27
+Eray Cömert,CB,63,0,0,0,61,0,39
+Stanko Jurić,CB,27,0,0,0,14,0,10
+Luis Pérez,RB,90,0,0,0,55,0,17
+Karl Jakob Hein,GK,90,0,0,0,61,0,30
+Abel Ruiz,FW,68,0,0,1,20,0.1,8
+Cristhian Stuani,FW,22,1,0,2,5,0.5,2
+Arnaut Danjuma,LW,54,0,0,0,14,0,11
+Portu,LW,36,0,1,0,6,0,4
+Bryan Gil,RW,53,0,0,2,28,0.5,22
+Yaser Asprilla,AM,37,0,0,0,28,0,21
+Viktor Tsyhankov,"AM,RW",68,0,0,1,17,0,9
+Donny van de Beek,RW,22,0,0,1,7,0.1,2
+Jhon Solis,DM,90,0,0,0,55,0,35
+Iván Martín,DM,90,0,0,0,54,0,37
+Miguel Gutiérrez,LB,90,0,0,1,67,0,37
+Daley Blind,CB,90,0,0,0,71,0,44
+David López,CB,90,0,0,0,65,0,39
+Alejandro Francés,RB,84,0,0,1,49,0,29
+Arnau Martinez,RB,6,0,0,0,7,0,5
+Paulo Gazzaniga,GK,90,0,0,0,43,0,18
+Robert Lewandowski,FW,68,0,1,3,23,0.3,13
+Ferrán Torres,FW,17,0,0,0,10,0,4
+Raphinha,"LW,AM",90,0,0,1,48,0,26
+Lamine Yamal,RW,89,2,0,5,53,0.7,30
+Gerard Martín,RW,1,0,0,0,5,0,3
+Dani Olmo,AM,60,1,0,1,36,0,22
+Eric García,"DM,AM",30,0,0,0,13,0,8
+Pedri,DM,68,1,0,1,46,0.2,18
+Pau Victor Delgado,LW,22,0,0,3,16,0.5,9
+Marc Casado,DM,90,0,1,1,56,0,33
+Alejandro Balde,LB,90,0,0,2,58,0.1,29
+Iñigo Martínez,CB,90,0,0,1,90,0,55
+Pau Cubarsí,CB,60,0,0,0,45,0,30
+Héctor Fort,RB,30,0,0,1,17,0,5
+Jules Koundé,"RB,CB",90,0,1,1,65,0,35
+Marc-André ter Stegen,GK,90,0,0,0,47,0,33
+Oliver McBurnie,FW,76,0,0,0,23,0,11
+Jaime Mata,FW,14,0,0,0,4,0,2
+Alberto Moleiro,LW,90,0,0,3,54,0.2,38
+Sandro Ramírez,RW,90,1,0,2,35,0.1,15
+Kirian Rodríguez,CM,90,0,1,3,119,0.8,69
+José Campaña,CM,45,0,0,0,50,0,24
+Fabio González,CM,45,0,0,2,55,0.1,36
+Javier Muñoz,CM,62,0,0,0,26,0,12
+Fábio Silva,CM,28,0,0,2,12,0,7
+Mika Màrmol,"CB,LB",90,0,0,0,106,0,59
+Scott McKenna,CB,76,0,0,0,67,0,42
+Benito Ramírez,CB,14,0,0,2,19,0.1,11
+Álex Suárez,CB,45,0,0,0,42,0,25
+Álex Muñoz,LB,45,1,0,1,52,0.2,30
+Marvin,RB,90,0,0,0,65,0,40
+Jasper Cillessen,GK,90,0,0,0,40,0,25
+Gorka Guruzeta,FW,58,0,0,1,29,0,13
+Mikel Vesga,CM,32,0,0,0,14,0,3
+Nico Williams,"LW,LM",70,1,0,2,38,0.2,24
+Álex Berenguer,LM,20,0,0,0,11,0,2
+Iñaki Williams,"RW,RM",90,0,3,2,41,0.5,28
+Oihan Sancet,"AM,FW",70,1,0,2,35,0.4,20
+Unai Gómez,FW,20,0,0,0,10,0,3
+Iñigo Ruiz de Galarreta,DM,58,0,0,0,31,0,16
+Beñat Prados,CM,32,0,0,0,13,0,2
+Mikel Jauregizar,DM,55,0,0,0,28,0,8
+Yuri Berchiche,LB,90,0,0,1,70,0.1,19
+Aitor Paredes,CB,90,1,0,1,45,0.9,23
+Daniel Vivian,CB,90,0,0,0,53,0,19
+Óscar de Marcos,RB,76,0,0,0,50,0,15
+Andoni Gorosabel,RB,14,0,0,0,8,0,0
+Julen Agirrezabala,GK,90,0,0,0,29,0,11
+Alexander Sørloth,FW,60,0,0,4,26,0.6,14
+Julián Álvarez,FW,30,1,0,1,9,0.5,3
+Antoine Griezmann,"FW,CM",75,1,0,2,61,0.7,31
+Giuliano Simeone,"LM,CM",15,0,0,0,5,0,1
+Conor Gallagher,CM,90,1,0,1,48,0.7,20
+Koke,CM,90,0,0,0,72,0,29
+Rodrigo De Paul,CM,60,0,1,0,54,0,31
+Ángel Correa,"FW,RM",30,0,0,0,11,0,5
+Samuel Lino,LB,66,0,1,3,50,0.4,31
+Rodrigo Riquelme,LB,24,0,0,0,7,0,7
+César Azpilicueta,CB,76,0,0,0,55,0,26
+Reinildo Mandava,CB,14,0,0,0,13,0,6
+José María Giménez,CB,90,0,0,1,80,0.1,48
+Robin Le Normand,CB,90,0,0,1,81,0.2,57
+Marcos Llorente,RB,90,0,0,1,83,0,45
+Jan Oblak,GK,90,0,0,0,23,0,12
+Dani Gómez,FW,78,0,0,0,18,0,5
+Martín Tejón,FW,12,0,0,0,6,0,4
+Javier Guerra,FW,78,0,0,2,44,0,24
+Germán Valera,RM,12,0,0,1,9,0,6
+Luis Rioja,LM,69,0,0,0,41,0,14
+Sergi Canós,LM,21,0,0,1,20,0.1,13
+José Luis García Vayá,CM,90,0,0,0,65,0,32
+Hugo Guillamón,CM,45,0,0,0,23,0,7
+Enzo Barrenechea,CM,45,0,0,0,42,0,14
+Diego López,"RM,FW",90,0,0,0,46,0,18
+Thierry Correia,"LB,RB",90,0,0,1,76,0,28
+Cristhian Mosquera,CB,90,0,0,0,63,0,33
+César Tárrega,CB,90,0,0,0,67,0,24
+Dimitri Foulquier,RB,70,0,0,0,45,0,23
+Jesus Vazquez,LB,20,0,0,0,12,0,4
+Giorgi Mamardashvili,GK,90,0,0,0,31,0,5
+Sergio Camello,FW,86,0,0,6,37,1.2,18
+Sergi Guardiola,FW,4,0,0,0,7,0,7
+Álvaro García,LW,86,0,0,3,38,0.1,19
+James Rodríguez,LW,4,0,0,0,3,0,1
+Adri Embarba,RW,56,0,0,1,42,0,23
+Isaac Palazón Camacho,RW,34,0,0,1,23,0,15
+Óscar Trejo,AM,56,0,0,1,39,0.1,23
+Jorge de Frutos,AM,34,0,0,2,16,0.1,14
+Gerard Gumbau,DM,63,0,1,0,48,0,19
+Unai López,DM,27,1,0,1,34,0.1,16
+Óscar Valentín,DM,90,0,0,0,66,0,36
+Pep Chavarría,LB,90,0,1,0,78,0,35
+Abdul Mumin,CB,90,1,0,1,62,0,27
+Florian Lejeune,CB,90,0,1,0,59,0,32
+Andrei Ratiu,RB,90,1,0,1,71,0.1,38
+Augusto Batalla,GK,90,0,0,0,31,0,19
+Raúl,FW,65,1,0,1,20,0,13
+Ante Budimir,FW,25,0,0,0,6,0,2
+Bryan Zaragoza,LW,83,0,0,2,25,0.1,18
+Moi Gómez,LW,7,0,0,0,4,0,1
+Rubén García,RW,75,0,0,0,41,0,16
+José Arnaiz,RW,15,0,0,0,12,0,9
+Aimar Oroz,LM,65,0,0,0,20,0,7
+Pablo Ibáñez,LM,25,0,0,0,11,0,4
+Lucas Torró,CM,90,0,0,0,46,0,13
+Jon Moncayola,RM,75,0,0,0,32,0,12
+Rubén Peña,RM,15,0,0,1,4,0.1,4
+Abel,LB,90,0,0,0,40,0,14
+Enzo Boyomo,CB,90,0,0,0,34,0,10
+Catena,CB,90,0,0,1,34,0.1,6
+Jesús Areso,RB,90,0,0,0,40,0,12
+Sergio Herrera,GK,90,0,0,0,41,0,19
+Cyle Larin,FW,62,0,0,0,18,0,4
+Takuma Asano,FW,28,0,0,0,7,0,2
+Sergi Darder,LW,87,0,0,2,53,0.1,23
+Valery Fernández,LW,3,0,0,0,4,0,2
+Roberto Navarro,RW,69,0,0,0,41,0,19
+Dani Rodríguez,RW,21,0,0,0,11,0,5
+Abdón Prats,AM,62,1,0,1,22,0.8,9
+Vedat Muriqi,AM,28,0,0,1,15,0.2,8
+Omar Mascarell,DM,90,0,0,0,57,0,15
+Samu Costa,DM,87,0,0,1,41,0,14
+Manu Morlanes,DM,3,0,0,0,2,0,0
+Johan Mojica,LB,90,0,0,0,61,0,22
+Copete,CB,90,0,0,1,38,0,12
+Antonio Raillo,CB,90,0,0,3,47,0,13
+Antonio Sánchez,RB,90,0,0,0,47,0,20
+Leo Román,GK,90,0,0,0,39,0,18
+Mikel Oyarzabal,FW,59,0,0,0,13,0,5
+Orri Steinn Óskarsson,FW,31,0,0,1,6,0.1,5
+Ander Barrenetxea,LM,77,0,0,3,43,0.2,23
+Sheraldo Becker,LM,13,0,0,1,17,0,14
+Luka Sučić,CM,90,0,0,4,64,0.2,33
+Beñat Turrientes,CM,60,0,0,1,27,0,16
+Pablo Marín,CM,30,0,0,0,17,0,13
+Sergio Gómez,RM,45,0,0,1,26,0,14
+Takefusa Kubo,RM,45,0,0,1,28,0,18
+Martín Zubimendi,DM,90,0,0,1,76,0,44
+Aihen Muñoz,LB,90,0,0,0,69,0,35
+Nayef Aguerd,CB,90,0,0,0,95,0,64
+Igor Zubeldia,CB,90,0,0,0,79,0,49
+Aritz Elustondo,RB,59,0,0,0,50,0,27
+Álvaro Odriozola,RB,31,0,0,0,22,0,17
+Álex Remiro,GK,90,0,0,0,37,0,24
+Vitor Roque,FW,85,0,0,4,30,1,17
+Ezequiel Ávila,FW,5,0,0,0,9,0,3
+Abde Ezzalzouli,LW,85,0,0,4,47,0.5,35
+Juanmi,LW,5,0,0,1,8,0,7
+Pablo Fornals,RW,76,0,0,2,56,0.1,36
+Aitor Ruibal,RW,14,0,0,0,12,0,10
+Giovani Lo Celso,AM,77,2,0,3,61,1,40
+Iker Losada,AM,13,0,0,0,16,0,10
+Marc Roca,DM,90,0,1,0,52,0,39
+Sergi Altimira,DM,90,0,0,0,51,0,34
+Romain Perraud,LB,45,0,0,1,23,0,16
+Ricardo Rodríguez,LB,45,0,0,0,30,0,15
+Natan,CB,90,0,0,0,74,0,42
+Diego Llorente,CB,90,0,0,1,77,0.4,52
+Héctor Bellerín,RB,90,0,0,0,74,0,36
+Rui Silva,GK,90,0,0,0,46,0,28
+Bertuğ Yıldırım,FW,74,0,0,0,21,0,5
+Borja Mayoral,FW,16,0,0,1,17,0,10
+Peter Federico,LW,45,0,0,0,19,0,3
+Carles Pérez,LW,45,0,0,1,20,0,17
+Alex Sola,RW,61,0,0,1,17,0,9
+Mauro Arambarri,RW,29,1,0,2,17,0.2,13
+Carles Aleñá,AM,74,0,0,0,28,0,16
+Jesús Santiago,AM,16,0,0,0,11,0,4
+Chrisantus Uche,DM,90,0,0,3,44,0.1,25
+Luis Milla,DM,74,0,0,2,29,0.1,12
+Alberto Risco,DM,16,0,0,0,14,0,9
+Diego Rico,LB,90,0,1,1,53,0,14
+Omar Alderete,CB,90,0,0,3,45,0.1,16
+Djené,CB,90,0,0,1,35,0,10
+Iglesias,RB,90,0,0,0,43,0,16
+David Soria,GK,90,0,0,0,28,0,8
+Sébastien Haller,FW,79,0,0,2,26,0.3,11
+Diego,FW,11,0,0,1,5,0.1,1
+Miguel,FW,90,0,0,3,31,0.4,15
+Roberto López,CM,79,0,0,1,47,0,11
+Munir El Haddadi,LM,11,0,0,0,6,0,3
+Seydouba Cissé,CM,90,0,0,1,72,0,23
+Darko Brašanac,CM,71,0,0,0,30,0,7
+Juan Cruz,"RM,CM",19,0,0,2,21,0.1,8
+Enric Franquesa,LB,90,0,0,2,55,0.1,18
+Matija Nastasić,CB,90,0,0,0,49,0,30
+Sergi,CB,90,0,0,1,77,0,42
+Jorge Sáenz,CB,71,0,0,0,67,0,36
+Renato Tapia,"CM,CB",19,0,0,0,17,0,8
+Valentin Rosier,RB,90,0,0,1,62,0,27
+Juan Soriano,GK,90,0,0,0,25,0,11
+Álvaro djaló,"FW,RW",55,0,0,1,19,0,17
+Iñaki Williams,RW,35,1,0,2,12,0.6,11
+Álex Berenguer,LW,90,0,0,2,59,0.1,32
+Nico Williams,RW,45,0,0,0,30,0,26
+Gorka Guruzeta,FW,45,0,1,0,18,0,8
+Unai Gómez,AM,56,0,0,0,21,0,14
+Oihan Sancet,AM,34,0,0,0,15,0,9
+Mikel Vesga,DM,56,0,0,1,40,0,21
+Beñat Prados,DM,34,0,0,0,16,0,6
+Iñigo Ruiz de Galarreta,DM,62,0,0,1,54,0,36
+Ander Herrera,DM,28,0,0,0,17,0,5
+Yuri Berchiche,LB,90,0,0,0,66,0,40
+Unai Núñez,CB,90,0,0,1,66,0.2,42
+Daniel Vivian,CB,90,1,0,2,70,0.3,41
+Andoni Gorosabel,RB,90,0,1,0,80,0,41
+Julen Agirrezabala,GK,90,0,0,0,37,0,20
+Toni Martínez,FW,75,0,0,2,26,0.1,8
+Kiké,FW,15,0,0,1,6,0.1,4
+Carlos Martín,LW,76,1,0,1,30,0.5,11
+Abderrahman Rebbach,LW,14,0,0,0,9,0,2
+Carlos Vicente,RW,90,1,0,2,25,0.1,13
+Stoichkov,AM,70,0,0,2,23,0.3,8
+Jon Guridi,AM,20,0,0,0,7,0,0
+Ander Guevara,DM,70,0,0,0,26,0,6
+Antonio Blanco,DM,20,0,0,0,8,0,3
+Joan Jordán,DM,88,0,0,1,52,0,12
+Santiago Mouriño,DM,2,0,0,0,2,0,1
+Manu Sánchez,LB,90,0,0,0,36,0,8
+Aleksandar Sedlar,CB,90,0,0,0,33,0,14
+Abdel Abqar,CB,90,0,0,0,40,0,14
+Nahuel Tenaglia,RB,90,0,1,1,43,0,12
+Antonio Sivera,GK,90,0,0,0,30,0,10
+Isaac Romero,FW,13,0,0,1,9,0,3
+Kelechi Iheanacho,FW,77,0,0,0,23,0,17
+Peque,"LW,AM",90,0,0,1,44,0,32
+Dodi Lukebakio,RW,90,1,0,2,32,0.2,24
+Saúl Ñíguez,"LM,DM",90,0,1,2,52,0.2,29
+Lucien Agoume,CM,65,0,0,0,45,0,22
+Chidera Ejuke,"LW,CM",25,0,0,1,14,0,12
+Djibril Sow,RM,69,0,0,0,32,0,21
+Nemanja Gudelj,DM,21,0,0,0,20,0,12
+Adrià Pedrosa,LB,65,0,0,1,56,0,25
+Valentín Barco,LB,25,0,0,0,13,0,13
+Kike Salas,CB,90,0,0,0,110,0,64
+Tanguy Nianzou,CB,69,0,0,0,67,0,44
+Loïc Bade,CB,21,0,0,0,29,0,17
+Carmona,RB,90,0,0,0,88,0,46
+Ørjan Nyland,GK,90,0,0,0,31,0,19
+Juanmi Latasa,FW,90,0,0,3,29,0.2,17
+Raúl Moro,LW,77,0,0,4,31,0.3,17
+Mamadou Sylla,LW,13,0,0,1,9,0.3,2
+Darwin Machís,RW,60,0,0,2,33,0.1,9
+Iván Sánchez,RW,30,0,0,0,20,0,7
+Selim Amallah,AM,45,0,0,1,21,0,10
+Kike Pérez,AM,45,0,0,1,23,0,7
+Stanko Jurić,DM,90,0,0,0,44,0,3
+Víctor Meseguer,DM,90,0,0,1,37,0,9
+Lucas Oliveira Rosa,LB,90,0,0,0,47,0,14
+Cenk Özkacar,CB,13,0,0,0,5,0,1
+David Torres,CB,77,0,0,1,26,0,8
+Abdulai Juma Bah,CB,77,0,0,0,29,0,6
+Eray Cömert,CB,13,0,0,0,4,0,1
+Luis Pérez,RB,90,0,0,1,54,0,20
+Karl Jakob Hein,GK,90,0,0,0,32,0,8
+Orri Steinn Óskarsson,FW,60,0,0,0,12,0,2
+Mikel Oyarzabal,"FW,AM",30,0,0,2,8,0.4,5
+Sheraldo Becker,FW,90,0,0,6,29,0.4,15
+Takefusa Kubo,AM,80,0,0,0,49,0,35
+Umar Sadiq,FW,10,0,0,1,7,0.1,4
+Beñat Turrientes,LM,90,0,0,1,56,0,33
+Luka Sučić,RM,60,0,0,1,41,0.1,20
+Olasagasti,RM,30,0,0,1,17,0.1,6
+Martín Zubimendi,DM,90,0,0,1,87,0.3,40
+Sergio Gómez,LB,90,0,0,0,73,0,30
+Nayef Aguerd,CB,80,0,0,0,87,0,57
+Jon Pacheco,CB,10,0,0,0,17,0,10
+Igor Zubeldia,CB,90,0,0,0,93,0,52
+Jon Aramburu,RB,90,0,0,1,74,0,32
+Álex Remiro,GK,90,0,0,0,32,0,21
+Ante Budimir,FW,75,1,0,2,24,0.9,9
+Raúl,FW,15,0,0,2,7,0.2,3
+Bryan Zaragoza,LM,63,0,0,3,19,0.1,13
+Rubén Peña,RM,27,0,0,0,12,0,8
+Aimar Oroz,CM,90,1,0,1,37,0,19
+Jon Moncayola,CM,88,0,0,2,38,0.1,13
+Pablo Ibáñez,CM,2,0,0,1,3,0.5,2
+Rubén García,RM,63,0,1,0,35,0,18
+Moi Gómez,LM,27,0,0,1,11,0.1,6
+Lucas Torró,DM,90,0,0,0,31,0,7
+Abel,LB,88,0,0,0,66,0,22
+Juan Cruz Armada,LB,2,0,0,0,2,0,1
+Enzo Boyomo,CB,90,0,0,0,56,0,27
+Catena,CB,90,0,0,0,38,0,14
+Jesús Areso,RB,90,0,0,0,50,0,15
+Sergio Herrera,GK,90,0,0,0,39,0,23
+Fábio Silva,"FW,RW,LW",90,0,0,4,37,0.3,22
+Alberto Moleiro,LW,73,1,0,1,47,0.2,32
+Adnan Januzaj,CM,17,0,0,0,11,0,11
+Sandro Ramírez,RW,45,0,1,0,17,0,9
+Oliver McBurnie,FW,45,0,0,1,18,0,10
+Kirian Rodríguez,CM,90,0,0,1,65,0.1,45
+Dario Essugo,CM,73,0,0,2,65,0,41
+Jaime Mata,RW,17,0,0,0,4,0,1
+Javier Muñoz,CM,90,0,0,1,49,0.1,32
+Álex Muñoz,"CB,LB",90,0,0,1,67,0.1,37
+Mika Màrmol,CB,44,0,0,0,39,0,23
+Daley Sinkgraven,LB,46,0,0,0,43,0,24
+Juan Herzog,CB,90,0,0,0,57,0,43
+Marvin,RB,44,0,0,0,32,0,16
+Viti,RB,46,0,0,0,35,0,17
+Jasper Cillessen,GK,90,0,0,0,51,0,34
+Dani Gómez,FW,78,1,0,2,16,0.1,11
+Germán Valera,RW,12,0,0,0,6,0,3
+Luis Rioja,LW,87,1,0,1,23,0,11
+Sergi Canós,LW,3,0,0,0,7,0,4
+Diego López,"RW,FW",90,0,0,1,24,0.1,17
+Javier Guerra,AM,87,0,0,3,26,0.1,20
+Domingos André Ribeiro Almeida,AM,3,0,0,0,1,0,0
+José Luis García Vayá,DM,90,0,2,0,64,0,29
+Enzo Barrenechea,DM,67,0,0,0,36,0,18
+Hugo Guillamón,DM,23,0,0,0,12,0,5
+Jesus Vazquez,LB,90,0,0,0,46,0,16
+Cristhian Mosquera,CB,90,0,0,1,38,0.1,22
+César Tárrega,CB,90,0,0,0,46,0,24
+Thierry Correia,RB,78,0,0,0,45,0,19
+Dimitri Foulquier,RB,12,0,0,0,6,0,1
+Giorgi Mamardashvili,GK,90,0,0,0,20,0,9
+Abel Ruiz,FW,61,0,0,0,24,0,14
+Gabriel Osei Misehouy,"AM,FW",29,0,0,2,15,0.1,11
+Bojan Miovski,FW,77,0,0,1,14,0.1,8
+Cristhian Stuani,FW,13,0,0,0,4,0,4
+Arnaut Danjuma,LM,78,0,0,2,58,0,28
+Bryan Gil,LW,12,0,0,0,17,0,11
+Oriol Romeu,CM,61,0,0,0,46,0,16
+Yangel Herrera,"DM,CM",29,0,0,1,33,0.1,18
+Jhon Solis,CM,78,0,0,0,48,0,27
+Donny van de Beek,DM,12,0,0,0,7,0,2
+Yaser Asprilla,"RM,RW",90,0,0,0,56,0,30
+Daley Blind,LB,90,0,0,0,100,0,42
+Ladislav Krejčí,CB,90,0,0,1,110,0.1,62
+Juanpe,CB,90,0,0,0,98,0,46
+Alejandro Francés,RB,90,0,0,1,100,0.1,45
+Paulo Gazzaniga,GK,90,0,0,0,37,0,19
+Kylian Mbappé,FW,90,1,1,8,60,1.9,39
+Rodrygo,"LW,RW",83,1,0,3,50,0.6,36
+Endrick,RW,7,0,0,1,7,0,7
+Arda Güler,RW,54,0,0,2,51,0.1,36
+Vinicius Júnior,LW,36,1,1,2,24,0.1,19
+Jude Bellingham,LM,83,0,0,4,75,0.1,48
+Antonio Rüdiger,"CB,LM",7,0,0,0,11,0,5
+Federico Valverde,"CM,LM",90,0,0,1,93,0,45
+Luka Modrić,RM,90,0,0,2,105,0.1,60
+Fran Garcia,LB,90,0,0,3,74,0.2,36
+Éder Militão,CB,90,0,0,3,99,0.2,55
+Aurélien Tchouaméni,"CB,CM",90,0,0,0,89,0,51
+Dani Carvajal,RB,58,1,0,1,62,1,39
+Lucas Vázquez,RB,32,0,0,0,29,0,13
+Thibaut Courtois,GK,90,0,0,0,32,0,16
+Javi Puado,FW,80,0,0,2,27,0,13
+Pere Milla,RM,10,0,0,0,5,0,3
+Walid Cheddira,FW,45,0,0,0,13,0,8
+Alejo Véliz,FW,45,0,0,0,14,0,2
+Alex Král,CM,90,0,0,2,34,0.1,12
+Pol Lozano,CM,66,0,0,0,26,0,10
+José Gragera,CM,24,0,0,0,18,0,7
+Jofre,"CM,LM",75,0,0,3,26,0.2,14
+Irvin Cardona,LM,15,0,0,0,5,0,3
+Carlos Romero,LB,90,0,0,1,42,0,14
+Leandro Cabrera,CB,90,0,0,1,46,0,11
+Marash Kumbulla,CB,90,0,0,0,29,0,8
+Omar El Hilali,"RB,CB",90,0,0,0,39,0,15
+Álvaro Tejero,"RB,RM",75,0,0,1,31,0,10
+Álvaro Aguado,"FW,RM",15,0,0,0,9,0,4
+Joan García,GK,90,0,0,0,37,0,18
+Chrisantus Uche,FW,66,0,0,1,35,0.2,25
+Borja Mayoral,FW,24,1,0,1,11,0.8,5
+Bertuğ Yıldırım,FW,77,0,0,0,19,0,14
+Alberto Risco,FW,13,0,0,0,12,0,9
+Luis Milla,CM,90,0,0,3,74,0.1,39
+Jesús Santiago,CM,45,0,0,1,22,0,13
+Alex Sola,CM,45,0,0,1,25,0.2,19
+Mauro Arambarri,CM,90,0,0,1,43,0.1,19
+Diego Rico,LB,90,0,0,1,84,0,45
+Omar Alderete,CB,90,0,0,1,68,0,30
+Juan Berrocal,CB,90,0,0,0,54,0,26
+Djené,CB,66,0,0,1,54,0,25
+Carles Pérez,RB,24,0,0,0,10,0,8
+Iglesias,"RB,CB",90,0,0,1,73,0.1,33
+David Soria,GK,90,0,0,0,20,0,10
+Miguel,FW,73,0,0,1,13,0,8
+Sébastien Haller,FW,17,0,0,0,8,0,2
+Munir El Haddadi,AM,73,0,0,0,32,0,21
+Enric Franquesa,WB,17,0,0,0,8,0,4
+Óscar Rodríguez Arnaiz,AM,45,0,0,1,19,0.1,6
+Roberto López,AM,45,0,1,1,20,0,9
+Renato Tapia,CM,61,0,0,0,39,0,14
+Darko Brašanac,CM,29,0,0,0,11,0,3
+Seydouba Cissé,CM,90,0,0,0,50,0,27
+Juan Cruz,"WB,AM",84,0,0,2,49,0.1,17
+Dani Raba,AM,6,0,0,0,5,0,5
+Valentin Rosier,WB,90,0,0,0,46,0,8
+Matija Nastasić,CB,90,0,0,0,55,0,20
+Sergi,CB,90,0,0,0,41,0,15
+Jorge Sáenz,CB,90,1,0,1,49,0.4,20
+Marko Dmitrović,GK,90,0,0,0,32,0,12
+Gorka Guruzeta,FW,76,2,0,3,24,0.2,3
+Álvaro djaló,FW,14,1,0,2,7,0.2,4
+Álex Berenguer,LW,74,0,1,1,28,0,15
+Unai Gómez,LW,16,0,0,0,11,0,5
+Iñaki Williams,RW,90,0,1,0,31,0,20
+Oihan Sancet,AM,90,0,0,2,40,0.2,24
+Beñat Prados,DM,90,0,0,0,52,0,27
+Mikel Jauregizar,DM,64,0,0,1,36,0,19
+Iñigo Ruiz de Galarreta,DM,26,0,0,0,14,0,9
+Adama Boiro,LB,64,0,0,0,27,0,11
+Iñigo Lekue,LB,26,0,0,0,16,0,3
+Aitor Paredes,CB,90,0,0,0,35,0,10
+Daniel Vivian,CB,90,0,0,1,48,0.1,23
+Óscar de Marcos,RB,90,0,0,0,58,0,16
+Julen Agirrezabala,GK,45,0,0,0,11,0,3
+Alex Padilla,GK,45,0,0,0,13,0,5
+Anastasios Douvikas,FW,67,0,0,1,11,0,6
+Borja Iglesias,FW,23,0,0,2,10,0.1,3
+Jonathan Bamba,LW,90,0,0,1,55,0.1,39
+Iago Aspas,RW,90,1,0,0,42,0.8,32
+Óscar Mingueza,LM,4,0,0,0,2,0,2
+Marcos Alonso,LM,86,0,0,1,80,0.1,50
+Damián Rodríguez,CM,90,0,0,0,86,0,48
+Hugo Sotelo,CM,62,0,0,0,55,0,35
+Ilaix Moriba,CM,28,0,0,0,12,0,10
+Hugo Álvarez,RM,66,0,0,1,57,0,41
+Williot Swedberg,RM,24,0,0,1,7,0.1,5
+Jailson Siqueira,CB,62,0,0,0,76,0,60
+Carlos Dominguez,CB,28,0,0,1,35,0,29
+Carl Starfelt,CB,90,0,0,2,102,0.1,81
+Javi Rodríguez,CB,90,0,0,0,117,0,82
+Vicente Guaita,GK,90,0,0,0,25,0,18
+Ayoze Pérez,FW,90,1,0,2,20,0.8,14
+Nicolas Pépé,FW,77,0,1,4,53,0.6,32
+Denis Suárez,LM,13,0,0,0,8,0,7
+Alex Baena,LM,77,0,0,1,44,0.2,25
+Ilias Akhomach,RM,13,0,0,0,6,0,4
+Daniel Parejo,CM,69,0,0,1,35,0.2,18
+Pape Gueye,CM,21,0,0,0,15,0,11
+Santi Comesaña,CM,77,0,0,0,51,0,28
+Ramón Terrats,CM,13,0,0,0,9,0,9
+Yeremi Pino,RM,62,0,0,2,21,0.1,13
+Thierno Barry,"FW,RM",28,0,0,1,5,0.1,3
+Sergi Cardona,LB,90,0,0,1,49,0.1,17
+Logan Costa,CB,90,0,0,1,41,0.1,22
+Eric Bailly,CB,90,0,0,0,28,0,17
+Kiko Femenía,RB,90,0,0,0,52,0,34
+Diego Conde,GK,90,0,0,0,26,0,20
+Robert Lewandowski,FW,90,2,0,3,28,2.3,13
+Raphinha,"LW,RM",90,2,0,6,52,1.3,25
+Lamine Yamal,RW,90,0,1,2,55,0.2,40
+Pedri,LM,58,0,1,1,68,0,44
+Marc Casado,LM,32,0,0,0,36,0,24
+Eric García,CM,90,0,0,2,63,0.2,27
+Pablo Torre,RM,58,1,1,1,41,0.1,25
+Pau Victor Delgado,LW,32,0,1,0,12,0,7
+Gerard Martín,LB,90,0,0,0,78,0,40
+Iñigo Martínez,CB,80,0,0,0,81,0,51
+Héctor Fort,RB,10,0,0,0,11,0,5
+Sergi Dominguez,CB,58,0,0,0,60,0,38
+Pau Cubarsí,CB,32,0,0,0,26,0,13
+Jules Koundé,"RB,CB",90,0,0,1,91,0,50
+Marc-André ter Stegen,GK,44,0,0,0,17,0,5
+Iñaki Peña,GK,46,0,0,0,29,0,19
+Randy Nteka,FW,72,0,0,0,26,0,6
+James Rodríguez,AM,18,0,0,1,8,0,5
+Adri Embarba,LW,64,0,0,3,42,0.1,24
+Sergio Camello,"FW,LW,RW",26,0,0,1,15,0.1,6
+Jorge de Frutos,"RW,LW",84,0,0,2,42,0.1,23
+Iván Balliu,"RB,LW",6,0,0,0,4,0,0
+Isaac Palazón Camacho,"AM,RW",84,1,0,3,42,1.3,18
+Sergi Guardiola,"FW,RW",6,0,0,0,3,0,3
+Unai López,DM,64,0,0,0,58,0,33
+Óscar Valentín,DM,26,0,0,0,20,0,7
+Pathé Ciss,DM,90,0,0,3,65,0.1,22
+Pep Chavarría,LB,90,0,0,0,75,0,44
+Abdul Mumin,CB,90,0,0,0,73,0,41
+Florian Lejeune,CB,90,0,0,0,76,0,38
+Andrei Ratiu,"RB,RW",90,0,1,3,69,0.2,38
+Augusto Batalla,GK,90,0,0,0,45,0,27
+Julián Álvarez,"LM,FW",90,0,0,2,36,0,20
+Alexander Sørloth,FW,84,0,1,1,24,0.1,15
+Giuliano Simeone,FW,6,0,0,0,6,0,2
+Conor Gallagher,CM,90,1,0,1,61,0.1,28
+Koke,CM,90,0,0,0,70,0,37
+Marcos Llorente,CM,45,0,0,1,8,0,4
+Ángel Correa,RM,45,0,0,1,21,0.1,15
+Samuel Lino,LB,45,0,0,1,19,0.1,11
+Antoine Griezmann,FW,45,0,0,0,24,0,16
+Reinildo Mandava,"LB,CB",90,0,0,0,72,0,34
+Axel Witsel,CB,90,0,0,1,85,0,52
+César Azpilicueta,CB,44,0,0,1,17,0.1,11
+José María Giménez,CB,46,0,0,0,39,0,28
+Nahuel Molina,RB,90,0,0,1,68,0,31
+Jan Oblak,GK,90,0,0,0,32,0,20
+Vitor Roque,FW,68,0,0,4,21,0.4,14
+Cédric Bakambu,FW,22,0,0,0,3,0,3
+Abde Ezzalzouli,LW,80,0,0,4,59,0.2,36
+Juanmi,LW,10,0,0,0,2,0,0
+Ezequiel Ávila,RW,68,0,0,0,44,0,24
+Pablo Fornals,"DM,RW",22,0,0,0,20,0,13
+Giovani Lo Celso,AM,90,1,0,2,76,0.1,51
+Marc Roca,DM,90,0,0,2,72,0.2,38
+Sergi Altimira,DM,80,0,1,3,70,0.1,41
+Aitor Ruibal,RW,10,0,0,1,9,0.1,5
+Ricardo Rodríguez,LB,68,0,0,0,60,0,34
+Romain Perraud,LB,22,0,0,0,26,0,8
+Natan,CB,90,0,0,0,93,0,62
+Diego Llorente,CB,90,0,0,0,86,0,62
+Héctor Bellerín,RB,90,0,0,0,89,0,68
+Rui Silva,GK,90,0,0,0,25,0,17
+Cyle Larin,FW,75,0,1,0,37,0,13
+Abdón Prats,FW,15,0,0,0,5,0,1
+Sergi Darder,LW,86,0,0,0,40,0,19
+Toni Lato,LW,4,0,0,0,1,0,0
+Roberto Navarro,RW,75,0,0,2,48,0.2,22
+Valery Fernández,RW,15,1,0,1,10,0.1,4
+Dani Rodríguez,AM,75,1,0,2,32,0.3,16
+Chiquinho,AM,15,0,0,0,12,0,6
+Samu Costa,DM,90,0,1,2,58,0.4,23
+Omar Mascarell,DM,90,0,0,0,50,0,19
+Johan Mojica,LB,90,0,0,0,54,0,17
+Antonio Raillo,CB,90,0,0,0,57,0,18
+Martin Valjent,CB,70,0,0,0,31,0,16
+Copete,CB,20,0,0,0,14,0,4
+Antonio Sánchez,RB,90,0,0,0,60,0,16
+Dominik Greif,GK,90,0,0,0,27,0,8
+Kelechi Iheanacho,FW,61,0,0,4,17,0.5,11
+Suso,FW,29,0,0,1,28,0,16
+Dodi Lukebakio,"LW,RW",90,0,0,3,54,0.1,35
+Jesús Navas,RW,60,0,0,0,21,0,11
+Chidera Ejuke,LW,30,1,0,2,27,0.2,18
+Peque,AM,89,0,0,4,36,1.1,13
+Gonzalo Montiel,AM,1,0,0,0,1,0,0
+Saúl Ñíguez,DM,52,0,0,3,29,0.2,7
+Lucien Agoume,DM,38,0,0,0,36,0,13
+Nemanja Gudelj,DM,90,0,0,0,29,0,10
+Valentín Barco,LB,89,0,0,4,67,0.1,30
+Kike Salas,LB,1,0,0,0,1,0,0
+Marcão,CB,89,0,0,0,49,0,26
+Loïc Bade,CB,90,0,0,1,55,0,31
+Carmona,RB,90,0,0,0,54,0,21
+Ørjan Nyland,GK,90,0,0,0,27,0,16
+Marcos André,FW,72,0,0,2,16,0.1,13
+Víctor Meseguer,"FW,DM",18,0,0,1,13,0.1,5
+Amath,LW,45,0,0,0,12,0,7
+Iván Sánchez,"RW,AM",45,0,0,1,22,0,11
+Darwin Machís,"RW,LW",56,0,0,0,23,0,12
+Raúl Moro,"LW,AM",34,0,0,0,17,0,5
+Kike Pérez,LM,56,1,0,1,27,0.3,16
+Juanmi Latasa,"LM,FW",34,0,0,1,10,0.1,4
+Stanko Jurić,CM,85,0,0,0,52,0,20
+Mamadou Sylla,"FW,CM",5,0,0,0,2,0,1
+Mario Martín,"RM,DM",90,0,1,1,59,0,34
+Lucas Oliveira Rosa,LB,90,0,0,1,48,0,21
+David Torres,CB,90,0,0,0,40,0,16
+Eray Cömert,CB,90,0,0,0,34,0,15
+Luis Pérez,RB,90,0,0,0,62,0,16
+Karl Jakob Hein,GK,90,0,0,0,32,0,15
+Dani Gómez,FW,84,0,0,2,12,0.4,10
+Sergi Canós,FW,6,0,0,0,6,0,4
+Domingos André Ribeiro Almeida,FW,61,0,0,1,32,0.1,18
+Francisco Perez,RM,29,0,0,1,13,0,5
+Luis Rioja,LM,90,0,0,1,48,0,30
+José Luis García Vayá,CM,90,0,0,1,60,0,25
+Enzo Barrenechea,CM,61,0,0,0,38,0,16
+Javier Guerra,CM,29,0,0,0,17,0,9
+Diego López,"RM,FW",73,0,0,0,27,0,13
+Hugo Duro,FW,17,0,0,0,2,0,0
+Jesus Vazquez,LB,90,0,0,1,75,0,28
+Cristhian Mosquera,CB,90,0,0,1,80,0.1,49
+César Tárrega,CB,90,0,0,1,63,0,43
+Thierry Correia,RB,73,0,0,0,48,0,25
+Dimitri Foulquier,RB,17,0,0,1,14,0,7
+Giorgi Mamardashvili,GK,90,0,0,0,27,0,18
+Raúl,FW,62,0,0,0,13,0,7
+Ante Budimir,FW,28,0,0,2,13,0.1,9
+Moi Gómez,"LW,LM",90,0,0,0,42,0,13
+Rubén Peña,"RW,LW",76,0,0,2,37,0.2,15
+Bryan Zaragoza,RW,14,0,0,0,9,0,4
+Aimar Oroz,LM,62,0,0,0,20,0,14
+Rubén García,"LW,RW",28,0,0,1,25,0,9
+Lucas Torró,CM,90,0,0,2,42,0.1,8
+Jon Moncayola,RM,45,0,0,0,24,0,11
+Pablo Ibáñez,RM,45,0,0,1,20,0.1,8
+Abel,LB,90,0,0,1,57,0,14
+Jorge Herrando,CB,90,0,0,0,52,0,30
+Enzo Boyomo,CB,90,0,0,0,64,0,36
+Jesús Areso,RB,90,0,0,0,59,0,19
+Sergio Herrera,GK,90,0,0,0,47,0,20
+Kylian Mbappé,FW,79,1,0,1,43,0.6,25
+Arda Güler,"RW,RM",11,0,0,0,10,0,2
+Vinicius Júnior,LW,89,0,1,3,53,0.2,38
+Fran Garcia,LB,1,0,0,0,2,0,1
+Rodrygo,RW,68,1,0,2,47,0.1,29
+Endrick,"FW,RW",22,0,0,2,12,0.1,7
+Jude Bellingham,LM,90,0,1,0,89,0,55
+Aurélien Tchouaméni,CM,90,0,0,1,77,0.1,52
+Federico Valverde,RM,68,0,0,0,69,0,46
+Luka Modrić,"RM,CM",22,0,0,0,21,0,12
+Ferland Mendy,"LB,CB",90,0,0,0,79,0,59
+Éder Militão,CB,79,0,0,0,106,0,80
+Jesús Vallejo,CB,11,0,0,0,16,0,13
+Antonio Rüdiger,CB,90,0,0,0,108,0,77
+Lucas Vázquez,RB,90,1,1,1,105,0.2,63
+Thibaut Courtois,GK,90,0,0,0,36,0,24
+Asier Villalibre,FW,70,0,0,0,20,0,10
+Kiké,FW,20,1,0,1,7,0.3,6
+Luka Romero,"FW,RW",59,0,0,1,18,0,13
+Abderrahman Rebbach,LW,31,0,0,2,20,0.1,16
+Tomás Conechny,"LM,RW,LW",90,0,0,4,48,0.3,35
+Antonio Blanco,"CM,DM",59,0,0,1,41,0,29
+Ander Guevara,DM,31,0,1,2,23,0.1,18
+Carlos Benavídez,"DM,CM",90,1,1,1,54,0.1,41
+Hugo Novoa,"RB,RM",90,0,0,0,43,0,22
+Manu Sánchez,LB,70,0,0,0,31,0,15
+Pica,CB,20,0,0,0,14,0,8
+Moussa Diarra,"CB,LB",90,0,0,0,29,0,20
+Abdel Abqar,CB,45,0,0,0,18,0,10
+Jon Guridi,AM,45,0,0,0,28,0,18
+Santiago Mouriño,"CB,RB",90,0,0,0,37,0,16
+Antonio Sivera,GK,90,0,0,0,24,0,8
+Abel Ruiz,FW,66,0,0,0,20,0,11
+Cristhian Stuani,FW,24,0,0,2,4,0.9,2
+Yaser Asprilla,FW,74,0,0,2,45,0.5,32
+Gabriel Osei Misehouy,FW,16,0,0,1,10,0.1,7
+Bryan Gil,LM,66,0,0,0,43,0,27
+Arnaut Danjuma,LM,24,0,0,0,18,0,14
+Yangel Herrera,CM,90,0,0,1,81,0.1,54
+Iván Martín,CM,90,0,0,1,93,0,55
+Viktor Tsyhankov,RM,90,0,0,2,50,0.1,32
+Miguel Gutiérrez,LB,90,0,0,1,70,0.2,29
+Daley Blind,CB,90,0,0,0,113,0,94
+David López,CB,90,0,0,1,119,0,71
+Arnau Martinez,RB,90,0,0,0,104,0,56
+Paulo Gazzaniga,GK,90,0,0,0,28,0,18
+Sergio Camello,FW,77,0,0,0,21,0,14
+Randy Nteka,FW,13,0,0,0,8,0,1
+Isaac Palazón Camacho,FW,45,0,0,0,24,0,12
+Unai López,FW,45,0,0,0,24,0,15
+Adri Embarba,LM,59,0,0,0,23,0,9
+Álvaro García,LM,31,0,0,1,16,0.4,9
+Óscar Valentín,CM,90,0,0,0,23,0,8
+Pedro Díaz,CM,45,0,0,0,16,0,6
+Gerard Gumbau,CM,45,0,0,0,10,0,7
+Andrei Ratiu,"RB,RM",90,0,0,1,50,0,26
+Pep Chavarría,LB,32,0,0,0,25,0,14
+Jorge de Frutos,RM,58,0,0,0,23,0,8
+Abdul Mumin,CB,90,0,0,0,35,0,16
+Florian Lejeune,CB,90,0,0,0,44,0,19
+Iván Balliu,"LB,RB",90,0,0,0,33,0,13
+Augusto Batalla,GK,90,0,0,0,23,0,13
+Robert Lewandowski,FW,76,1,0,4,20,0.7,12
+Pedri,AM,14,0,0,0,12,0,8
+Raphinha,LW,90,0,0,4,73,0.6,38
+Lamine Yamal,RW,90,0,0,3,69,0.1,47
+Pablo Torre,AM,62,0,0,0,45,0,18
+Ferrán Torres,"FW,AM",28,0,0,0,7,0,3
+Marc Casado,DM,90,0,0,2,78,0.1,35
+Eric García,DM,90,0,0,1,77,0.4,26
+Alejandro Balde,LB,87,0,0,1,65,0.1,38
+Gerard Martín,LB,3,0,0,0,5,0,0
+Iñigo Martínez,CB,90,0,0,0,116,0,74
+Pau Cubarsí,CB,87,0,0,0,88,0,54
+Héctor Fort,RB,3,0,0,0,5,0,3
+Jules Koundé,"RB,CB",90,0,0,0,97,0,39
+Iñaki Peña,GK,90,0,0,0,44,0,29
+Chrisantus Uche,FW,79,0,0,0,17,0,9
+Bertuğ Yıldırım,FW,11,0,0,1,4,0.1,0
+Alex Sola,"LM,LW",62,0,0,0,29,0,11
+Abdoulaye Keita,LM,28,0,0,0,9,0,1
+Jesús Santiago,CM,62,0,0,0,20,0,4
+Mauro Arambarri,CM,28,0,0,0,14,0,4
+Carles Aleñá,CM,62,0,0,0,13,0,7
+Borja Mayoral,FW,28,0,0,1,5,0.4,4
+Carles Pérez,"RM,RW",90,0,0,2,27,0.2,14
+Luis Milla,"CM,DM",90,0,0,1,41,0,14
+Iglesias,"LB,RB",90,0,0,1,42,0,5
+Omar Alderete,CB,90,0,0,1,28,0,6
+Juan Berrocal,CB,90,0,0,0,23,0,5
+Djené,RB,86,0,0,0,22,0,9
+Diego Rico,LB,4,0,0,0,3,0,0
+David Soria,GK,90,0,0,0,30,0,5
+Alberto Moleiro,FW,82,1,0,2,56,0.5,37
+Adnan Januzaj,FW,8,0,0,0,13,0,9
+Fábio Silva,FW,74,0,0,1,45,0.4,22
+Pejiño,FW,16,0,0,1,9,0,9
+Kirian Rodríguez,LM,90,0,0,1,60,0,38
+Enzo Loiodice,CM,90,0,0,1,60,0,39
+Sandro Ramírez,RM,43,0,0,0,11,0,4
+Oliver McBurnie,RM,47,0,0,0,13,0,9
+Dario Essugo,DM,73,0,0,1,65,0,35
+Javier Muñoz,DM,17,0,0,0,14,0,10
+Daley Sinkgraven,LB,45,0,0,0,34,0,22
+Benito Ramírez,LB,45,0,0,1,38,0,25
+Álex Muñoz,CB,90,0,0,0,85,0,51
+Juan Herzog,CB,90,0,0,0,70,0,35
+Viti,RB,90,0,1,0,58,0,25
+Jasper Cillessen,GK,90,0,0,0,65,0,43
+Assane Diao,FW,63,0,1,1,19,0.3,11
+Cédric Bakambu,FW,27,0,0,2,13,0.2,5
+Abde Ezzalzouli,LW,74,0,0,2,38,0.2,29
+Ezequiel Ávila,LW,16,0,0,1,5,0,5
+Pablo Fornals,RW,90,0,0,1,70,0,36
+Giovani Lo Celso,AM,81,1,0,2,63,0.6,43
+Iker Losada,AM,9,0,0,0,8,0,6
+Marc Roca,DM,63,0,0,2,51,0.2,34
+Sergi Altimira,DM,27,0,0,0,9,0,4
+Johnny Cardoso,DM,90,0,0,1,51,0.4,23
+Romain Perraud,LB,90,0,0,1,43,0,23
+Natan,CB,90,0,0,0,56,0,42
+Diego Llorente,CB,90,0,0,0,77,0,38
+Aitor Ruibal,RB,90,0,0,0,59,0,32
+Rui Silva,GK,90,0,0,0,34,0,19
+Alejo Véliz,FW,71,0,0,0,11,0,4
+Walid Cheddira,FW,19,0,0,0,6,0,3
+Javi Puado,FW,90,0,0,4,35,0.2,25
+Jofre,LM,79,1,0,2,37,0.1,22
+Irvin Cardona,RM,11,0,0,1,11,0.1,7
+Pol Lozano,CM,72,0,0,0,39,0,17
+José Gragera,CM,18,0,0,1,19,0,8
+Alex Král,CM,90,0,0,0,57,0,36
+Álvaro Tejero,RM,63,0,0,0,41,0,22
+Carlos Romero,"RM,LB",27,0,0,0,26,0,17
+Brian Oliván,LB,72,0,1,0,42,0,28
+Naci Ünüvar,"LM,LB",18,0,0,1,16,0,9
+Leandro Cabrera,CB,45,0,0,0,48,0,25
+Sergi Gómez,CB,45,0,0,0,40,0,24
+Marash Kumbulla,CB,90,0,0,0,85,0,53
+Omar El Hilali,RB,90,0,0,0,94,0,63
+Joan García,GK,90,0,0,0,38,0,27
+Thierno Barry,FW,90,0,0,6,29,1,13
+Ayoze Pérez,FW,73,2,0,5,31,0.5,25
+Nicolas Pépé,FW,17,0,0,0,7,0,5
+Alex Baena,LM,65,0,2,0,32,0,22
+Denis Suárez,"RM,LM",25,0,0,0,8,0,6
+Pape Gueye,CM,90,0,0,1,65,0,36
+Santi Comesaña,CM,65,0,0,0,46,0,35
+Daniel Parejo,CM,25,0,0,0,19,0,13
+Ilias Akhomach,RM,79,0,0,2,38,0,32
+Ramón Terrats,LM,11,0,0,0,8,0,4
+Sergi Cardona,LB,90,0,0,1,50,0,22
+Logan Costa,CB,73,0,0,0,50,0,33
+Pau Navarro,CB,17,0,0,0,8,0,1
+Raúl Albiol,CB,35,0,0,0,25,0,13
+Eric Bailly,CB,55,0,0,0,40,0,23
+Kiko Femenía,RB,90,0,0,0,63,0,27
+Diego Conde,GK,90,0,0,0,27,0,15
+Borja Iglesias,FW,75,0,0,2,31,0.5,21
+Anastasios Douvikas,FW,15,0,0,0,6,0,4
+Williot Swedberg,LW,69,0,0,1,32,0.5,24
+Alfon,LW,21,0,0,1,9,0.1,7
+Iago Aspas,RW,83,0,0,4,41,0.2,33
+Ilaix Moriba,RW,7,0,0,0,3,0,3
+Hugo Álvarez,LM,90,0,0,0,83,0,57
+Hugo Sotelo,CM,83,0,0,1,87,0.1,59
+Damián Rodríguez,CM,7,0,0,0,17,0,15
+Fran Beltrán,CM,90,0,0,0,95,0,70
+Sergio Carreira,RM,90,0,0,0,43,0,33
+Marcos Alonso,CB,90,0,0,0,113,0,94
+Carl Starfelt,CB,90,0,0,0,113,0,84
+Javier Manquillo,CB,69,0,0,0,79,0,59
+Javi Rodríguez,CB,21,0,0,1,19,0.2,13
+Vicente Guaita,GK,90,0,0,0,27,0,17
+Alexander Sørloth,FW,64,0,0,1,20,0.1,7
+Rodrigo De Paul,"RM,CM",26,0,0,0,23,0,17
+Antoine Griezmann,"FW,RM",90,0,1,1,67,0.1,44
+Giuliano Simeone,"LM,LB",64,0,0,0,21,0,12
+Rodrigo Riquelme,LB,26,0,0,2,20,0.1,16
+Conor Gallagher,CM,90,0,0,0,50,0,32
+Koke,CM,53,0,0,0,36,0,16
+Julián Álvarez,LM,37,1,0,2,24,0.3,20
+Marcos Llorente,"RM,CM,RB",90,0,0,0,52,0,31
+Reinildo Mandava,"CB,LB",90,0,0,0,41,0,22
+José María Giménez,CB,90,0,0,0,66,0,36
+Robin Le Normand,CB,90,0,0,1,64,0.1,36
+Nahuel Molina,RB,83,0,0,1,65,0,46
+Ángel Correa,FW,7,0,0,0,4,0,3
+Jan Oblak,GK,90,0,0,0,27,0,13
+Juanmi Latasa,FW,90,0,0,2,27,0.2,8
+Darwin Machís,LW,50,0,0,3,23,0.6,14
+Iván Sánchez,"RM,RW",40,1,0,2,30,0.1,18
+Raúl Moro,"RW,LM,LW",90,0,0,2,38,0.2,22
+Kike Pérez,LM,64,0,0,2,26,0.1,14
+Stanko Jurić,"CM,LM",26,0,0,0,13,0,7
+Eray Cömert,"CM,CB",90,0,0,1,54,0.1,27
+Mario Martín,RM,64,0,0,1,37,0.1,20
+Mamadou Sylla,"FW,RM",26,0,0,0,6,0,1
+Lucas Oliveira Rosa,"LB,RB",90,0,0,0,54,0,26
+David Torres,CB,71,0,0,0,61,0,28
+Mario Maroto,CM,19,0,1,0,19,0,5
+Abdulai Juma Bah,CB,90,0,0,0,67,0,38
+Luis Pérez,RB,50,0,0,0,35,0,16
+Raúl Chasco,LB,40,0,0,0,38,0,17
+Karl Jakob Hein,GK,90,0,0,0,36,0,19
+Cyle Larin,FW,74,1,0,4,20,1,11
+Abdón Prats,FW,16,0,0,1,10,0,6
+Dani Rodríguez,FW,75,0,1,0,26,0,19
+Chiquinho,FW,15,0,0,0,9,0,7
+Sergi Darder,LM,75,0,0,0,50,0,29
+Valery Fernández,LM,15,1,0,2,9,0.8,3
+Samu Costa,CM,90,0,0,3,75,0.1,39
+Manu Morlanes,CM,64,0,0,1,34,0,17
+Omar Mascarell,CM,26,0,0,0,14,0,5
+Roberto Navarro,RM,85,0,0,1,40,0,24
+Antonio Sánchez,RM,5,0,0,0,8,0,5
+Johan Mojica,LB,90,0,0,0,53,0,31
+Copete,CB,90,0,0,1,64,0.2,34
+Antonio Raillo,CB,90,0,0,2,57,0,26
+Pablo Maffeo,RB,90,0,0,2,63,0.1,30
+Leo Román,GK,90,0,0,0,37,0,17
+Bertuğ Yıldırım,FW,73,0,0,1,25,0.1,14
+Borja Mayoral,FW,17,0,0,0,5,0,4
+Chrisantus Uche,FW,88,0,0,2,33,0.5,23
+Álvaro Rodríguez,FW,2,0,0,1,3,0.1,1
+Alex Sola,LM,69,0,0,1,29,0,17
+Iglesias,LM,21,0,0,0,9,0,1
+Luis Milla,CM,90,1,0,0,44,0.8,16
+Mauro Arambarri,CM,88,1,0,1,26,0,5
+Nabil Aberdin,CM,2,0,0,0,1,0,0
+Carles Pérez,RM,90,0,0,1,30,0.3,10
+Diego Rico,LB,90,0,0,3,49,0.2,13
+Omar Alderete,CB,90,0,0,2,40,0,7
+Juan Berrocal,CB,90,0,0,1,29,0.2,5
+Djené,RB,90,0,0,0,37,0,8
+David Soria,GK,90,0,0,0,27,0,7
+Toni Martínez,FW,68,0,0,1,17,0,4
+Asier Villalibre,FW,22,0,0,0,3,0,2
+Carlos Martín,LW,45,0,0,0,18,0,13
+Kiké,FW,45,0,0,0,13,0,10
+Carlos Vicente,"RM,RW",90,0,0,2,31,0.1,14
+Stoichkov,"LM,AM",90,0,0,3,37,0.1,19
+Carlos Benavídez,"DM,CM",54,0,0,0,19,0,8
+Antonio Blanco,CM,36,0,0,0,12,0,5
+Joan Jordán,"CM,DM",90,0,0,3,53,0.2,24
+Moussa Diarra,"LB,CB",90,0,0,0,38,0,14
+Aleksandar Sedlar,CB,54,0,0,0,22,0,11
+Santiago Mouriño,CB,36,0,0,0,20,0,8
+Abdel Abqar,CB,54,0,0,0,21,0,4
+Manu Sánchez,LB,36,0,0,0,20,0,6
+Nahuel Tenaglia,RB,90,0,0,0,59,0,16
+Antonio Sivera,GK,90,0,0,0,41,0,15
+Sergio Camello,FW,63,1,0,2,21,0.2,12
+Randy Nteka,FW,27,0,0,2,10,0.2,8
+Álvaro García,"LW,LM",73,0,0,0,44,0,19
+Adri Embarba,LM,17,0,0,0,14,0,8
+Jorge de Frutos,"RW,RM",79,0,0,4,40,0.2,19
+Óscar Trejo,FW,11,0,0,0,20,0,8
+James Rodríguez,AM,63,0,0,1,50,0,26
+Isaac Palazón Camacho,"FW,RM",27,0,0,0,15,0,6
+Pathé Ciss,DM,62,0,0,1,50,0.2,20
+Óscar Valentín,CM,28,0,0,0,21,0,11
+Unai López,"DM,CM",90,0,0,2,65,0,32
+Iván Balliu,LB,90,0,0,0,67,0,23
+Abdul Mumin,CB,90,0,0,0,72,0,44
+Florian Lejeune,CB,90,0,0,1,58,0,29
+Andrei Ratiu,RB,90,0,0,2,62,0.1,25
+Augusto Batalla,GK,90,0,0,0,39,0,23
+Sébastien Haller,FW,73,0,0,1,18,0.1,8
+Miguel,FW,17,0,0,0,4,0,2
+Adrià Altimira,LW,73,0,0,3,27,0.1,20
+Óscar Rodríguez Arnaiz,LW,17,0,0,1,10,0,5
+Juan Cruz,RW,84,1,0,2,39,0.2,26
+Enric Franquesa,RW,6,0,0,0,3,0,1
+Roberto López,AM,90,0,0,1,70,0,35
+Renato Tapia,DM,90,0,0,0,76,0,44
+Seydouba Cissé,DM,63,0,0,1,49,0,32
+Darko Brašanac,DM,27,0,0,0,8,0,5
+Javi Hernández,LB,90,0,0,0,40,0,20
+Matija Nastasić,CB,90,0,0,0,36,0,14
+Sergi,CB,90,0,0,3,82,0.4,48
+Valentin Rosier,RB,90,0,1,1,65,0,30
+Marko Dmitrović,GK,90,0,0,0,37,0,17
+Mikel Oyarzabal,FW,60,0,0,0,10,0,5
+Orri Steinn Óskarsson,FW,30,2,0,3,11,1.8,4
+Ander Barrenetxea,LM,59,0,0,1,41,0.1,25
+Beñat Turrientes,LM,31,0,0,1,25,0.3,17
+Sergio Gómez,CM,90,0,2,0,78,0,41
+Luka Sučić,CM,74,0,0,0,32,0,23
+Brais Méndez,CM,16,0,1,0,10,0,8
+Takefusa Kubo,RM,84,1,0,3,42,0.8,34
+Jon Magunacelaya,RM,6,0,0,0,14,0,8
+Martín Zubimendi,DM,90,0,0,0,75,0,38
+Javi López,LB,90,0,0,0,72,0,41
+Nayef Aguerd,CB,90,0,0,2,86,0.5,63
+Igor Zubeldia,CB,90,0,0,0,69,0,50
+Jon Aramburu,RB,84,0,0,1,75,0.1,37
+Aritz Elustondo,RB,6,0,0,0,8,0,2
+Álex Remiro,GK,90,0,0,0,42,0,30
+Hugo Duro,FW,90,0,0,0,26,0,12
+Javier Guerra,FW,61,0,0,0,21,0,14
+Dani Gómez,FW,29,0,0,1,5,0.1,2
+Luis Rioja,"LM,RM",90,0,0,1,35,0,11
+José Luis García Vayá,CM,76,0,0,1,45,0,10
+Enzo Barrenechea,CM,14,0,0,0,10,0,7
+Hugo Guillamón,CM,76,0,0,1,47,0,13
+Domingos André Ribeiro Almeida,CM,14,0,0,0,9,0,4
+Diego López,RM,61,0,0,0,21,0,10
+Sergi Canós,"LM,RM",29,0,0,2,17,0,8
+Jesus Vazquez,LB,36,0,0,0,20,0,6
+Thierry Correia,LB,54,0,0,0,37,0,12
+Cristhian Mosquera,CB,90,0,0,1,48,0,21
+César Tárrega,CB,90,0,0,1,50,0.6,24
+Dimitri Foulquier,RB,90,0,0,1,53,0,17
+Giorgi Mamardashvili,GK,90,0,0,0,33,0,13
+Ante Budimir,FW,76,2,0,2,22,1,13
+Raúl,FW,14,0,0,1,3,0.1,1
+Bryan Zaragoza,LW,76,1,1,1,29,1,13
+Abel,RW,14,1,0,1,10,0.1,2
+Rubén García,RW,58,0,0,1,25,0,13
+Rubén Peña,"LW,RW",32,0,0,0,15,0,9
+Aimar Oroz,LM,90,0,0,0,37,0,25
+Lucas Torró,CM,90,0,0,0,51,0,17
+Pablo Ibáñez,RM,90,0,1,2,36,0.1,12
+Juan Cruz Armada,LB,83,0,0,1,35,0,11
+Jorge Herrando,LB,7,0,0,0,4,0,1
+Enzo Boyomo,CB,90,0,0,0,19,0,7
+Catena,CB,90,0,0,0,26,0,5
+Jesús Areso,RB,83,0,0,1,33,0,17
+Nacho Vidal,RB,7,0,0,0,3,0,0
+Sergio Herrera,GK,90,0,0,0,28,0,11
+Robert Lewandowski,FW,69,0,0,2,21,0.4,11
+Marc Casado,RM,21,0,0,1,27,0,17
+Pau Victor Delgado,LW,58,1,0,1,38,0,19
+Lamine Yamal,"RW,LW",32,1,0,3,32,0.1,25
+Ferrán Torres,"RW,FW",90,0,1,2,45,0.2,21
+Pedri,LM,90,0,0,0,93,0,55
+Eric García,CM,90,0,0,1,89,0,42
+Pablo Torre,RM,58,0,0,0,47,0,24
+Raphinha,"LW,RM",32,0,0,1,33,0,19
+Gerard Martín,LB,69,0,1,0,54,0,17
+Alejandro Balde,LB,21,0,0,0,19,0,11
+Pau Cubarsí,CB,90,0,0,0,101,0,54
+Sergi Dominguez,CB,84,0,0,0,95,0,62
+Héctor Fort,CB,6,0,0,0,10,0,3
+Jules Koundé,RB,90,0,0,1,94,0,47
+Iñaki Peña,GK,90,0,0,0,33,0,11
+Borja Iglesias,FW,57,0,0,0,21,0,16
+Anastasios Douvikas,FW,33,0,0,1,6,0,4
+Alfon,AM,57,0,0,0,14,0,9
+Williot Swedberg,AM,33,0,1,1,21,0,13
+Pablo Durán,AM,64,0,0,1,23,0.1,19
+Hugo Sotelo,CM,26,0,0,0,33,0,28
+Damián Rodríguez,CM,90,0,0,1,80,0,60
+Ilaix Moriba,CM,64,0,0,4,40,0.1,26
+Iago Aspas,AM,26,1,0,1,21,0.1,14
+Óscar Mingueza,WB,90,0,0,0,81,0,62
+Sergio Carreira,WB,45,0,0,0,34,0,19
+Hugo Álvarez,WB,45,0,0,1,39,0,28
+Marcos Alonso,CB,90,0,0,1,95,0,77
+Carlos Dominguez,CB,90,0,0,1,80,0.1,59
+Javi Rodríguez,CB,90,0,0,0,62,0,53
+Vicente Guaita,GK,90,0,0,0,27,0,21
+Abel Ruiz,FW,71,0,0,1,14,0.1,9
+Portu,FW,19,0,0,0,7,0,2
+Arnaut Danjuma,LW,71,0,0,1,22,0.1,18
+Bryan Gil,LW,19,0,0,1,21,0,16
+Viktor Tsyhankov,RW,90,0,0,2,53,0.1,32
+Yangel Herrera,"DM,AM",71,1,0,2,57,0.4,35
+Jhon Solis,DM,19,0,0,1,19,0.1,14
+Oriol Romeu,DM,13,0,0,0,13,0,8
+Donny van de Beek,AM,77,0,0,0,42,0,20
+Iván Martín,DM,90,0,0,0,79,0,59
+Miguel Gutiérrez,LB,90,0,0,0,67,0,49
+Ladislav Krejčí,CB,90,0,0,1,102,0,64
+Daley Blind,CB,53,0,1,0,72,0,58
+David López,CB,37,0,0,0,30,0,15
+Alejandro Francés,RB,90,0,0,0,92,0,49
+Paulo Gazzaniga,GK,90,0,0,0,49,0,34
+Iñaki Williams,"FW,RW",90,0,0,2,29,0.9,22
+Álex Berenguer,"LW,AM",70,0,0,4,28,0.6,15
+Peio Canales,AM,20,0,0,1,17,0,10
+Nico Williams,"RW,LW",84,0,0,2,36,0.1,23
+Alex Padilla,GK,6,0,0,0,5,0,0
+Unai Gómez,AM,58,0,1,1,24,0.1,17
+Gorka Guruzeta,FW,32,0,0,2,10,0.1,2
+Mikel Vesga,DM,58,0,0,0,31,0,9
+Iñigo Ruiz de Galarreta,DM,32,0,0,0,21,0,10
+Mikel Jauregizar,DM,90,1,0,1,52,0.1,29
+Iñigo Lekue,"LB,RB",90,0,0,0,52,0,16
+Aitor Paredes,CB,90,0,0,0,49,0,16
+Unai Núñez,CB,90,0,0,0,45,0,17
+Óscar de Marcos,RB,70,0,0,0,49,0,16
+Yuri Berchiche,LB,20,0,0,0,18,0,7
+Julen Agirrezabala,GK,81,0,0,0,27,0,12
+Kelechi Iheanacho,FW,58,0,0,0,11,0,4
+Suso,"FW,CM,AM",32,0,0,2,34,0.1,24
+Chidera Ejuke,LW,90,0,0,2,59,0.2,44
+Dodi Lukebakio,RW,90,0,0,4,40,0.6,31
+Peque,AM,79,0,0,1,22,0.1,11
+Mateo Mejía,FW,11,0,0,0,2,0,1
+Nemanja Gudelj,"DM,CM",90,0,0,2,68,0.1,28
+Lucien Agoume,DM,85,0,0,1,68,0.1,39
+Jesús Navas,RM,5,0,0,0,8,0,4
+Valentín Barco,LB,45,0,0,0,34,0,20
+Juanlu Sánchez,"RB,CB",45,0,0,0,33,0,19
+Tanguy Nianzou,CB,90,0,0,0,83,0,48
+Loïc Bade,CB,90,0,0,0,98,0,58
+Carmona,"RB,LB",79,0,0,1,72,0,37
+Adrià Pedrosa,"LM,LB",11,0,0,0,11,0,8
+Ørjan Nyland,GK,90,0,0,0,48,0,25
+Cédric Bakambu,FW,60,0,0,2,17,0.1,8
+Vitor Roque,FW,30,0,0,0,7,0,3
+Abde Ezzalzouli,LW,87,0,0,2,47,1.2,32
+Assane Diao,LW,3,0,0,0,7,0,3
+Iker Losada,RW,60,0,0,2,34,0.1,13
+Pablo Fornals,"DM,RW",30,0,0,2,24,0.2,13
+Giovani Lo Celso,AM,90,1,0,5,82,0.4,46
+Marc Roca,DM,77,0,0,2,58,0,37
+Aitor Ruibal,RW,13,0,0,0,7,0,3
+Sergi Altimira,DM,78,0,0,2,47,0.1,29
+Johnny Cardoso,DM,12,0,0,0,15,0,6
+Ricardo Rodríguez,LB,90,0,0,0,54,0,26
+Natan,CB,90,0,0,1,64,0,41
+Diego Llorente,CB,90,0,0,1,70,0,43
+Héctor Bellerín,RB,90,0,0,0,45,0,27
+Rui Silva,GK,90,0,0,0,36,0,24
+Walid Cheddira,FW,67,0,0,1,16,0,13
+Irvin Cardona,"FW,LW",23,0,0,0,9,0,4
+Alex Král,"FW,RM",90,0,0,1,36,0,24
+Javi Puado,LM,54,0,0,0,24,0,18
+Pere Milla,"LM,LB",36,0,0,1,17,0,7
+Pol Lozano,CM,86,0,0,0,56,0,45
+Álvaro Aguado,LM,4,0,0,0,5,0,6
+José Gragera,CM,90,0,0,1,60,0,37
+Jofre,RM,67,0,0,1,29,0,24
+Álvaro Tejero,"RM,RW",23,0,0,0,11,0,5
+Carlos Romero,LB,86,0,0,2,55,0.3,39
+Alejo Véliz,FW,4,0,0,0,2,0,2
+Marash Kumbulla,CB,90,0,0,0,65,0,52
+Sergi Gómez,CB,90,0,0,1,70,0,53
+Omar El Hilali,RB,90,0,0,0,65,0,30
+Joan García,GK,90,0,0,0,42,0,30
+Alexander Sørloth,FW,55,0,0,2,18,0.1,17
+Samuel Lino,"LM,LB,WB",35,0,0,2,28,0.2,21
+Antoine Griezmann,"FW,AM",90,0,0,2,66,0.1,46
+Julián Álvarez,"LM,FW",74,0,0,2,38,0.1,20
+Rodrigo Riquelme,RM,16,0,0,0,9,0,6
+Conor Gallagher,CM,69,0,0,1,55,0,43
+Ángel Correa,"AM,FW,CM",21,1,0,2,11,0.8,8
+Marcos Llorente,"RB,CM,WB",89,0,0,1,68,0,44
+Rodrigo De Paul,"RM,CM",90,0,0,0,79,0,54
+Reinildo Mandava,"LB,CB",74,0,0,0,66,0,48
+Javi Galán,LB,16,0,1,0,12,0,5
+José María Giménez,CB,90,0,0,0,75,0,44
+Robin Le Normand,CB,90,0,0,0,64,0,41
+Nahuel Molina,RB,45,0,0,0,35,0,27
+Koke,CM,45,0,0,0,55,0,36
+Jan Oblak,GK,90,0,0,0,27,0,20
+Vinicius Júnior,FW,86,0,1,1,44,0.1,35
+Endrick,FW,4,0,0,1,2,0,1
+Rodrygo,"FW,LW",89,0,0,2,43,0.1,29
+Fran Garcia,LW,1,0,0,0,5,0,6
+Jude Bellingham,"LM,CM",90,0,0,2,71,0.2,48
+Aurélien Tchouaméni,CM,90,0,0,1,74,0.1,42
+Luka Modrić,CM,85,0,0,0,71,0,50
+Lucas Vázquez,RW,5,0,0,0,7,0,5
+Federico Valverde,"RM,RW,CM",90,0,0,3,74,0.1,46
+Ferland Mendy,LB,90,0,0,0,59,0,42
+Éder Militão,CB,90,1,0,1,75,0,50
+Antonio Rüdiger,CB,90,0,0,0,66,0,45
+Dani Carvajal,RB,90,0,0,1,68,0.2,37
+Thibaut Courtois,GK,90,0,0,0,45,0,32
+Thierno Barry,FW,90,1,1,2,18,0.5,6
+Nicolas Pépé,FW,87,1,0,4,41,0.6,22
+Ramón Terrats,LM,3,0,0,0,5,0,4
+Denis Suárez,LM,45,0,0,1,14,0.1,7
+Alex Baena,"LM,FW",45,1,1,2,40,1.1,21
+Pape Gueye,CM,76,0,0,1,54,0,38
+Santi Comesaña,CM,14,0,1,0,18,0,7
+Daniel Parejo,CM,90,0,0,0,72,0,40
+Ilias Akhomach,RM,76,0,0,4,50,0.2,32
+Pau Cabanes,RM,14,0,0,0,11,0,7
+Sergi Cardona,LB,86,0,0,2,45,0.1,22
+Juan Bernat,LB,4,0,0,0,2,0,0
+Logan Costa,CB,90,0,0,0,58,0,32
+Eric Bailly,CB,90,0,0,2,54,0.2,20
+Kiko Femenía,RB,90,0,0,1,76,0,33
+Diego Conde,GK,90,0,0,0,25,0,12
+Fábio Silva,FW,90,1,0,2,32,0.7,14
+Oliver McBurnie,FW,61,0,0,1,12,0,6
+Manuel Fuster,"RM,FW",29,0,0,1,17,0,11
+Alberto Moleiro,LM,90,0,0,1,47,0,35
+Kirian Rodríguez,CM,61,0,0,0,68,0,37
+Javier Muñoz,CM,29,0,0,0,31,0,12
+Dario Essugo,"CM,DM",85,0,0,0,61,0,30
+Jaime Mata,FW,5,0,0,0,1,0,0
+Adnan Januzaj,RM,76,0,1,1,48,0,31
+Enzo Loiodice,"CM,RM",14,0,0,0,30,0,19
+Benito Ramírez,LB,77,0,0,0,58,0,28
+Viti,"RB,LB",13,0,0,0,11,0,7
+Álex Muñoz,"CB,LB",90,0,0,0,103,0,45
+Juan Herzog,CB,90,0,0,0,97,0,54
+Álex Suárez,"RB,CB",90,0,0,1,81,0.1,36
+Dinko Horkaš,GK,90,0,0,0,47,0,26
+Sébastien Haller,FW,62,0,0,1,16,0.1,8
+Miguel,FW,28,0,0,1,5,0.1,6
+Adrià Altimira,LW,90,0,0,0,35,0,22
+Juan Cruz,RW,83,0,0,1,38,0,28
+Óscar Rodríguez Arnaiz,RW,7,0,0,1,10,0.1,6
+Roberto López,AM,90,0,0,1,46,0.4,34
+Seydouba Cissé,DM,83,0,0,1,63,0,46
+Julián Chicco,DM,7,0,0,0,6,0,6
+Yvan Neyou,DM,70,0,0,0,69,0,57
+Darko Brašanac,DM,20,0,0,0,13,0,8
+Javi Hernández,LB,90,0,0,0,70,0,43
+Sergi,CB,90,0,0,0,90,0,54
+Jorge Sáenz,CB,90,0,0,0,102,0,69
+Valentin Rosier,RB,90,0,0,2,65,0.1,40
+Marko Dmitrović,GK,90,0,0,0,33,0,19
+Hugo Duro,FW,72,0,0,1,25,0.1,9
+Dani Gómez,FW,18,0,0,1,7,0.3,3
+Luis Rioja,LM,85,0,0,0,25,0,19
+Germán Valera,LM,5,0,0,0,2,0,1
+Domingos André Ribeiro Almeida,CM,72,0,0,0,37,0,16
+Enzo Barrenechea,CM,18,0,0,0,15,0,8
+José Luis García Vayá,CM,90,0,0,0,57,0,23
+Sergi Canós,RM,62,0,0,0,26,0,14
+Diego López,RM,28,0,0,2,11,0.1,9
+Thierry Correia,LB,90,0,0,1,55,0,18
+Yarek Gasiorowski,CB,90,0,0,0,59,0,20
+Cristhian Mosquera,CB,90,0,0,0,54,0,28
+César Tárrega,CB,90,0,0,1,42,0,17
+Dimitri Foulquier,RB,90,0,0,0,39,0,11
+Giorgi Mamardashvili,GK,90,0,0,0,35,0,12
+Alejo Véliz,FW,82,0,0,1,18,0.1,7
+Fernando Calero,"CB,FW",8,0,0,0,7,0,0
+Irvin Cardona,LW,54,0,1,2,20,0.1,10
+Pere Milla,"LW,LM",36,0,0,0,22,0,8
+Jofre,RW,83,1,1,2,30,0.2,22
+Antoniu,"RM,RW",7,0,0,0,6,0,0
+Alex Král,"AM,CM,DM",90,0,0,1,35,0,15
+Pol Lozano,DM,74,0,0,0,39,0,13
+Walid Cheddira,"FW,AM",16,0,0,0,9,0,2
+José Gragera,"DM,CM",90,0,0,0,37,0,11
+Carlos Romero,LB,90,0,0,1,59,0,17
+Marash Kumbulla,CB,90,1,0,1,53,0.6,27
+Sergi Gómez,CB,90,0,0,0,35,0,16
+Omar El Hilali,RB,90,0,0,0,53,0,23
+Joan García,GK,90,0,0,0,31,0,13
+Cyle Larin,FW,90,0,1,1,21,0.2,18
+Dani Rodríguez,FW,60,0,0,0,21,0,12
+Chiquinho,RM,30,0,0,1,18,0.1,7
+Sergi Darder,LM,59,0,0,1,32,0,22
+Abdón Prats,FW,31,0,0,2,5,0.4,4
+Samu Costa,CM,90,0,0,1,72,0,52
+Omar Mascarell,CM,79,0,0,0,58,0,36
+Manu Morlanes,CM,11,0,0,1,15,0.1,8
+Roberto Navarro,RM,60,0,0,0,23,0,19
+Valery Fernández,LM,30,0,0,0,12,0,8
+Johan Mojica,LB,60,0,0,1,46,0.1,27
+Toni Lato,LB,30,0,0,0,31,0,12
+Copete,CB,90,0,0,0,71,0,49
+Antonio Raillo,CB,90,1,0,3,65,0.8,35
+Pablo Maffeo,RB,90,0,0,0,68,0,33
+Dominik Greif,GK,90,0,0,0,33,0,20
+Chrisantus Uche,FW,73,0,0,2,25,0,10
+Álvaro Rodríguez,FW,17,0,0,1,10,0,6
+Bertuğ Yıldırım,FW,45,1,0,1,12,0.4,5
+Borja Mayoral,FW,45,0,0,0,17,0,9
+Alex Sola,LM,73,0,1,1,35,0.1,24
+Alberto Risco,LM,17,0,0,0,9,0,3
+Luis Milla,CM,90,0,0,1,40,0,14
+Mauro Arambarri,CM,90,0,0,1,36,0.1,10
+Carles Pérez,RM,90,0,0,2,24,0.1,10
+Diego Rico,LB,90,0,0,0,62,0,16
+Omar Alderete,CB,90,0,0,2,43,0.1,10
+Juan Berrocal,CB,82,0,0,0,29,0,6
+Nabil Aberdin,CB,8,0,0,0,5,0,0
+Djené,RB,45,0,0,0,16,0,5
+Iglesias,RB,45,0,0,0,27,0,3
+David Soria,GK,90,0,0,0,20,0,4
+Ante Budimir,FW,90,1,0,3,32,0.1,16
+Bryan Zaragoza,"LW,RW",78,0,1,0,22,0,12
+Rubén Peña,LM,12,0,0,1,6,0.1,1
+Rubén García,RW,57,0,0,0,34,0,14
+Raúl,LW,33,0,0,0,4,0,3
+Aimar Oroz,LM,78,0,0,0,35,0,19
+Moi Gómez,RW,12,0,0,0,6,0,4
+Lucas Torró,CM,58,0,0,0,35,0,18
+Jon Moncayola,CM,32,0,0,0,18,0,11
+Pablo Ibáñez,RM,90,0,0,1,43,0.1,19
+Abel,LB,90,0,0,1,52,0,17
+Enzo Boyomo,CB,90,0,0,0,57,0,19
+Catena,CB,90,0,0,0,58,0,28
+Jesús Areso,RB,90,0,0,0,63,0,21
+Sergio Herrera,GK,90,0,0,0,49,0,25
+Oliver McBurnie,FW,66,0,0,1,22,0,12
+Marc Cardona,FW,24,0,0,0,7,0,1
+Alberto Moleiro,"LW,CM",90,0,0,7,63,0.3,47
+Adnan Januzaj,"RW,RM",90,0,0,3,64,0.2,37
+Fábio Silva,AM,66,0,0,3,25,0.2,14
+Jaime Mata,"FW,AM",24,0,0,1,2,0.1,3
+Dario Essugo,"DM,CB",90,0,0,3,88,0.1,56
+Javier Muñoz,DM,57,0,0,1,31,0,15
+Manuel Fuster,"LM,DM",33,0,0,1,42,0.1,25
+Álex Muñoz,LB,57,0,0,0,37,0,13
+Benito Ramírez,LB,33,0,0,1,44,0,29
+Juan Herzog,CB,90,0,0,3,57,0.2,30
+Álex Suárez,CB,74,0,0,0,60,0,35
+José Campaña,CM,16,0,0,1,32,0,18
+Viti,RB,90,0,0,0,63,0,27
+Dinko Horkaš,GK,90,0,0,0,40,0,24
+Borja Iglesias,FW,61,1,0,3,22,0.5,17
+Anastasios Douvikas,FW,29,0,0,1,15,0.1,9
+Williot Swedberg,LW,61,0,0,0,19,0,9
+Pablo Durán,FW,29,0,0,0,10,0,6
+Iago Aspas,RW,55,0,0,0,31,0,16
+Hugo Álvarez,"LM,WB",78,0,0,0,59,0,23
+Franco Cervi,WB,12,0,0,0,6,0,3
+Ilaix Moriba,CM,53,0,0,1,36,0,19
+Fran Beltrán,CM,90,0,0,1,58,0,24
+Óscar Mingueza,"RM,WB",89,0,1,2,62,0.1,23
+Carlos Dominguez,CB,1,0,0,0,5,0,1
+Marcos Alonso,CB,90,0,0,0,64,0,34
+Carl Starfelt,CB,90,0,0,0,44,0,20
+Javier Manquillo,CB,60,0,0,0,31,0,18
+Javi Rodríguez,"CB,WB",30,0,0,0,10,0,1
+Vicente Guaita,GK,90,0,0,0,37,0,13
+Vinicius Júnior,FW,78,1,0,3,48,0.1,33
+Arda Güler,RW,12,0,0,0,5,0,4
+Kylian Mbappé,FW,70,0,0,3,33,0.1,27
+Rodrygo,"LW,FW",20,0,0,0,5,0,4
+Jude Bellingham,"LM,FW",90,0,0,2,72,0.1,54
+Eduardo Camavinga,CM,70,0,0,0,79,0,55
+Éder Militão,CB,20,0,0,0,18,0,13
+Federico Valverde,CM,90,1,1,1,89,0,56
+Luka Modrić,"RM,CM",89,0,1,1,96,0.1,65
+Lucas Vázquez,CM,1,0,0,0,1,0,0
+Ferland Mendy,LB,90,0,0,0,69,0,39
+Antonio Rüdiger,CB,90,0,0,1,68,0.2,39
+Aurélien Tchouaméni,"CB,CM",90,0,0,0,57,0,38
+Dani Carvajal,RB,90,0,0,0,82,0,50
+Andriy Lunin,GK,90,0,0,0,34,0,18
+Thierno Barry,FW,90,0,0,3,25,0.7,15
+Alex Baena,LW,67,0,0,1,37,0.1,18
+Yeremi Pino,LW,23,0,0,0,14,0,7
+Nicolas Pépé,RW,67,0,0,5,49,0.2,35
+Ilias Akhomach,RW,23,0,0,1,13,0,10
+Pape Gueye,LM,90,0,0,1,54,0.2,38
+Daniel Parejo,CM,78,0,0,0,70,0,40
+Ramón Terrats,RM,12,0,0,1,14,0,10
+Santi Comesaña,"RM,CM",90,0,0,0,80,0,42
+Sergi Cardona,LB,85,0,0,0,45,0,26
+Juan Bernat,LB,5,0,0,0,13,0,10
+Logan Costa,CB,90,0,0,0,61,0,39
+Raúl Albiol,CB,67,0,0,0,39,0,20
+Eric Bailly,CB,23,0,0,0,23,0,13
+Kiko Femenía,RB,90,0,0,0,82,0,48
+Diego Conde,GK,90,0,0,0,24,0,10
+Abel Ruiz,FW,89,0,0,0,23,0,15
+Cristhian Stuani,FW,1,1,0,1,2,0.8,0
+Arnaut Danjuma,LW,58,0,0,2,24,0.3,18
+Bryan Gil,LW,32,0,0,0,17,0,12
+Yaser Asprilla,RW,89,1,0,3,81,0.1,53
+Alejandro Francés,RW,1,0,0,0,0,0,0
+Donny van de Beek,AM,90,0,0,1,48,0.1,26
+Yangel Herrera,DM,90,0,0,3,74,0.2,49
+Iván Martín,DM,89,0,0,0,81,0,51
+Gabriel Osei Misehouy,DM,1,0,0,0,1,0,0
+Miguel Gutiérrez,LB,90,0,0,1,62,0.1,41
+Ladislav Krejčí,CB,90,0,0,1,87,0.2,58
+David López,CB,90,0,0,1,103,0.1,63
+Arnau Martinez,RB,89,0,1,0,96,0,62
+Juanpe,RB,1,0,0,0,1,0,0
+Paulo Gazzaniga,GK,90,0,0,0,37,0,21
+Gorka Guruzeta,FW,58,0,0,2,19,0.2,10
+Álvaro djaló,FW,32,0,0,0,9,0,5
+Álex Berenguer,LW,90,0,1,2,35,0.9,25
+Iñaki Williams,RW,90,0,0,0,30,0,23
+Ander Herrera,"LM,CM",78,0,0,2,45,0.8,29
+Beñat Prados,CM,12,0,0,0,10,0,3
+Iñigo Ruiz de Galarreta,CM,58,0,0,0,22,0,17
+Mikel Jauregizar,RM,32,0,0,0,16,0,4
+Oihan Sancet,RM,42,1,0,1,24,0.5,17
+Unai Gómez,"LM,RM",48,0,0,2,13,0.3,7
+Adama Boiro,LB,77,0,0,0,38,0,16
+Yuri Berchiche,LB,13,0,0,1,12,0.1,5
+Aitor Paredes,CB,89,0,0,0,43,0,31
+Daniel Vivian,CB,90,0,0,0,41,0,24
+Óscar de Marcos,RB,90,0,0,1,52,0,27
+Alex Padilla,GK,90,0,0,0,36,0,19
+Toni Martínez,FW,56,0,0,2,14,0.1,11
+Kiké,FW,34,0,0,1,5,0.2,2
+Abderrahman Rebbach,"LM,LW",90,0,0,0,35,0,24
+Carlos Vicente,"RB,RW",90,0,0,1,48,0.1,19
+Stoichkov,"AM,RM",56,0,0,1,26,0,15
+Tomás Conechny,RM,34,0,0,1,10,0,11
+Antonio Blanco,"DM,CM",77,0,0,2,31,0.1,19
+Joan Jordán,CM,13,0,0,0,8,0,4
+Ander Guevara,"CM,DM",90,0,0,1,35,0.1,23
+Manu Sánchez,LB,90,0,0,1,50,0,23
+Santiago Mouriño,CB,90,0,0,0,29,0,12
+Abdel Abqar,CB,66,0,0,1,15,0.1,7
+Pica,CB,24,0,0,0,9,0,3
+Nahuel Tenaglia,RB,45,0,0,0,22,0,8
+Moussa Diarra,CB,45,0,0,0,15,0,9
+Antonio Sivera,GK,90,0,0,0,30,0,17
+Robert Lewandowski,FW,90,3,0,6,42,1.8,27
+Ferrán Torres,LW,5,0,0,0,1,0,0
+Eric García,"DM,CB",85,0,1,1,60,0,34
+Lamine Yamal,RW,66,0,0,1,31,0,20
+Ansu Fati,"RW,LW",24,0,0,2,19,0.2,12
+Raphinha,"LW,RW,AM",90,0,2,3,47,0.5,20
+Pedri,"AM,DM",90,0,0,1,61,0.1,39
+Marc Casado,DM,90,0,0,0,89,0,46
+Alejandro Balde,LB,80,0,0,0,37,0,18
+Frenkie de Jong,DM,10,0,0,0,3,0,1
+Iñigo Martínez,CB,80,0,0,0,100,0,65
+Gerard Martín,LB,10,0,0,0,8,0,3
+Pau Cubarsí,CB,90,0,0,0,126,0,93
+Héctor Fort,RB,66,0,0,0,76,0,33
+Jules Koundé,RB,24,0,0,0,38,0,20
+Iñaki Peña,GK,90,0,0,0,66,0,35
+Isaac Romero,FW,71,0,0,1,20,0.2,17
+Jesús Navas,RW,19,0,0,0,17,0,7
+Chidera Ejuke,LW,89,0,0,1,36,0,24
+Marcão,CB,1,0,0,0,1,0,0
+Dodi Lukebakio,"RW,FW",90,1,0,4,52,1.1,32
+Peque,AM,78,0,0,1,27,0,25
+Suso,AM,12,0,0,1,5,0,5
+Nemanja Gudelj,DM,90,0,0,3,54,0.1,21
+Lucien Agoume,DM,71,0,0,1,53,0,34
+Albert Sambi Lokonga,DM,19,0,0,0,5,0,5
+Adrià Pedrosa,LB,78,0,0,0,38,0,19
+Kike Salas,LB,12,0,0,0,4,0,1
+Tanguy Nianzou,CB,89,0,0,0,51,0,34
+Loïc Bade,CB,90,0,0,0,79,0,48
+Carmona,RB,90,0,0,1,52,0,27
+Ørjan Nyland,GK,90,0,0,0,40,0,29
+Vitor Roque,FW,63,0,0,3,15,0.3,10
+Cédric Bakambu,FW,27,0,0,0,6,0,2
+Abde Ezzalzouli,LW,78,0,0,1,31,0,18
+Ezequiel Ávila,LW,12,0,0,1,7,0.1,4
+Pablo Fornals,"RW,DM",90,0,0,0,39,0,15
+Giovani Lo Celso,AM,90,0,0,3,57,0.1,29
+Marc Roca,DM,63,0,0,0,34,0,22
+Aitor Ruibal,RW,27,0,0,0,11,0,8
+Johnny Cardoso,DM,90,0,0,1,46,0,17
+Ricardo Rodríguez,LB,85,0,0,0,40,0,12
+Romain Perraud,LB,5,0,0,1,11,0,5
+Natan,CB,90,0,0,1,68,0,31
+Diego Llorente,CB,90,0,0,0,69,0,42
+Héctor Bellerín,RB,90,0,0,0,61,0,30
+Rui Silva,GK,90,0,0,0,33,0,15
+Mikel Oyarzabal,FW,90,0,1,3,24,0.2,23
+Sheraldo Becker,LM,60,0,0,0,36,0,29
+Ander Barrenetxea,LM,30,0,0,1,22,0,15
+Sergio Gómez,"LB,CM",90,0,0,0,111,0,78
+Luka Sučić,CM,90,1,0,2,57,0,46
+Takefusa Kubo,RM,90,0,0,3,63,0.1,49
+Martín Zubimendi,DM,90,0,0,1,90,0.1,73
+Javi López,LB,45,0,0,1,42,0,30
+Brais Méndez,CM,45,0,0,2,35,0.3,30
+Nayef Aguerd,CB,90,0,0,1,117,0.1,86
+Igor Zubeldia,CB,90,0,0,1,105,0,81
+Jon Aramburu,RB,90,0,0,1,98,0,59
+Álex Remiro,GK,90,0,0,0,18,0,10
+Julián Álvarez,FW,73,1,0,2,21,0.1,13
+Alexander Sørloth,FW,17,0,0,0,9,0,1
+Antoine Griezmann,LM,82,0,1,0,51,0,17
+Rodrigo Riquelme,LM,8,0,0,0,8,0,4
+Conor Gallagher,CM,63,0,0,1,24,0,14
+Rodrigo De Paul,RM,27,0,0,0,16,0,8
+Koke,CM,90,0,0,0,43,0,16
+Pablo Barrios,"RM,CM",90,0,0,0,37,0,18
+Javi Galán,LB,82,0,0,0,47,0,22
+Reinildo Mandava,LB,8,0,0,0,6,0,2
+Clément Lenglet,CB,90,0,0,0,50,0,28
+José María Giménez,CB,90,0,0,0,27,0,12
+Axel Witsel,CB,90,0,0,0,30,0,10
+Nahuel Molina,RB,90,0,0,1,56,0.4,21
+Jan Oblak,GK,90,0,0,0,47,0,19
+Toni Martínez,FW,73,1,0,4,26,0.1,10
+Abderrahman Rebbach,"LW,FW",17,0,0,0,11,0,6
+Tomás Conechny,LW,60,0,0,1,37,0,15
+Luka Romero,"DM,RW,AM",30,0,0,0,7,0,4
+Carlos Vicente,"RW,LW",90,0,0,0,25,0,16
+Jon Guridi,AM,73,0,0,2,28,0.1,8
+Asier Villalibre,"FW,AM",17,0,0,0,8,0,2
+Ander Guevara,DM,76,0,0,0,57,0,23
+Kiké,"AM,DM",13,1,0,1,8,0,2
+Antonio Blanco,DM,60,0,0,0,52,0,25
+Joan Jordán,DM,30,0,0,0,31,0,13
+Manu Sánchez,LB,90,0,0,0,54,0,19
+Moussa Diarra,CB,90,0,0,0,60,0,37
+Abdel Abqar,CB,90,0,1,2,68,0.2,34
+Nahuel Tenaglia,RB,90,0,0,0,39,0,15
+Antonio Sivera,GK,90,0,0,0,36,0,16
+Mamadou Sylla,FW,83,1,1,0,18,0.8,7
+Juanmi Latasa,FW,7,0,0,0,5,0,1
+Selim Amallah,FW,73,1,0,2,23,0.8,12
+Víctor Meseguer,FW,17,0,0,0,10,0,5
+Anuar,"LM,RM",88,1,0,2,29,0.5,11
+Stanko Jurić,RM,2,0,0,0,5,0,0
+Mario Martín,CM,73,0,0,2,35,0,17
+Kike Pérez,CM,17,0,0,1,10,0,5
+Eray Cömert,CM,90,0,0,1,38,0.1,12
+Raúl Moro,"RM,LM",90,0,0,0,22,0,17
+Raúl Chasco,LB,90,0,0,0,36,0,11
+David Torres,CB,90,0,0,0,41,0,21
+Javi Sánchez,CB,73,0,0,2,35,0.1,24
+Abdulai Juma Bah,CB,17,0,0,0,10,0,0
+Luis Pérez,RB,90,0,0,0,33,0,11
+Karl Jakob Hein,GK,90,0,0,0,40,0,21
+Gorka Guruzeta,FW,90,0,0,1,31,0,12
+Nico Williams,LW,72,0,1,2,37,0.1,21
+Álvaro djaló,LW,18,0,0,0,3,0,2
+Iñaki Williams,RW,72,2,0,2,34,0.4,22
+Nicolás Serrano,RW,18,0,0,1,8,0,3
+Álex Berenguer,AM,77,1,2,2,48,0.5,15
+Unai Gómez,AM,13,0,0,0,3,0,0
+Mikel Jauregizar,DM,90,0,0,0,81,0,43
+Iñigo Ruiz de Galarreta,DM,62,0,0,0,45,0,25
+Beñat Prados,DM,28,0,0,0,16,0,4
+Yuri Berchiche,LB,62,0,0,0,43,0,17
+Adama Boiro,LB,28,0,0,0,14,0,4
+Unai Núñez,CB,90,0,0,0,67,0,30
+Daniel Vivian,CB,90,1,0,2,84,0.3,47
+Óscar de Marcos,RB,90,0,1,0,85,0,32
+Julen Agirrezabala,GK,90,0,0,0,34,0,20
+Alejo Véliz,FW,45,0,0,0,10,0,2
+Walid Cheddira,FW,45,0,0,0,13,0,6
+Carlos Romero,LW,45,0,0,0,15,0,7
+Pere Milla,LW,45,0,0,2,28,0.1,13
+Jofre,RW,62,0,0,2,29,0.1,19
+Irvin Cardona,RW,28,0,0,0,14,0,9
+Alex Král,"CM,AM",90,0,0,0,42,0,21
+Pol Lozano,"CM,DM",90,0,0,0,46,0,19
+José Gragera,DM,45,0,0,0,22,0,12
+Leandro Cabrera,CB,45,0,0,0,35,0,16
+Brian Oliván,"LM,LB",90,0,0,0,52,0,22
+Marash Kumbulla,CB,72,0,0,0,46,0,20
+Álvaro Tejero,RM,18,1,0,1,17,0.1,5
+Sergi Gómez,CB,90,0,0,0,57,0,32
+Omar El Hilali,"RB,RM,CB",90,0,0,0,54,0,21
+Joan García,GK,90,0,0,0,34,0,24
+Ante Budimir,FW,90,0,0,5,24,0.5,13
+Bryan Zaragoza,LW,87,0,0,3,30,0.1,19
+José Arnaiz,LW,3,0,0,0,6,0,3
+Rubén García,RW,66,0,0,1,46,0.2,25
+Jon Moncayola,RW,24,0,0,1,17,0.1,7
+Aimar Oroz,LM,86,0,0,4,41,0.3,23
+Rubén Peña,LM,4,0,0,1,5,0,2
+Lucas Torró,CM,87,1,0,1,50,0.5,20
+Moi Gómez,CM,3,0,0,0,11,0,3
+Pablo Ibáñez,RM,76,0,0,0,34,0,20
+Raúl,RM,14,0,0,1,6,0.1,5
+Abel,LB,90,0,0,0,50,0,20
+Enzo Boyomo,CB,90,0,0,1,59,0.1,36
+Catena,CB,90,0,0,0,62,0,30
+Jesús Areso,RB,90,0,0,1,70,0,33
+Sergio Herrera,GK,90,0,0,0,38,0,18
+Vitor Roque,FW,45,1,0,2,9,1,8
+Ezequiel Ávila,FW,45,1,0,4,19,1.2,9
+Cédric Bakambu,FW,59,0,0,0,22,0,11
+Abde Ezzalzouli,LW,31,0,0,0,13,0,6
+Pablo Fornals,"LM,RW,AM",89,0,0,1,37,0.3,20
+Ricardo Rodríguez,CB,1,0,0,0,3,0,1
+Sergi Altimira,"CM,DM",67,0,0,0,31,0,15
+Iker Losada,AM,23,0,0,0,5,0,2
+Johnny Cardoso,"CM,DM",90,0,0,0,45,0,11
+Aitor Ruibal,"RM,RW",67,0,1,1,32,0,16
+Mateo Flores,DM,23,0,0,0,9,0,6
+Romain Perraud,LB,90,0,0,0,54,0,26
+Diego Llorente,CB,90,0,0,1,56,0.1,30
+Marc Bartra,CB,87,0,0,1,61,0,37
+Natan,CB,2,0,0,0,3,0,0
+Héctor Bellerín,RB,90,0,0,1,41,0.1,16
+Rui Silva,GK,90,0,0,0,45,0,27
+Arnaut Danjuma,"FW,LM",90,0,0,3,42,0.2,25
+Bojan Miovski,FW,58,0,0,0,6,0,4
+Cristhian Stuani,FW,32,0,0,0,6,0,3
+Miguel Gutiérrez,"LW,LB",90,0,0,1,58,0,31
+Arnau Martinez,"RW,RB",90,0,0,1,59,0,31
+Yangel Herrera,CM,90,0,0,1,50,0.1,38
+Donny van de Beek,CM,58,0,0,0,13,0,9
+Gabriel Osei Misehouy,"FW,CM",32,0,0,0,16,0,14
+Iván Martín,"DM,CM",90,0,0,0,51,0,37
+Ladislav Krejčí,CB,90,0,0,1,80,0,44
+David López,CB,90,0,0,1,68,0,45
+Alejandro Francés,CB,71,0,0,0,57,0,36
+Kim Minsu,RM,19,0,0,0,10,0,6
+Paulo Gazzaniga,GK,90,0,0,0,41,0,24
+Orri Steinn Óskarsson,FW,64,0,0,2,17,0.8,7
+Takefusa Kubo,RM,26,0,0,1,10,0,7
+Ander Barrenetxea,LM,58,0,1,1,31,0,23
+Javi López,"LB,CB",32,0,0,0,23,0,13
+Brais Méndez,CM,79,0,0,1,64,0.1,33
+Beñat Turrientes,LM,11,0,0,0,7,0,3
+Luka Sučić,CM,90,0,0,3,43,0.2,22
+Mikel Oyarzabal,"RM,FW",79,1,0,4,47,0.5,27
+Sheraldo Becker,FW,11,0,0,0,1,0,2
+Martín Zubimendi,"DM,CM",90,0,0,0,55,0,24
+Sergio Gómez,"LB,LM",90,0,0,1,59,0,26
+Nayef Aguerd,CB,90,0,0,1,77,0.3,50
+Igor Zubeldia,CB,90,0,0,0,78,0,52
+Jon Aramburu,RB,90,0,0,0,70,0,23
+Álex Remiro,GK,90,0,0,0,46,0,31
+Borja Iglesias,FW,77,0,0,1,30,0,18
+Anastasios Douvikas,FW,13,0,0,2,5,0.4,3
+Williot Swedberg,LW,71,1,0,2,25,0.8,13
+Alfon,LW,19,0,0,2,10,0.2,7
+Jonathan Bamba,RW,77,0,0,2,51,0.1,40
+Pablo Durán,RW,13,0,0,0,3,0,3
+Hugo Álvarez,LM,90,0,0,0,57,0,41
+Hugo Sotelo,CM,90,0,0,1,86,0,52
+Fran Beltrán,CM,86,0,0,0,79,0,51
+Damián Rodríguez,CM,4,0,0,0,11,0,10
+Óscar Mingueza,RM,90,0,1,1,82,0.1,51
+Marcos Alonso,CB,90,0,0,2,70,0.1,45
+Carl Starfelt,CB,90,0,0,0,51,0,24
+Javier Manquillo,CB,71,0,0,0,38,0,17
+Javi Rodríguez,CB,19,0,0,0,24,0,16
+Vicente Guaita,GK,90,0,0,0,23,0,13
+Kylian Mbappé,FW,81,1,0,2,42,0.1,29
+Dani Ceballos,RM,9,0,0,0,12,0,7
+Vinicius Júnior,"AM,LW,FW",90,1,0,4,51,0.5,33
+Jude Bellingham,AM,90,0,0,1,57,0,32
+Eduardo Camavinga,CM,62,0,1,2,48,0.1,23
+Rodrygo,"RW,FW",28,0,0,0,23,0,8
+Federico Valverde,CM,62,0,0,1,46,0.1,25
+Luka Modrić,"DM,LM",28,0,1,0,26,0,16
+Fran Garcia,"WB,LB",69,0,0,0,48,0,22
+Ferland Mendy,LB,21,0,0,0,16,0,7
+Lucas Vázquez,"WB,RB",90,0,0,0,71,0,28
+Antonio Rüdiger,CB,90,0,0,0,87,0,43
+Aurélien Tchouaméni,"CB,DM,CM",90,0,0,0,86,0,53
+Éder Militão,CB,90,0,0,0,83,0,41
+Thibaut Courtois,GK,90,0,0,0,41,0,22
+Cyle Larin,FW,71,0,0,4,24,0.1,16
+Dani Rodríguez,FW,19,0,1,0,10,0,6
+Vedat Muriqi,FW,83,1,0,4,34,0.9,17
+Abdón Prats,FW,7,0,0,0,2,0,2
+Sergi Darder,"LM,RM",83,0,0,2,56,0.2,22
+Antonio Sánchez,RM,7,0,0,0,9,0,5
+Samu Costa,CM,90,0,0,1,55,0.1,27
+Manu Morlanes,CM,76,0,0,1,52,0,20
+Omar Mascarell,CM,14,0,0,0,10,0,6
+Roberto Navarro,RM,71,0,0,3,29,0.5,23
+Valery Fernández,"LM,RM",19,0,0,0,2,0,2
+Johan Mojica,LB,90,0,0,1,49,0,18
+Antonio Raillo,CB,90,0,0,1,49,0,14
+Martin Valjent,CB,90,0,0,1,50,0.1,27
+Pablo Maffeo,RB,90,0,0,1,48,0.1,18
+Dominik Greif,GK,90,0,0,0,34,0,23
+Isaac Palazón Camacho,FW,63,0,0,1,17,0,10
+James Rodríguez,FW,27,0,0,0,25,0,17
+Sergio Camello,FW,54,0,0,2,10,0.2,2
+Sergi Guardiola,FW,36,0,0,0,13,0,9
+Álvaro García,LM,90,0,0,1,31,0,19
+Gerard Gumbau,CM,54,0,0,1,35,0,13
+Pathé Ciss,CM,36,0,0,1,31,0,19
+Unai López,CM,62,0,0,0,43,0,24
+Óscar Valentín,CM,28,0,0,0,19,0,11
+Jorge de Frutos,RM,90,0,0,3,22,0.2,18
+Iván Balliu,LB,90,0,0,0,51,0,20
+Abdul Mumin,CB,72,0,0,1,50,0.1,26
+Aridane Hernández,CB,18,0,0,0,5,0,3
+Florian Lejeune,CB,90,0,0,0,58,0,30
+Andrei Ratiu,RB,90,0,0,0,49,0,25
+Augusto Batalla,GK,90,0,0,0,45,0,22
+Alexander Sørloth,FW,90,2,0,7,38,2,18
+Ángel Correa,FW,56,0,0,5,31,0.8,24
+Julián Álvarez,FW,34,0,1,3,32,0.2,27
+Antoine Griezmann,AM,90,1,0,2,83,0.3,58
+Rodrigo Riquelme,"LM,RB",56,0,0,2,42,0.1,28
+Giuliano Simeone,RB,34,0,1,0,29,0,15
+Pablo Barrios,"RM,DM",90,0,0,2,81,0.1,54
+Koke,DM,56,0,0,0,67,0,49
+Rodrigo De Paul,RM,34,0,0,1,29,0.1,20
+Javi Galán,LB,90,0,0,1,68,0,45
+Clément Lenglet,CB,63,0,0,0,55,0,44
+José María Giménez,CB,27,0,0,0,20,0,11
+Axel Witsel,CB,90,0,1,0,63,0,43
+Nahuel Molina,RB,45,0,0,0,59,0,42
+Samuel Lino,LM,45,0,0,1,29,0.7,25
+Jan Oblak,GK,90,0,0,0,22,0,16
+Miguel,FW,76,0,0,0,22,0,13
+Sébastien Haller,FW,14,0,0,0,6,0,3
+Dani Raba,FW,67,0,1,1,31,0,15
+Roberto López,RM,23,0,0,0,17,0,9
+Seydouba Cissé,LM,82,0,0,1,41,0.1,17
+Diego,FW,8,0,0,0,4,0,3
+Renato Tapia,CM,90,0,0,0,50,0,17
+Yvan Neyou,CM,90,1,0,1,50,0.1,24
+Juan Cruz,RM,67,0,0,2,25,0.1,15
+Munir El Haddadi,"LM,FW",23,0,0,0,13,0,9
+Javi Hernández,LB,82,0,0,0,35,0,10
+Enric Franquesa,LB,8,0,0,0,12,0,9
+Matija Nastasić,CB,90,0,0,0,63,0,21
+Sergi,CB,90,0,0,0,52,0,19
+Valentin Rosier,RB,90,0,0,0,58,0,16
+Marko Dmitrović,GK,90,0,0,0,37,0,18
+Thierno Barry,FW,90,0,1,1,14,0.1,6
+Alex Baena,LW,78,0,0,0,46,0,28
+Yeremi Pino,LW,12,0,0,0,2,0,2
+Ilias Akhomach,RW,68,0,0,2,32,0.1,18
+Nicolas Pépé,"AM,RW",22,0,0,1,19,0,15
+Pape Gueye,AM,78,0,0,4,41,0.3,33
+Ramón Terrats,DM,12,0,0,0,10,0,8
+Daniel Parejo,DM,90,0,0,0,61,0,36
+Santi Comesaña,"DM,RW",90,1,0,1,55,0.2,34
+Sergi Cardona,LB,90,0,0,1,56,0.2,28
+Eric Bailly,CB,45,0,0,0,23,0,8
+Pau Navarro,CB,45,0,0,0,12,0,6
+Raúl Albiol,CB,90,0,0,0,51,0,26
+Kiko Femenía,RB,90,0,0,0,68,0,34
+Diego Conde,GK,90,0,0,0,39,0,26
+Chrisantus Uche,FW,45,0,0,0,11,0,7
+Álvaro Rodríguez,FW,45,0,0,3,20,0.3,5
+Bertuğ Yıldırım,FW,89,0,0,5,28,0.4,7
+Nabil Aberdin,FW,1,0,0,0,0,0,0
+Alex Sola,LM,67,0,0,3,31,0.2,15
+Peter Federico,RM,23,0,0,2,11,0.1,6
+Luis Milla,CM,90,0,0,2,52,0.1,17
+Mauro Arambarri,CM,90,1,0,3,27,1,8
+Carles Pérez,"RM,LM",89,0,0,2,39,0,20
+Allan Nyom,LM,1,0,0,0,0,0,0
+Diego Rico,LB,90,0,0,0,67,0,23
+Omar Alderete,CB,90,0,0,0,38,0,12
+Djené,CB,90,0,0,0,37,0,12
+Iglesias,RB,90,0,0,0,57,0,10
+David Soria,GK,90,0,0,0,34,0,10
+Robert Lewandowski,FW,65,2,0,3,31,1.9,15
+Pau Victor Delgado,FW,25,0,0,1,12,0.4,6
+Ansu Fati,LW,75,0,0,2,42,0.4,29
+Gerard Martín,LB,15,0,0,0,9,0,4
+Lamine Yamal,RW,75,0,1,6,51,0.8,35
+Pablo Torre,RW,15,2,0,2,10,0.2,5
+Raphinha,AM,65,0,1,2,39,0.1,23
+Fermin López,AM,25,0,0,0,18,0,10
+Pedri,DM,82,1,0,1,83,0.1,51
+Gavi,DM,8,0,0,0,9,0,7
+Marc Casado,DM,90,0,0,1,65,0.1,33
+Alejandro Balde,"LB,LW",90,0,0,2,59,0.1,39
+Iñigo Martínez,CB,90,0,0,0,124,0,90
+Pau Cubarsí,CB,90,0,0,0,97,0,60
+Jules Koundé,RB,90,0,0,0,67,0,40
+Iñaki Peña,GK,90,0,0,0,46,0,23
+Isaac Romero,FW,90,0,0,2,20,0.1,13
+Chidera Ejuke,LW,44,0,0,0,16,0,13
+Albert Sambi Lokonga,"DM,AM",46,0,0,0,26,0,20
+Dodi Lukebakio,RW,90,0,0,2,34,0.2,29
+Peque,AM,45,0,0,0,16,0,10
+Suso,LW,24,0,0,1,19,0,14
+Djibril Sow,AM,21,0,0,0,8,0,5
+Nemanja Gudelj,DM,90,0,0,0,37,0,23
+Lucien Agoume,DM,69,0,0,1,29,0,13
+Stanis Idumbo,LW,21,1,0,1,5,0.6,5
+Adrià Pedrosa,LB,80,0,0,0,33,0,16
+Gonzalo Montiel,LB,10,0,0,0,8,0,7
+Marcão,CB,90,0,0,0,31,0,14
+Loïc Bade,CB,90,0,1,0,61,0,40
+Carmona,RB,90,0,0,0,65,0,35
+Ørjan Nyland,GK,90,0,0,0,34,0,21
+Hugo Duro,FW,90,0,0,1,21,0.1,10
+Dani Gómez,FW,74,0,0,1,14,0.1,6
+Javier Guerra,CM,16,0,0,0,14,0,11
+Luis Rioja,LM,90,0,0,0,43,0,25
+José Luis García Vayá,CM,68,1,0,1,61,0.8,25
+Enzo Barrenechea,CM,54,0,0,0,29,0,12
+Domingos André Ribeiro Almeida,CM,36,0,0,1,38,0,18
+Sergi Canós,RM,54,0,0,1,29,0.2,13
+Diego López,RM,36,0,0,1,23,0,13
+Rodrigo Abajas,LB,65,0,0,1,36,0.1,13
+José Luis Gayà,LB,25,0,1,0,30,0,21
+Cristhian Mosquera,CB,90,0,0,0,68,0,45
+César Tárrega,CB,90,1,0,2,65,0.1,37
+Thierry Correia,RB,74,0,0,2,46,0.2,21
+Dimitri Foulquier,RB,16,0,0,2,19,0.1,7
+Giorgi Mamardashvili,GK,90,0,0,0,29,0,14
+Fábio Silva,FW,65,1,0,2,34,0.3,17
+Marc Cardona,RW,25,0,0,1,15,0.1,10
+Alberto Moleiro,LW,90,1,0,1,66,0.4,42
+Adnan Januzaj,RW,65,0,0,3,42,0.1,20
+Oliver McBurnie,FW,25,0,1,0,22,0,12
+Kirian Rodríguez,AM,90,0,0,1,66,0.1,41
+José Campaña,DM,58,0,1,0,50,0,26
+Javier Muñoz,DM,32,0,0,0,27,0,15
+Dario Essugo,DM,90,0,0,1,58,0,28
+Álex Muñoz,LB,73,1,0,2,47,0.3,20
+Juan Herzog,CB,17,0,0,0,8,0,4
+Scott McKenna,CB,90,0,0,0,60,0,28
+Álex Suárez,"CB,RB",90,0,0,0,41,0,24
+Viti,RB,73,0,0,0,36,0,13
+Benito Ramírez,LB,17,0,0,0,29,0,11
+Jasper Cillessen,GK,90,0,0,0,53,0,31
+Walid Cheddira,FW,57,0,0,2,13,0.3,6
+Alejo Véliz,FW,33,0,0,2,4,0.2,1
+Javi Puado,FW,80,0,0,1,27,0,19
+Irvin Cardona,FW,10,0,0,1,7,0,3
+Jofre,LM,67,0,0,0,22,0,14
+Pere Milla,LM,23,0,0,1,13,0.1,8
+Pol Lozano,CM,90,0,0,1,50,0,22
+Alex Král,CM,90,0,0,0,29,0,23
+Álvaro Tejero,RM,90,0,0,2,75,0.1,39
+Brian Oliván,LB,57,0,0,1,33,0,14
+Carlos Romero,LB,33,0,0,0,27,0,13
+Leandro Cabrera,CB,90,0,0,2,70,0.1,37
+Marash Kumbulla,CB,90,0,0,1,69,0.1,38
+Omar El Hilali,RB,67,0,0,0,39,0,15
+Antoniu,RB,23,0,0,2,16,0.2,8
+Joan García,GK,90,0,0,0,18,0,12
+Isaac Romero,FW,89,0,0,1,37,0.1,14
+Jesús Navas,FW,1,0,0,0,0,0,0
+Stanis Idumbo,LW,62,0,0,0,19,0,12
+Valentín Barco,LW,28,0,0,0,31,0,21
+Dodi Lukebakio,RW,89,2,0,2,45,0.1,31
+Lucien Agoume,RW,1,0,0,0,2,0,1
+Juanlu Sánchez,AM,80,0,1,2,37,0.3,17
+Djibril Sow,AM,10,0,0,1,14,0.3,7
+Albert Sambi Lokonga,DM,90,0,1,0,72,0,40
+Nemanja Gudelj,DM,90,0,0,0,69,0,26
+Adrià Pedrosa,LB,90,0,0,0,70,0,26
+Tanguy Nianzou,CB,90,0,0,0,51,0,27
+Loïc Bade,CB,90,0,0,0,70,0,35
+Carmona,RB,90,0,0,0,70,0,25
+Ørjan Nyland,GK,63,0,0,0,38,0,22
+Álvaro Fernández,GK,27,0,0,0,23,0,16
+Mamadou Sylla,FW,70,1,0,1,15,0.8,11
+Juanmi Latasa,FW,20,0,0,0,10,0,3
+Raúl Moro,LW,90,0,0,0,49,0,32
+Anuar,RW,87,0,0,1,20,0,15
+Kenedy,RW,3,0,0,1,1,0,1
+Selim Amallah,AM,78,0,0,1,34,0,21
+Kike Pérez,AM,12,0,0,0,11,0,3
+Eray Cömert,DM,87,0,0,1,38,0,23
+Iván Sánchez,DM,3,0,0,0,5,0,4
+Mario Martín,DM,70,0,0,1,42,0,28
+Víctor Meseguer,DM,20,0,0,0,15,0,8
+Lucas Oliveira Rosa,LB,90,0,0,0,51,0,26
+David Torres,CB,90,0,0,0,72,0,53
+Javi Sánchez,CB,90,0,0,0,80,0,60
+Luis Pérez,RB,90,0,0,0,58,0,40
+Karl Jakob Hein,GK,90,0,0,0,54,0,34
+Thierno Barry,FW,69,1,0,4,18,0.5,15
+Ayoze Pérez,FW,21,1,0,2,9,0.6,5
+Nicolas Pépé,FW,89,0,0,3,52,0.3,43
+Ramón Terrats,FW,1,0,0,0,3,0,2
+Alex Baena,LM,89,0,0,3,65,0.1,44
+Juan Bernat,LM,1,0,0,0,1,0,1
+Daniel Parejo,CM,90,0,0,0,80,0,63
+Santi Comesaña,CM,70,0,0,2,41,0.1,34
+Pape Gueye,CM,20,0,0,1,16,0.2,15
+Ilias Akhomach,RM,81,0,0,3,45,0.1,37
+Yeremi Pino,RM,9,0,0,1,10,0.2,7
+Sergi Cardona,LB,90,0,0,1,50,0.2,24
+Logan Costa,CB,90,0,0,1,77,0,58
+Raúl Albiol,CB,90,0,0,0,71,0,57
+Kiko Femenía,RB,90,0,1,0,86,0,58
+Diego Conde,GK,90,0,0,0,25,0,20
+Sergio Camello,FW,59,0,0,2,32,0.4,19
+Adri Embarba,"LW,FW",31,0,0,2,19,0.4,13
+Isaac Palazón Camacho,"DM,FW",64,0,0,2,38,0.3,23
+Aridane Hernández,CB,26,0,0,1,10,0.4,2
+Álvaro García,"LW,LM,FW",83,0,0,0,37,0,23
+Iván Balliu,RB,7,0,0,0,3,0,2
+Unai López,"DM,CM",59,0,0,1,58,0.1,42
+Gerard Gumbau,"DM,FW",31,0,0,2,15,0.1,6
+Óscar Valentín,"CB,DM,CM",90,0,0,1,56,0,34
+Jorge de Frutos,"RW,RM",83,0,0,0,40,0,29
+Pathé Ciss,DM,7,0,0,0,13,0,6
+Pep Chavarría,LB,90,0,0,0,48,0,28
+Abdul Mumin,CB,21,0,0,1,12,0.1,8
+Florian Lejeune,CB,90,0,0,2,57,0.1,35
+Andrei Ratiu,"RB,RW",90,0,0,2,66,0.1,45
+Augusto Batalla,GK,90,0,0,0,37,0,22
+Toni Martínez,FW,90,0,0,5,35,0.1,11
+Carlos Martín,"LW,LM",72,0,0,3,26,0.2,15
+Asier Villalibre,LW,18,0,0,1,5,0.1,4
+Ander Guevara,"CM,DM",59,0,0,1,34,0,15
+Stoichkov,DM,31,0,0,0,8,0,5
+Jon Guridi,"AM,CM",90,0,0,1,55,0,36
+Carlos Vicente,"RW,RM",90,0,0,3,34,0.3,22
+Manu Sánchez,LB,90,0,0,0,42,0,22
+Moussa Diarra,CB,90,0,0,0,69,0,41
+Pica,CB,90,0,0,0,62,0,39
+Nahuel Tenaglia,"RB,CB",90,0,0,0,32,0,12
+Santiago Mouriño,RB,32,0,0,0,17,0,5
+Joan Jordán,DM,58,0,0,1,63,0.3,31
+Antonio Sivera,GK,90,0,0,0,34,0,15
+Fábio Silva,FW,69,0,1,2,28,0.2,13
+Oliver McBurnie,FW,21,0,0,0,10,0,5
+Alberto Moleiro,"LW,RB",90,0,0,5,41,0.5,24
+Manuel Fuster,RW,59,0,0,1,32,0,17
+Javier Muñoz,"DM,CM",31,0,0,0,14,0,6
+Kirian Rodríguez,AM,84,0,0,2,49,0.1,24
+Jaime Mata,CM,6,0,0,0,2,0,1
+José Campaña,DM,58,0,0,0,48,0,23
+Sandro Ramírez,"RW,FW",32,0,0,0,17,0,7
+Dario Essugo,"DM,CM",90,0,0,0,52,0,25
+Álex Muñoz,LB,90,1,0,2,54,0.2,23
+Scott McKenna,CB,90,0,0,0,48,0,25
+Álex Suárez,CB,90,0,0,0,47,0,24
+Viti,RB,84,0,0,0,47,0,14
+Mika Màrmol,CB,6,0,0,0,3,0,0
+Jasper Cillessen,GK,90,0,0,0,31,0,18
+Bojan Miovski,FW,90,0,0,2,11,0.1,5
+Gabriel Osei Misehouy,FW,90,0,0,0,35,0,24
+Arnaut Danjuma,LM,90,0,0,1,40,0,24
+Silvi Clúa,CM,65,0,0,0,38,0,17
+Daley Blind,"CM,CB",25,0,0,0,34,0,26
+Donny van de Beek,CM,90,0,0,0,38,0,13
+Arnau Martinez,"RB,RM",89,0,0,2,69,0.2,43
+Kim Minsu,CM,1,0,0,0,3,0,2
+Miguel Gutiérrez,LB,90,0,0,2,65,0.3,34
+Ladislav Krejčí,CB,90,0,0,0,108,0,78
+David López,"CB,RB",90,0,0,0,103,0,75
+Alejandro Francés,RB,42,0,0,0,31,0,18
+Papa Ba,RM,48,0,0,1,20,0,9
+Paulo Gazzaniga,GK,90,0,0,0,30,0,19
+Vinicius Júnior,FW,90,0,0,2,30,0.3,24
+Kylian Mbappé,FW,90,0,0,3,25,0.6,17
+Eduardo Camavinga,LM,76,0,0,0,37,0,20
+Brahim Díaz,RM,14,0,0,0,4,0,3
+Aurélien Tchouaméni,CM,62,0,0,0,23,0,7
+Luka Modrić,CM,28,0,0,1,22,0,10
+Federico Valverde,CM,90,0,0,1,47,0,22
+Jude Bellingham,"RM,LM",90,0,0,1,28,0.5,15
+Ferland Mendy,LB,85,0,0,0,45,0,29
+Fran Garcia,LB,5,0,0,0,4,0,0
+Antonio Rüdiger,CB,90,0,0,0,54,0,23
+Éder Militão,CB,90,0,0,1,40,0,28
+Lucas Vázquez,RB,90,0,0,0,61,0,25
+Andriy Lunin,GK,90,0,0,0,40,0,25
+Robert Lewandowski,FW,90,2,0,4,28,1.4,19
+Raphinha,LW,90,1,1,3,40,0.7,21
+Lamine Yamal,RW,90,1,0,4,47,0.4,34
+Fermin López,AM,45,0,0,1,17,0,9
+Frenkie de Jong,DM,45,0,0,0,37,0,28
+Pedri,"DM,AM",86,0,0,1,72,0,48
+Gavi,DM,4,0,0,0,3,0,2
+Marc Casado,DM,64,0,1,0,66,0,45
+Dani Olmo,AM,26,0,0,1,17,0,14
+Alejandro Balde,LB,90,0,1,0,53,0,34
+Iñigo Martínez,CB,90,0,1,1,49,0,29
+Pau Cubarsí,CB,90,0,0,0,55,0,32
+Jules Koundé,RB,90,0,0,0,72,0,42
+Iñaki Peña,GK,90,0,0,0,38,0,23
+Sébastien Haller,FW,53,0,0,0,16,0,9
+Miguel,FW,37,0,1,1,17,0.2,9
+Diego,AM,64,1,0,1,20,0.3,15
+Munir El Haddadi,AM,26,0,0,0,16,0,14
+Dani Raba,AM,68,0,1,1,40,0,23
+Juan Cruz,AM,22,0,1,1,14,0.1,11
+Yvan Neyou,CM,90,0,0,0,43,0,24
+Seydouba Cissé,CM,53,0,0,1,35,0,24
+Darko Brašanac,CM,37,1,0,1,22,0.5,10
+Enric Franquesa,WB,90,0,0,0,38,0,13
+Adrià Altimira,WB,90,0,0,0,46,0,17
+Renato Tapia,CB,90,0,0,0,44,0,25
+Matija Nastasić,CB,90,0,0,0,43,0,18
+Jorge Sáenz,CB,45,0,0,0,43,0,31
+Sergi,CB,45,1,0,1,20,0.5,8
+Marko Dmitrović,GK,90,0,0,0,44,0,22
+Borja Iglesias,FW,62,0,0,0,24,0,21
+Williot Swedberg,LW,28,0,0,1,15,0.1,9
+Jonathan Bamba,LW,61,0,0,2,36,0.1,25
+Anastasios Douvikas,FW,29,0,0,0,6,0,5
+Iago Aspas,"RW,CM",90,0,0,5,63,0.3,54
+Hugo Álvarez,LM,90,0,0,4,81,0.3,55
+Ilaix Moriba,CM,62,0,0,1,52,0,41
+Damián Rodríguez,CM,28,0,0,0,23,0,14
+Hugo Sotelo,CM,79,0,0,1,86,0,62
+Alfon,RW,11,0,0,2,11,0.1,9
+Óscar Mingueza,RM,90,0,0,1,111,0,76
+Marcos Alonso,CB,90,0,0,1,73,0,49
+Carl Starfelt,CB,90,0,0,0,58,0,33
+Javier Manquillo,CB,79,0,0,0,56,0,37
+Javi Rodríguez,CB,11,0,0,0,8,0,4
+Vicente Guaita,GK,90,0,0,0,24,0,18
+Bertuğ Yıldırım,FW,90,0,0,3,18,0.5,8
+Álvaro Rodríguez,FW,45,0,0,0,17,0,11
+Chrisantus Uche,FW,45,0,0,1,27,0,24
+Alex Sola,LM,83,0,0,1,35,0.2,27
+David Argüelles,LM,7,0,0,0,7,0,3
+Luis Milla,CM,90,0,0,0,93,0,58
+Mauro Arambarri,CM,90,1,0,5,39,1.2,18
+Carles Pérez,RM,45,0,0,2,19,0.1,7
+Peter Federico,RM,45,0,0,0,21,0,13
+Diego Rico,LB,90,0,0,0,65,0,36
+Omar Alderete,CB,90,0,0,1,66,0,35
+Djené,CB,90,0,0,0,71,0,54
+Iglesias,RB,45,0,0,0,27,0,14
+Allan Nyom,RB,45,0,0,1,42,0.1,22
+David Soria,GK,90,0,0,0,33,0,19
+Hugo Duro,FW,90,0,0,0,38,0,20
+Luis Rioja,LM,74,0,0,0,28,0,11
+Germán Valera,LM,16,0,0,0,5,0,1
+Javier Guerra,CM,90,0,0,1,42,0.1,14
+Enzo Barrenechea,CM,83,1,0,1,25,0.5,10
+Hugo Guillamón,CM,7,0,0,0,4,0,1
+Diego López,RM,83,0,0,0,18,0,8
+Francisco Perez,RM,7,0,0,0,4,0,2
+José Luis Gayà,LB,74,0,0,0,37,0,14
+Yarek Gasiorowski,LB,16,0,0,0,12,0,0
+Maximiliano Caufriez,CB,90,0,0,0,23,0,8
+Cristhian Mosquera,CB,90,0,0,0,34,0,12
+César Tárrega,CB,90,0,0,0,37,0,11
+Thierry Correia,RB,51,0,0,0,36,0,10
+Dimitri Foulquier,RB,39,0,0,0,12,0,5
+Giorgi Mamardashvili,GK,90,0,0,0,41,0,9
+Ezequiel Ávila,FW,76,0,0,5,31,0.2,14
+Assane Diao,FW,14,0,0,1,13,0,6
+Vitor Roque,FW,90,0,0,6,30,0.5,17
+Abde Ezzalzouli,LM,89,0,0,7,50,0.8,35
+Iker Losada,LM,1,0,0,0,4,0,2
+Sergi Altimira,CM,90,0,0,1,58,0,30
+Johnny Cardoso,CM,90,0,0,1,70,0.2,27
+Pablo Fornals,RM,90,0,0,1,58,0.1,32
+Romain Perraud,LB,90,0,0,0,67,0,32
+Diego Llorente,CB,90,0,0,0,62,0,32
+Marc Bartra,CB,90,0,0,1,57,0.1,27
+Aitor Ruibal,RB,89,0,0,1,65,0,26
+Youssouf Sabaly,RB,1,0,0,0,2,0,1
+Rui Silva,GK,90,0,0,0,29,0,18
+Julián Álvarez,FW,90,0,0,1,42,0.1,19
+Antoine Griezmann,"FW,CM",69,0,0,2,47,0.1,30
+Ángel Correa,"CM,LM",21,0,0,2,11,0.1,10
+Samuel Lino,"LM,WB",69,0,0,0,35,0,23
+Giuliano Simeone,"WB,RM",21,0,0,0,14,0,11
+Conor Gallagher,CM,45,0,0,0,31,0,26
+Alexander Sørloth,FW,45,0,0,1,28,0.1,12
+Koke,CM,90,0,0,1,78,0,46
+Rodrigo De Paul,"RM,CM",83,0,0,0,62,0,32
+Thomas Lemar,CM,7,0,0,0,8,0,6
+Reinildo Mandava,LB,45,0,0,1,27,0.1,20
+Javi Galán,"CB,LB",45,0,0,1,37,0,21
+José María Giménez,CB,90,0,0,1,72,0,34
+Axel Witsel,CB,90,0,0,0,72,0,41
+Nahuel Molina,"RB,WB",90,0,0,0,74,0,34
+Jan Oblak,GK,90,0,0,0,49,0,21
+Orri Steinn Óskarsson,FW,45,0,0,0,14,0,4
+Takefusa Kubo,"RM,LM",45,0,0,3,47,0.1,34
+Ander Barrenetxea,LM,69,0,0,4,51,0.4,37
+Sheraldo Becker,"RM,LM",21,0,0,1,13,0,10
+Luka Sučić,CM,69,0,0,3,54,0.1,35
+Beñat Turrientes,CM,21,0,0,0,6,0,2
+Brais Méndez,CM,90,0,0,3,73,0.1,41
+Mikel Oyarzabal,"RM,FW",69,0,0,0,35,0,21
+Umar Sadiq,FW,21,0,0,0,8,0,4
+Martín Zubimendi,DM,90,0,0,1,77,0.2,40
+Sergio Gómez,LB,90,0,0,0,97,0,49
+Nayef Aguerd,CB,90,0,0,3,74,0.7,51
+Igor Zubeldia,CB,90,0,0,0,88,0,59
+Jon Aramburu,RB,78,0,0,1,74,0,40
+Álvaro Odriozola,RB,12,0,0,0,13,0,4
+Álex Remiro,GK,90,0,0,0,27,0,18
+Ante Budimir,FW,88,1,0,3,30,0.8,21
+Raúl,FW,2,0,0,0,3,0,1
+Bryan Zaragoza,LW,82,0,2,1,30,0.1,16
+Nacho Vidal,RB,8,0,0,0,3,0,2
+Rubén Peña,RW,62,0,0,0,21,0,10
+Abel,RW,28,0,0,0,12,0,3
+Aimar Oroz,LM,90,0,0,1,34,0,19
+Lucas Torró,CM,90,1,0,2,42,0.1,7
+Jon Moncayola,RM,62,0,0,0,24,0,7
+Pablo Ibáñez,RM,28,0,0,1,9,0,4
+Juan Cruz Armada,LB,82,0,0,1,26,0,3
+Moi Gómez,LW,8,0,0,0,8,0,4
+Enzo Boyomo,CB,90,0,0,1,27,0,3
+Catena,CB,90,0,0,0,26,0,4
+Jesús Areso,"RB,LB",90,0,0,0,26,0,13
+Sergio Herrera,GK,90,0,0,0,36,0,15
+Cyle Larin,FW,24,0,0,0,5,0,2
+Omar Mascarell,CM,66,0,0,0,28,0,9
+Vedat Muriqi,FW,89,0,0,2,36,0.4,17
+Abdón Prats,FW,1,0,0,0,4,0,0
+Sergi Darder,LM,45,0,0,1,15,0.2,7
+Antonio Sánchez,"RM,CM",45,0,0,0,19,0,9
+Samu Costa,CM,22,0,0,0,13,0,5
+Manu Morlanes,CM,89,0,0,0,34,0,19
+Copete,"CB,CM",1,0,0,0,3,0,1
+Roberto Navarro,"RM,LM",64,0,0,0,35,0,22
+Dani Rodríguez,"LM,CM",26,0,0,0,8,0,3
+Johan Mojica,LB,90,0,0,0,52,0,28
+Antonio Raillo,CB,90,0,0,1,42,0,22
+Martin Valjent,CB,90,0,0,0,34,0,13
+Pablo Maffeo,RB,90,0,0,0,37,0,18
+Dominik Greif,GK,90,0,0,0,53,0,24
+Gorka Guruzeta,FW,56,0,0,1,13,0.1,2
+Álvaro djaló,FW,34,0,0,3,12,0.1,8
+Nico Williams,LW,90,0,0,2,58,0.1,42
+Iñaki Williams,RW,90,0,0,2,27,0,13
+Oihan Sancet,AM,56,0,0,3,34,0.1,19
+Álex Berenguer,AM,34,0,0,2,31,0.1,9
+Mikel Jauregizar,DM,90,0,0,0,68,0,38
+Iñigo Ruiz de Galarreta,DM,69,0,0,0,49,0,26
+Ander Herrera,DM,21,0,0,1,28,0,9
+Yuri Berchiche,LB,90,0,0,2,107,0.1,76
+Aitor Paredes,CB,45,0,0,1,34,0.1,21
+Daniel Vivian,CB,45,0,0,2,59,0,39
+Yeray Álvarez,CB,90,0,0,1,71,0,45
+Andoni Gorosabel,RB,81,0,0,0,72,0,33
+Óscar de Marcos,RB,9,0,0,0,8,0,4
+Julen Agirrezabala,GK,90,0,0,0,23,0,15
+Kiké,FW,89,0,0,0,22,0,14
+Toni Martínez,FW,1,0,0,0,2,0,0
+Abderrahman Rebbach,LW,89,0,0,3,44,0,29
+Carlos Martín,LW,1,0,0,1,2,0.4,2
+Carlos Vicente,RW,90,0,0,0,44,0,18
+Jon Guridi,AM,79,1,0,2,32,0.3,10
+Stoichkov,AM,11,0,0,0,5,0,2
+Carlos Benavídez,DM,16,0,0,0,7,0,2
+Ander Guevara,DM,74,0,0,0,42,0,14
+Antonio Blanco,DM,90,0,0,1,53,0,21
+Manu Sánchez,LB,90,0,0,1,44,0.1,17
+Pica,CB,90,0,0,1,46,0.1,18
+Abdel Abqar,CB,90,0,0,1,40,0.1,17
+Nahuel Tenaglia,RB,90,0,0,3,55,0.1,18
+Antonio Sivera,GK,90,0,0,0,29,0,16
+Cyle Larin,FW,67,0,0,1,14,0.1,8
+Sergi Darder,LM,23,0,0,0,12,0,6
+Chiquinho,LW,56,0,0,1,18,0.1,12
+Vedat Muriqi,FW,34,0,0,1,9,0.1,4
+Roberto Navarro,"RW,RM",68,0,0,0,36,0,26
+Antonio Sánchez,"CM,RM",22,0,0,0,12,0,8
+Dani Rodríguez,"AM,LM,FW",78,0,0,1,31,0,14
+Daniel Luna,RM,12,0,0,0,7,0,5
+Manu Morlanes,"DM,CM",90,0,0,1,67,0,37
+Omar Mascarell,"DM,CM",78,0,0,1,36,0,21
+Abdón Prats,FW,12,0,0,0,1,0,2
+Toni Lato,LB,90,0,0,0,49,0,19
+Copete,CB,90,0,0,1,49,0,18
+Antonio Raillo,CB,90,0,0,0,48,0,23
+Pablo Maffeo,RB,90,0,0,0,45,0,16
+Leo Román,GK,90,0,0,0,40,0,26
+Ante Budimir,FW,84,1,0,7,34,1.4,18
+Raúl,FW,6,0,0,0,3,0,3
+Bryan Zaragoza,"LW,RW",84,0,0,3,48,0.3,34
+Rubén García,RW,6,0,0,0,7,0,4
+Rubén Peña,RW,62,0,0,2,25,0.2,15
+Moi Gómez,"LW,LM",28,0,0,1,18,0,10
+Aimar Oroz,LM,89,0,0,2,47,0.1,35
+Abel,LW,1,0,0,0,1,0,0
+Lucas Torró,CM,90,0,0,0,62,0,36
+Jon Moncayola,RM,84,0,0,1,63,0.2,36
+Pablo Ibáñez,RM,6,0,0,0,2,0,2
+Juan Cruz Armada,LB,90,0,0,1,53,0.1,24
+Enzo Boyomo,CB,90,0,0,1,40,0.1,20
+Catena,CB,90,0,0,1,50,0.1,23
+Jesús Areso,RB,90,0,0,0,40,0,21
+Sergio Herrera,GK,90,0,0,0,26,0,15
+Mamadou Sylla,FW,90,0,0,0,26,0,8
+Raúl Moro,"LW,LM",90,0,0,0,43,0,22
+Anuar,RW,57,0,0,0,16,0,6
+Kike Pérez,"DM,CM",33,0,0,3,30,0.1,14
+Selim Amallah,AM,57,0,0,2,18,0.1,4
+Iván Sánchez,"RW,RM",33,0,0,1,18,0,12
+Eray Cömert,DM,58,0,0,0,35,0,14
+Víctor Meseguer,"AM,CM",32,0,0,0,26,0,11
+Mario Martín,DM,80,0,0,0,47,0,19
+Marcos André,FW,10,0,0,0,6,0,3
+Lucas Oliveira Rosa,LB,90,0,0,0,62,0,24
+David Torres,CB,90,0,0,0,52,0,24
+Javi Sánchez,CB,90,0,0,1,66,0,30
+Luis Pérez,RB,90,0,0,0,42,0,7
+Karl Jakob Hein,GK,90,0,0,0,46,0,25
+Bojan Miovski,FW,61,0,0,2,19,0.1,8
+Cristhian Stuani,FW,29,1,0,1,10,0.9,4
+Donny van de Beek,"AM,LM",90,0,0,1,48,0,25
+Bryan Gil,"AM,RM",90,0,0,1,48,0,32
+Silvi Clúa,CM,71,0,0,1,54,0,33
+Oriol Romeu,CM,19,0,0,0,15,0,4
+Yangel Herrera,CM,90,0,0,3,48,0.6,25
+Miguel Gutiérrez,"WB,LB",90,1,1,2,74,0.1,42
+Arnau Martinez,"WB,RB",90,1,0,2,70,0.2,35
+Daley Blind,CB,90,0,0,1,79,0.1,41
+David López,CB,90,0,0,0,75,0,43
+Juanpe,CB,90,0,0,0,62,0,25
+Paulo Gazzaniga,GK,90,0,0,0,27,0,14
+Juan Cruz,"FW,LW",90,1,0,3,48,0.1,28
+Miguel,FW,90,0,0,1,34,0.1,18
+Darko Brašanac,AM,89,0,2,0,32,0,6
+Roberto López,AM,1,0,0,0,4,0,2
+Renato Tapia,"LM,DM",90,1,0,2,64,0.2,28
+Seydouba Cissé,RM,76,0,0,1,34,0.1,12
+Munir El Haddadi,"DM,RW",14,1,0,1,10,0,8
+Yvan Neyou,DM,75,0,0,0,35,0,18
+Óscar Rodríguez Arnaiz,"RM,DM",15,0,1,0,12,0,7
+Enric Franquesa,LB,90,0,0,0,40,0,18
+Matija Nastasić,CB,90,0,0,0,59,0,37
+Sergi,CB,87,0,0,0,72,0,50
+Javi Hernández,CB,3,0,0,0,11,0,5
+Adrià Altimira,RB,76,0,0,0,44,0,22
+Valentin Rosier,RB,14,0,0,0,20,0,10
+Marko Dmitrović,GK,90,0,0,0,33,0,12
+Julián Álvarez,FW,64,0,0,2,38,0.1,25
+Ángel Correa,FW,26,0,0,1,18,0.1,17
+Antoine Griezmann,FW,64,0,0,3,45,0.5,25
+Alexander Sørloth,FW,26,1,0,1,10,0.4,6
+Samuel Lino,LM,45,0,0,1,29,0,19
+Conor Gallagher,"LM,CM",45,0,0,1,32,0,22
+Pablo Barrios,CM,45,0,0,3,32,0.2,20
+Rodrigo De Paul,CM,45,0,1,0,48,0,40
+Koke,CM,90,0,0,1,94,0,67
+Giuliano Simeone,RM,83,1,0,1,54,0.2,40
+Axel Witsel,CB,7,0,0,0,9,0,5
+Javi Galán,LB,83,0,0,0,57,0,34
+Reinildo Mandava,LB,7,0,0,0,13,0,6
+Clément Lenglet,CB,90,0,0,1,71,0.1,57
+José María Giménez,CB,90,0,0,0,52,0,34
+Nahuel Molina,RB,90,0,1,0,84,0,55
+Jan Oblak,GK,90,0,0,0,19,0,12
+Fábio Silva,"FW,RW",86,0,0,1,33,0,11
+Jaime Mata,FW,4,0,0,0,1,0,0
+Alberto Moleiro,"LW,LM",90,0,0,0,38,0,21
+Sandro Ramírez,RW,63,0,0,0,24,0,6
+Oliver McBurnie,FW,27,0,0,0,6,0,2
+José Campaña,LM,63,0,0,0,44,0,16
+Javier Muñoz,"LM,CM",27,0,0,0,23,0,13
+Dario Essugo,CM,90,0,0,0,62,0,25
+Kirian Rodríguez,RM,86,0,0,0,46,0,19
+Manuel Fuster,RM,4,0,0,0,9,0,4
+Álex Muñoz,LB,90,0,0,0,52,0,13
+Scott McKenna,CB,90,0,0,0,62,0,29
+Álex Suárez,CB,80,0,0,0,45,0,17
+Mika Màrmol,CB,10,0,0,0,18,0,9
+Viti,RB,90,0,0,0,52,0,20
+Jasper Cillessen,GK,59,0,0,0,35,0,20
+Dinko Horkaš,GK,31,0,0,0,16,0,7
+Robert Lewandowski,FW,90,0,0,2,37,0.1,24
+Raphinha,LW,84,1,0,1,62,0.5,36
+Ansu Fati,LW,6,0,0,1,9,0,8
+Lamine Yamal,RW,90,0,1,4,63,0.1,47
+Dani Olmo,AM,55,2,0,4,29,0.9,21
+Fermin López,AM,35,0,0,1,30,0,21
+Pedri,DM,84,0,0,0,107,0,76
+Gavi,DM,6,0,0,0,14,0,8
+Marc Casado,DM,55,0,1,0,66,0,43
+Frenkie de Jong,DM,35,0,0,0,53,0,38
+Alejandro Balde,LB,90,0,1,0,58,0,39
+Iñigo Martínez,CB,90,0,0,0,140,0,110
+Pau Cubarsí,CB,90,0,0,0,122,0,94
+Héctor Fort,RB,77,0,0,1,67,0.1,46
+Jules Koundé,RB,13,0,0,0,14,0,10
+Iñaki Peña,GK,90,0,0,0,31,0,16
+Javi Puado,FW,90,1,0,4,19,0.6,12
+Jofre,"LM,LW,RM",90,0,0,1,23,0.1,17
+Álvaro Aguado,"CM,AM",61,0,0,2,32,0,19
+Walid Cheddira,FW,29,0,0,1,7,0.1,6
+Alex Král,"CM,DM",90,0,0,0,33,0,22
+Álvaro Tejero,"RM,RW,RB",90,0,0,1,39,0.1,18
+Rafael Bauza,DM,61,0,0,1,25,0,11
+Justin Smith,CM,29,0,0,0,6,0,4
+Carlos Romero,LB,77,0,1,0,30,0,10
+Brian Oliván,LB,13,0,0,0,5,0,5
+Leandro Cabrera,CB,90,0,0,0,34,0,13
+Marash Kumbulla,CB,39,0,0,0,10,0,7
+Sergi Gómez,CB,51,0,0,0,17,0,5
+Omar El Hilali,RB,77,0,0,0,35,0,17
+Naci Ünüvar,LM,13,0,0,0,7,0,5
+Joan García,GK,90,0,0,0,27,0,19
+Isaac Romero,FW,79,0,0,3,27,0.1,14
+Kelechi Iheanacho,FW,11,0,0,1,6,0.8,1
+Stanis Idumbo,LW,24,0,0,0,8,0,4
+Jesús Navas,"RW,RB",66,0,0,0,58,0,27
+Dodi Lukebakio,"RW,LW",90,0,0,2,47,0.2,27
+Juanlu Sánchez,AM,72,0,0,0,20,0,11
+Israel Domínguez,LW,18,0,0,0,2,0,1
+Albert Sambi Lokonga,DM,79,0,0,0,64,0,39
+Peque,AM,11,0,0,0,8,0,6
+Nemanja Gudelj,DM,90,0,0,0,47,0,15
+Adrià Pedrosa,LB,90,0,0,0,74,0,21
+Kike Salas,CB,90,0,0,0,80,0,33
+Marcão,CB,72,0,0,0,53,0,22
+Djibril Sow,"DM,AM",18,0,0,1,13,0,7
+Carmona,"RB,CB",90,0,0,1,71,0,41
+Álvaro Fernández,GK,90,0,0,0,52,0,29
+Mikel Oyarzabal,FW,79,1,0,1,18,0.9,7
+Orri Steinn Óskarsson,FW,11,0,0,0,6,0,0
+Sergio Gómez,LM,89,0,0,1,51,0,20
+Jon Magunacelaya,LM,1,0,0,0,2,0,1
+Luka Sučić,CM,90,0,0,1,43,0,22
+Brais Méndez,CM,79,0,0,1,38,0,21
+Olasagasti,CM,11,0,0,0,7,0,3
+Takefusa Kubo,RM,79,1,0,2,43,0.2,27
+Sheraldo Becker,RM,11,0,0,0,5,0,2
+Martín Zubimendi,DM,90,0,1,1,60,0.1,27
+Javi López,LB,89,0,0,0,40,0,15
+Aihen Muñoz,LB,1,0,0,0,1,0,0
+Nayef Aguerd,CB,90,0,0,1,76,0.1,42
+Igor Zubeldia,CB,90,0,0,0,69,0,41
+Jon Aramburu,RB,90,0,0,0,69,0,21
+Álex Remiro,GK,90,0,0,0,34,0,21
+Álvaro djaló,FW,64,0,0,0,16,0,6
+Álex Berenguer,"AM,FW",26,1,0,1,20,0.4,13
+Nico Williams,LW,90,0,0,1,44,0,18
+Iñaki Williams,RW,90,0,0,5,48,0.6,29
+Oihan Sancet,AM,68,0,0,3,29,1.5,16
+Javi Martón,FW,22,0,0,0,5,0,1
+Beñat Prados,DM,78,0,0,1,52,0.1,19
+Unai Gómez,DM,12,0,0,0,6,0,2
+Iñigo Ruiz de Galarreta,DM,68,0,0,0,51,0,25
+Ander Herrera,DM,22,0,0,2,27,0.8,6
+Yuri Berchiche,LB,90,0,0,0,80,0,28
+Aitor Paredes,CB,90,0,0,1,73,0.2,40
+Daniel Vivian,CB,90,0,0,1,87,0.1,33
+Óscar de Marcos,RB,78,0,1,0,63,0,12
+Andoni Gorosabel,RB,12,0,0,2,14,0.3,7
+Julen Agirrezabala,GK,90,0,0,0,30,0,12
+Ezequiel Ávila,FW,45,0,0,1,21,0,14
+Assane Diao,RW,45,0,1,1,20,0.1,11
+Vitor Roque,FW,71,0,0,0,14,0,10
+Cédric Bakambu,FW,19,0,0,1,2,0.4,0
+Abde Ezzalzouli,"LW,LM",90,0,0,1,54,0,30
+Johnny Cardoso,CM,90,0,0,0,52,0,26
+Sergi Altimira,CM,45,0,0,0,43,0,24
+Iker Losada,CM,45,0,0,1,25,0.2,10
+Pablo Fornals,"CM,RM",90,1,0,2,55,0.1,29
+Romain Perraud,LB,90,0,0,0,67,0,40
+Diego Llorente,CB,90,0,0,0,98,0,58
+Marc Bartra,CB,88,0,0,0,79,0,51
+Natan,CB,2,0,0,0,3,0,2
+Héctor Bellerín,RB,45,0,0,0,26,0,13
+Youssouf Sabaly,RB,45,0,0,0,39,0,17
+Rui Silva,GK,90,0,0,0,59,0,34
+Anastasios Douvikas,FW,66,1,0,3,25,1.3,11
+Borja Iglesias,FW,24,0,0,1,11,0.1,5
+Jonathan Bamba,LW,88,0,0,0,53,0,23
+Tadeo Allende,FW,2,0,0,0,4,0,3
+Iago Aspas,"RW,AM",90,0,1,2,62,0.1,30
+Mihailo Ristić,LM,66,0,0,0,40,0,21
+Hugo Álvarez,"RM,LM,WB",24,0,0,1,20,0.3,7
+Fran Beltrán,CM,74,0,0,1,52,0.1,17
+Ilaix Moriba,CM,16,0,0,0,21,0,12
+Hugo Sotelo,CM,90,0,0,0,83,0,39
+Óscar Mingueza,"RM,LM,WB",90,0,0,1,75,0,35
+Marcos Alonso,CB,90,0,0,0,105,0,47
+Carl Starfelt,CB,90,0,0,0,73,0,21
+Javier Manquillo,CB,45,0,0,0,32,0,13
+Javi Rodríguez,CB,45,0,0,1,33,0,14
+Vicente Guaita,GK,90,0,0,0,30,0,14
+Chrisantus Uche,FW,70,0,0,4,27,0.3,13
+Iglesias,"RB,FW",20,0,0,0,22,0,8
+Alex Sola,"LW,LM",61,0,0,0,27,0,15
+Peter Federico,"RM,LM,RB",29,0,0,0,7,0,4
+Carles Pérez,"RM,RW,LM",90,0,0,2,45,0.1,18
+Mauro Arambarri,"CM,AM",90,0,0,0,34,0,17
+Luis Milla,"CM,DM",90,0,0,2,58,0.1,25
+Nabil Aberdin,DM,30,0,0,0,12,0,3
+Álvaro Rodríguez,"FW,LM,DM",60,0,0,2,29,0.1,5
+Diego Rico,LB,90,0,0,0,55,0,22
+Omar Alderete,CB,90,0,0,0,74,0,27
+Djené,CB,30,0,0,0,24,0,15
+Juan Berrocal,CB,34,0,0,0,36,0,17
+Allan Nyom,"RB,CB",90,0,0,0,66,0,27
+David Soria,GK,90,0,0,0,40,0,14
+Sergio Camello,FW,70,0,0,4,33,0.5,25
+Sergi Guardiola,FW,20,0,0,0,10,0,3
+Isaac Palazón Camacho,FW,76,0,0,4,33,0.1,17
+James Rodríguez,FW,14,0,0,1,16,0,13
+Álvaro García,LM,90,0,0,4,63,0.3,44
+Gerard Gumbau,CM,70,0,0,1,51,0.2,26
+Óscar Trejo,CM,20,0,0,0,30,0,18
+Óscar Valentín,CM,90,0,0,1,60,0.3,24
+Jorge de Frutos,RM,90,0,0,4,61,0.1,42
+Pep Chavarría,LB,76,0,0,2,65,0.4,27
+Pedro Díaz,LB,14,0,0,1,23,0,12
+Florian Lejeune,CB,90,0,0,5,95,0.1,64
+Aridane Hernández,CB,70,0,0,1,59,0,28
+Adri Embarba,CB,20,0,0,3,18,0.2,9
+Andrei Ratiu,RB,90,0,0,3,91,0.1,54
+Augusto Batalla,GK,90,0,0,0,27,0,21
+Fábio Silva,FW,78,1,0,1,31,0.2,11
+Jaime Mata,FW,12,0,0,2,6,0.4,3
+Alberto Moleiro,LW,63,0,0,1,28,0,18
+José Campaña,"CM,LW",27,0,0,1,19,0,11
+Sandro Ramírez,RW,63,0,1,1,31,0.1,13
+Manuel Fuster,"RM,RW",27,1,0,1,15,0.1,6
+Dario Essugo,"LM,CM",78,0,0,1,49,0,20
+Benito Ramírez,"LM,CM",12,0,0,0,6,0,3
+Kirian Rodríguez,"CM,FW",89,0,1,0,50,0,23
+Marc Cardona,FW,1,0,0,0,3,0,1
+Javier Muñoz,"RM,LM,CM",90,0,0,1,35,0,17
+Álex Muñoz,LB,90,0,0,0,54,0,10
+Scott McKenna,CB,90,0,0,2,46,0.3,23
+Álex Suárez,CB,90,0,0,0,36,0,7
+Viti,RB,90,0,0,0,46,0,10
+Jasper Cillessen,GK,90,0,0,0,48,0,20
+Kylian Mbappé,FW,90,0,0,5,51,0.3,36
+Vinicius Júnior,LW,74,3,0,6,61,2,51
+Endrick,FW,16,0,0,0,8,0,7
+Rodrygo,RW,19,0,0,1,20,0,10
+Brahim Díaz,"RW,LM",71,0,1,1,67,0,40
+Jude Bellingham,LM,74,1,1,2,58,0.5,34
+Arda Güler,RM,16,0,0,0,17,0,9
+Eduardo Camavinga,CM,90,0,0,1,67,0.1,41
+Federico Valverde,"RB,RM",90,0,0,1,63,0.1,36
+Fran Garcia,LB,90,0,0,1,78,0.1,45
+Antonio Rüdiger,CB,90,0,0,0,98,0,72
+Éder Militão,CB,29,0,0,0,23,0,19
+Raúl Asencio,CB,61,0,1,0,51,0,37
+Lucas Vázquez,RB,45,0,0,0,37,0,15
+Luka Modrić,"RM,CM",45,0,0,0,42,0,28
+Andriy Lunin,GK,90,0,1,0,34,0,21
+Ante Budimir,FW,70,0,0,0,9,0,2
+Moi Gómez,LM,20,0,0,0,14,0,13
+Bryan Zaragoza,"LW,RM",81,0,0,0,21,0,17
+José Arnaiz,LW,9,0,0,1,5,0,2
+Rubén Peña,RW,58,0,0,0,13,0,7
+Raúl,FW,32,0,0,0,10,0,7
+Aimar Oroz,LM,71,0,0,0,30,0,18
+Rubén García,RW,19,0,0,0,14,0,8
+Lucas Torró,CM,90,0,0,0,40,0,20
+Jon Moncayola,"RM,CM",80,0,0,0,23,0,14
+Iker Muñoz,RM,10,0,0,0,6,0,5
+Abel,LB,90,0,0,1,53,0,26
+Enzo Boyomo,CB,90,0,0,0,43,0,24
+Catena,CB,90,0,0,0,47,0,24
+Jesús Areso,RB,90,0,0,0,45,0,20
+Sergio Herrera,GK,90,0,0,0,35,0,17
+Ayoze Pérez,FW,84,0,0,1,25,0,17
+Juan Bernat,LM,6,0,1,0,6,0,3
+Nicolas Pépé,FW,72,0,1,0,31,0,21
+Thierno Barry,FW,18,0,0,1,4,0.1,4
+Alex Baena,"LM,FW",90,0,0,2,43,0.1,22
+Daniel Parejo,CM,90,1,0,0,74,0.8,32
+Pape Gueye,CM,72,0,0,3,39,0.2,23
+Santi Comesaña,CM,18,1,0,1,14,0.2,5
+Ilias Akhomach,RM,45,1,0,2,24,0.1,17
+Yeremi Pino,RM,45,0,0,0,21,0,13
+Sergi Cardona,LB,90,0,0,2,50,0.1,27
+Logan Costa,CB,90,0,0,0,77,0,39
+Raúl Albiol,CB,90,0,0,0,83,0,51
+Kiko Femenía,RB,23,0,0,0,26,0,15
+Pau Navarro,RB,67,0,0,0,65,0,21
+Diego Conde,GK,90,0,0,0,49,0,33
+Kiké,FW,75,0,0,1,22,0.1,15
+Toni Martínez,FW,15,0,0,0,3,0,1
+Abderrahman Rebbach,LW,51,0,0,1,20,0,8
+Carlos Martín,LW,39,0,0,1,14,0,12
+Carlos Vicente,RW,76,0,0,1,25,0,17
+Tomás Conechny,RW,14,0,0,0,6,0,4
+Jon Guridi,AM,67,0,0,1,18,0.2,10
+Stoichkov,AM,23,0,0,0,8,0,5
+Antonio Blanco,DM,90,0,0,1,50,0,27
+Ander Guevara,DM,67,0,0,0,34,0,16
+Joan Jordán,DM,23,0,0,0,26,0,19
+Manu Sánchez,LB,90,0,0,1,47,0,19
+Pica,CB,90,0,0,1,42,0.1,18
+Abdel Abqar,CB,90,0,0,0,40,0,25
+Nahuel Tenaglia,RB,90,0,0,1,47,0,24
+Antonio Sivera,GK,90,0,0,0,31,0,17
+Miguel,FW,90,1,0,2,18,0.9,5
+Munir El Haddadi,"LW,RW",90,0,0,2,38,0.1,12
+Juan Cruz,RW,75,0,0,1,25,0,12
+Óscar Rodríguez Arnaiz,"AM,LW",15,0,0,1,13,0,7
+Darko Brašanac,"AM,LW,DM",90,0,0,1,50,0,15
+Seydouba Cissé,DM,88,0,0,0,46,0,20
+Roberto López,AM,2,0,0,0,1,0,1
+Renato Tapia,DM,75,0,0,0,45,0,20
+Julián Chicco,DM,15,0,0,0,9,0,4
+Enric Franquesa,LB,66,0,0,0,44,0,22
+Javi Hernández,LB,24,0,0,0,13,0,4
+Matija Nastasić,CB,90,0,0,0,66,0,30
+Sergi,CB,90,0,0,0,66,0,30
+Adrià Altimira,RB,90,0,0,0,47,0,18
+Marko Dmitrović,GK,90,0,0,0,45,0,20
+Isaac Romero,FW,90,0,0,2,43,0.1,18
+Kelechi Iheanacho,LW,72,0,0,1,29,0.1,16
+Jesús Navas,"LW,RB",18,0,0,0,16,0,7
+Dodi Lukebakio,RW,90,0,0,6,47,0.2,28
+Albert Sambi Lokonga,LM,90,0,0,2,71,0.1,31
+Lucien Agoume,CM,79,0,0,0,54,0,19
+Djibril Sow,RM,87,0,0,1,52,0,27
+Peque,"CM,RM",3,0,0,0,2,0,2
+Adrià Pedrosa,LB,90,0,0,0,43,0,19
+Kike Salas,CB,90,0,0,1,72,0,31
+Nemanja Gudelj,CB,90,0,0,0,79,0,40
+Carmona,RB,87,0,0,0,75,0,31
+Juanlu Sánchez,RM,3,0,0,0,5,0,1
+Álvaro Fernández,GK,90,0,0,0,48,0,28
+Vitor Roque,FW,90,1,0,5,22,0.5,17
+Iker Losada,"FW,CM",85,0,0,2,42,0.1,32
+Cédric Bakambu,FW,5,0,0,0,3,0,1
+Abde Ezzalzouli,LM,85,0,0,2,47,0.2,33
+Ezequiel Ávila,RM,5,0,0,1,9,0,4
+Johnny Cardoso,CM,55,0,1,0,49,0,34
+Giovani Lo Celso,CM,35,0,1,1,38,0,23
+Sergi Altimira,"CM,DM",90,0,0,2,100,0.1,78
+Pablo Fornals,RM,74,0,0,1,51,0.1,33
+Juanmi,"LM,RM",16,0,0,0,9,0,5
+Romain Perraud,LB,90,0,0,2,80,0,48
+Natan,CB,90,0,0,1,84,0,59
+Diego Llorente,CB,54,0,0,0,50,0,35
+Marc Bartra,CB,36,1,0,2,27,0.3,16
+Youssouf Sabaly,RB,90,0,0,0,84,0,54
+Rui Silva,GK,90,0,0,0,29,0,23
+Borja Iglesias,FW,66,0,0,0,18,0,13
+Anastasios Douvikas,FW,24,1,0,1,12,0.9,6
+Iago Aspas,AM,78,0,0,1,36,0.2,27
+Williot Swedberg,AM,12,0,1,0,10,0,8
+Jonathan Bamba,AM,90,0,0,0,52,0,34
+Fran Beltrán,CM,90,0,0,0,43,0,30
+Hugo Sotelo,CM,45,0,0,0,23,0,15
+Javier Manquillo,CB,45,0,0,0,34,0,21
+Mihailo Ristić,WB,45,0,0,0,26,0,16
+Ilaix Moriba,CM,45,0,0,0,28,0,14
+Óscar Mingueza,WB,57,0,0,0,40,0,27
+Hugo Álvarez,WB,33,0,0,0,25,0,19
+Marcos Alonso,CB,90,0,0,0,82,0,53
+Carl Starfelt,CB,90,0,0,0,63,0,44
+Javi Rodríguez,"WB,CB",90,1,0,1,64,0.1,42
+Vicente Guaita,GK,90,0,0,0,37,0,18
+Vedat Muriqi,FW,90,0,0,5,28,0.2,12
+Cyle Larin,FW,68,0,0,1,12,0.1,8
+Abdón Prats,FW,22,0,0,2,8,0.1,6
+Sergi Darder,LM,68,0,0,1,50,0,28
+Chiquinho,LM,22,0,0,1,13,0.1,6
+Samu Costa,CM,90,0,0,1,90,0,53
+Manu Morlanes,CM,82,0,0,0,69,0,39
+Daniel Luna,RM,8,0,0,0,10,0,6
+Roberto Navarro,RM,74,0,0,1,39,0,24
+Antonio Sánchez,"RB,RM",16,0,0,0,22,0,16
+Johan Mojica,LB,90,0,0,0,65,0,34
+Antonio Raillo,CB,90,0,0,0,91,0,57
+Martin Valjent,CB,90,0,0,1,84,0,54
+Pablo Maffeo,RB,74,0,0,0,54,0,30
+Dani Rodríguez,"CM,RM",16,0,0,0,12,0,9
+Dominik Greif,GK,90,0,0,0,26,0,14
+Julián Álvarez,FW,61,1,0,4,33,0.4,28
+Alexander Sørloth,FW,29,0,0,0,14,0,8
+Antoine Griezmann,FW,61,0,0,0,38,0,21
+Rodrigo De Paul,CM,29,0,0,1,17,0,15
+Rodrigo Riquelme,LM,85,0,0,3,46,0.1,34
+Conor Gallagher,LM,5,0,0,1,7,0.1,4
+Koke,CM,90,0,0,0,72,0,47
+Pablo Barrios,"CM,RM",90,0,0,0,45,0,37
+Giuliano Simeone,RM,61,0,1,0,38,0,24
+Ángel Correa,FW,29,0,0,0,10,0,7
+Reinildo Mandava,LB,90,0,0,0,80,0,52
+Clément Lenglet,CB,62,0,0,0,39,0,28
+Axel Witsel,CB,28,0,0,0,21,0,10
+José María Giménez,CB,90,0,0,0,51,0,37
+Nahuel Molina,RB,90,0,0,0,80,0,54
+Jan Oblak,GK,90,0,0,0,24,0,14
+Chrisantus Uche,FW,84,0,0,0,33,0,16
+Carles Aleñá,FW,6,0,0,0,1,0,0
+Carles Pérez,"LW,RM",63,0,0,2,27,0.1,15
+Álvaro Rodríguez,LW,27,0,0,0,13,0,7
+Allan Nyom,"RW,RB",63,0,0,1,25,0,19
+Alex Sola,RW,27,0,0,0,10,0,6
+Luis Milla,"AM,DM,CM",90,0,0,1,68,0,40
+Mauro Arambarri,"DM,CM",90,0,0,0,53,0,31
+Jesús Santiago,DM,45,0,0,0,14,0,6
+Bertuğ Yıldırım,"AM,FW",45,0,0,1,12,0.4,6
+Diego Rico,"LB,LM",90,0,0,1,75,0,31
+Omar Alderete,CB,90,0,0,1,68,0,36
+Domingos Duarte,CB,90,0,0,0,63,0,40
+Iglesias,"RB,LB",90,0,0,1,64,0,21
+David Soria,GK,90,0,0,0,21,0,14
+Bojan Miovski,FW,72,0,0,0,9,0,4
+Cristhian Stuani,FW,18,0,0,0,9,0,3
+Miguel Gutiérrez,LW,90,0,0,0,40,0,19
+Bryan Gil,RW,88,0,1,0,47,0,27
+Kim Minsu,RW,2,0,0,0,5,0,4
+Donny van de Beek,AM,72,0,0,1,18,0,10
+Silvi Clúa,AM,18,0,0,1,15,0,5
+Oriol Romeu,DM,90,0,0,0,65,0,29
+Yangel Herrera,DM,72,1,0,1,39,0.1,19
+Ferrán Ruiz,DM,18,0,0,0,9,0,5
+Daley Blind,LB,90,0,0,0,81,0,40
+David López,CB,90,0,0,0,84,0,55
+Juanpe,CB,90,0,0,0,96,0,49
+Arnau Martinez,RB,90,0,0,0,53,0,9
+Paulo Gazzaniga,GK,90,0,0,0,46,0,29
+Mamadou Sylla,FW,61,0,0,0,14,0,5
+Marcos André,FW,29,0,0,1,10,0.1,3
+Anuar,LM,60,0,0,0,20,0,6
+Iván Sánchez,"RM,LM",30,0,1,0,10,0,4
+Kike Pérez,CM,75,0,0,1,40,0,9
+Mario Martín,CM,15,0,0,0,6,0,4
+Stanko Jurić,CM,88,0,0,0,26,0,10
+Eray Cömert,CM,2,0,0,0,3,0,0
+Raúl Moro,"RM,LM",88,1,0,2,23,0.3,16
+Víctor Meseguer,LM,2,0,0,0,1,0,1
+Lucas Oliveira Rosa,LB,90,0,0,1,38,0.2,15
+David Torres,CB,90,0,0,0,52,0,24
+Javi Sánchez,CB,90,0,0,0,40,0,25
+Abdulai Juma Bah,CB,90,0,0,1,44,0,18
+Luis Pérez,RB,90,0,0,0,44,0,14
+Karl Jakob Hein,GK,90,0,0,0,50,0,23
+Álex Berenguer,"FW,AM",63,0,0,2,27,0.1,12
+Gorka Guruzeta,FW,27,1,0,2,10,0.5,5
+Nico Williams,"LW,AM",90,0,0,3,65,0.4,48
+Nicolás Serrano,RW,79,0,0,2,38,0.1,18
+Javi Martón,AM,11,0,0,0,2,0,2
+Unai Gómez,AM,45,0,0,1,13,0,6
+Álvaro djaló,"FW,LW,RW",45,0,0,4,23,0.2,16
+Beñat Prados,DM,45,0,0,1,45,0,25
+Mikel Vesga,DM,45,0,0,0,51,0,29
+Mikel Jauregizar,DM,45,0,0,0,37,0,18
+Iñigo Ruiz de Galarreta,DM,45,0,1,0,54,0,38
+Adama Boiro,LB,90,0,0,1,65,0,34
+Aitor Paredes,CB,90,0,0,0,86,0,53
+Yeray Álvarez,CB,90,0,0,1,74,0,44
+Óscar de Marcos,RB,90,0,0,0,81,0,43
+Julen Agirrezabala,GK,90,0,0,0,31,0,21
+Mikel Oyarzabal,FW,61,0,0,3,17,1,9
+Orri Steinn Óskarsson,FW,29,0,0,1,12,0,4
+Sheraldo Becker,LM,60,1,0,3,19,0.4,9
+Ander Barrenetxea,LM,30,0,0,1,16,0.1,10
+Brais Méndez,CM,90,0,0,2,46,0.2,21
+Luka Sučić,CM,60,0,1,1,30,0,13
+Sergio Gómez,CM,30,0,0,0,15,0,6
+Takefusa Kubo,RM,90,0,0,2,36,0.1,21
+Martín Zubimendi,DM,90,0,0,0,37,0,13
+Aihen Muñoz,LB,83,0,0,0,33,0,18
+Javi López,LB,7,0,0,0,2,0,0
+Nayef Aguerd,CB,90,0,0,0,34,0,12
+Igor Zubeldia,CB,90,0,0,1,43,0.1,15
+Jon Aramburu,RB,60,0,0,0,41,0,21
+Aritz Elustondo,RB,30,0,0,0,17,0,1
+Álex Remiro,GK,90,0,0,0,33,0,19
+Robert Lewandowski,FW,90,0,0,0,27,0,17
+Raphinha,LW,90,0,0,1,55,0,29
+Fermin López,RW,68,0,0,2,31,0.2,19
+Ansu Fati,RW,22,0,0,0,10,0,10
+Pedri,"AM,DM",89,0,0,1,68,0,50
+Pau Victor Delgado,DM,1,0,0,0,2,0,2
+Frenkie de Jong,DM,45,0,0,1,35,0,22
+Dani Olmo,"AM,DM",45,0,0,2,24,0.1,19
+Marc Casado,"DM,RB",90,0,0,1,83,0,49
+Alejandro Balde,LB,90,0,0,0,85,0,55
+Iñigo Martínez,CB,90,0,0,1,115,0,79
+Pau Cubarsí,CB,90,0,0,2,94,0.2,68
+Jules Koundé,RB,83,0,0,0,50,0,24
+Gavi,DM,7,0,0,0,13,0,8
+Iñaki Peña,GK,90,0,0,0,79,0,57
+Chrisantus Uche,FW,90,0,0,4,31,0.1,20
+Bertuğ Yıldırım,FW,64,0,0,1,19,0.1,5
+Álvaro Rodríguez,FW,26,1,0,1,10,0.1,5
+Carles Pérez,LM,88,0,0,0,25,0,13
+Jesús Santiago,LM,2,0,0,0,1,0,1
+Luis Milla,CM,90,0,0,2,74,0.1,43
+Mauro Arambarri,"CM,AM",90,0,0,0,47,0,23
+Alex Sola,RM,54,0,0,0,30,0,22
+Iglesias,"RB,RM",36,0,0,0,26,0,10
+Diego Rico,LB,90,0,0,0,61,0,28
+Omar Alderete,CB,90,0,0,0,46,0,25
+Djené,"CB,RB",90,0,0,0,46,0,29
+Allan Nyom,"RB,RM",88,1,1,4,57,0.3,26
+Domingos Duarte,CB,2,0,0,0,1,0,0
+David Soria,GK,90,0,0,0,26,0,9
+Mamadou Sylla,"FW,LM,AM",84,0,0,1,18,0.4,8
+Marcos André,AM,6,0,0,0,2,0,1
+Anuar,LM,65,0,0,0,24,0,8
+Juanmi Latasa,FW,25,0,0,0,9,0,4
+Kike Pérez,"CM,DM",90,0,0,1,54,0,14
+Stanko Jurić,CM,65,0,0,1,29,0.5,5
+Mario Martín,"DM,CM",25,0,0,0,16,0,6
+Raúl Moro,"RM,LW",90,0,0,1,24,0,10
+Lucas Oliveira Rosa,LB,90,0,0,0,44,0,12
+Cenk Özkacar,CB,90,0,0,1,56,0.1,17
+Javi Sánchez,CB,73,0,0,0,23,0,10
+Iván Sánchez,"RW,CB",17,0,0,0,11,0,8
+Abdulai Juma Bah,CB,90,0,0,0,31,0,12
+Luis Pérez,RB,90,0,0,1,40,0,12
+Karl Jakob Hein,GK,90,0,0,0,40,0,16
+Hugo Duro,FW,73,2,1,3,27,0.8,16
+Dani Gómez,FW,17,0,0,0,3,0,2
+Diego López,LM,73,1,0,3,34,0.2,20
+Germán Valera,LM,17,0,0,1,11,0.1,8
+Javier Guerra,CM,81,0,1,1,59,0,24
+Domingos André Ribeiro Almeida,CM,9,0,0,0,1,0,1
+Enzo Barrenechea,CM,74,0,0,1,63,0,29
+Hugo Guillamón,CM,16,0,0,0,10,0,5
+Luis Rioja,RM,89,0,0,1,45,0,26
+Francisco Perez,RM,1,0,0,0,6,0,5
+José Luis Gayà,LB,90,0,0,0,59,0,35
+Yarek Gasiorowski,CB,90,0,0,0,57,0,23
+Cristhian Mosquera,CB,90,0,0,0,56,0,33
+César Tárrega,CB,90,1,0,1,53,0.4,22
+Dimitri Foulquier,RB,90,0,0,0,46,0,20
+Giorgi Mamardashvili,GK,90,0,0,0,36,0,25
+Vitor Roque,FW,80,0,0,0,23,0,8
+Assane Diao,RM,10,0,0,0,6,0,3
+Abde Ezzalzouli,"LW,LM",67,0,0,2,40,0.6,25
+Juanmi,LM,23,0,0,0,6,0,4
+Aitor Ruibal,RW,57,0,0,0,26,0,11
+Cédric Bakambu,FW,33,0,1,2,11,0.4,8
+Iker Losada,AM,56,0,0,0,16,0,8
+Ezequiel Ávila,"RM,FW",34,1,0,2,17,0.1,6
+Carlos Guirao,DM,56,0,0,0,29,0,15
+Giovani Lo Celso,CM,34,0,0,0,42,0,24
+Sergi Altimira,"DM,CM",90,0,0,0,73,0,46
+Romain Perraud,LB,90,0,0,0,67,0,40
+Natan,CB,90,0,0,0,67,0,35
+Marc Bartra,CB,90,0,0,1,71,0.1,46
+Youssouf Sabaly,RB,90,0,0,0,73,0,37
+Rui Silva,GK,90,0,0,0,38,0,25
+Antoine Griezmann,"AM,FW",90,1,0,1,60,0.8,30
+Ángel Correa,"FW,AM",58,0,0,0,27,0,14
+Julián Álvarez,AM,32,0,0,0,15,0,12
+Samuel Lino,"LM,WB",63,0,0,2,43,0.2,31
+Rodrigo De Paul,"CM,WB",27,0,1,0,38,0,24
+Koke,CM,69,0,0,1,78,0,38
+Rodrigo Riquelme,WB,21,0,0,0,12,0,9
+Pablo Barrios,CM,90,0,0,0,76,0,44
+Marcos Llorente,RM,45,0,0,2,38,0,25
+Giuliano Simeone,WB,45,0,0,1,44,0,20
+Javi Galán,LB,45,0,0,0,34,0,17
+Alexander Sørloth,FW,45,1,0,2,12,0.2,8
+Clément Lenglet,CB,90,0,0,1,77,0.3,49
+Axel Witsel,CB,90,0,0,0,92,0,59
+César Azpilicueta,"CB,RB",90,0,0,0,95,0,44
+Jan Oblak,GK,90,0,0,0,20,0,12
+Kiké,FW,72,0,0,0,19,0,9
+Toni Martínez,FW,18,0,0,1,9,0,1
+Carlos Martín,"LW,LM",84,0,0,1,30,0,16
+Tomás Conechny,LM,6,0,0,0,6,0,4
+Carlos Vicente,"RW,RM",90,0,0,0,28,0,12
+Jon Guridi,AM,71,1,0,0,25,0.8,9
+Moussa Diarra,CB,19,0,0,0,9,0,6
+Antonio Blanco,"DM,CM",90,0,0,0,36,0,20
+Ander Guevara,"DM,CM",90,0,0,0,47,0,19
+Manu Sánchez,LB,87,0,0,0,37,0,12
+Stoichkov,LB,3,0,0,0,3,0,3
+Santiago Mouriño,CB,84,0,0,1,30,0,13
+Aleksandar Sedlar,CB,6,0,0,0,8,0,5
+Abdel Abqar,CB,90,0,0,0,45,0,18
+Nahuel Tenaglia,RB,90,0,0,0,36,0,16
+Antonio Sivera,GK,90,0,0,0,41,0,20
+Fábio Silva,"FW,AM",90,1,0,2,40,0.9,17
+Manuel Fuster,LW,60,0,0,1,31,0,14
+Alberto Moleiro,LW,30,0,0,2,20,0.1,17
+Sandro Ramírez,RW,88,0,0,2,37,0.1,15
+Oliver McBurnie,FW,2,0,0,0,5,0,1
+Kirian Rodríguez,AM,75,0,0,1,50,0,25
+Jaime Mata,"FW,RW",15,0,0,1,12,0,4
+José Campaña,DM,60,0,0,0,52,0,23
+Javier Muñoz,DM,30,0,0,0,27,0,16
+Dario Essugo,DM,90,1,0,2,66,0,40
+Álex Muñoz,LB,60,0,0,0,33,0,13
+Benito Ramírez,LB,30,0,0,0,30,0,13
+Scott McKenna,CB,90,0,0,1,60,0.1,31
+Álex Suárez,CB,90,0,0,0,55,0,29
+Viti,RB,90,0,0,0,74,0,35
+Jasper Cillessen,GK,90,0,0,0,33,0,24
+Vedat Muriqi,FW,87,0,0,2,25,0.4,4
+Dani Rodríguez,FW,70,1,0,1,26,0.6,11
+Antonio Sánchez,"RB,RM,FW",20,0,0,0,6,0,3
+Sergi Darder,LM,85,0,0,1,32,0,13
+Chiquinho,RM,5,0,0,0,1,0,1
+Samu Costa,CM,90,0,1,0,42,0,19
+Manu Morlanes,"CM,FW",90,0,0,1,51,0,20
+Roberto Navarro,RM,75,1,0,2,33,0.3,12
+Omar Mascarell,CM,15,0,0,1,6,0.1,1
+Johan Mojica,LB,90,1,1,1,50,0.3,17
+Antonio Raillo,CB,70,0,0,0,35,0,12
+Copete,CB,20,0,0,0,5,0,0
+Martin Valjent,CB,90,0,0,0,45,0,23
+Mateu Morey,RB,85,0,0,0,51,0,17
+Valery Fernández,LM,5,0,0,0,1,0,0
+Dominik Greif,GK,90,0,0,0,31,0,13
+Bojan Miovski,FW,70,2,1,3,22,2,13
+Cristhian Stuani,FW,20,0,0,0,6,0,2
+Bryan Gil,LW,71,1,2,1,41,0.1,23
+Arnaut Danjuma,LW,19,0,0,0,9,0,9
+Yaser Asprilla,RW,59,0,0,2,45,0.1,24
+Viktor Tsyhankov,RW,31,0,0,2,28,0.1,20
+Donny van de Beek,AM,59,0,1,2,38,0.2,21
+Iván Martín,AM,31,0,0,0,46,0,28
+Miguel Gutiérrez,DM,81,0,0,1,84,0,39
+Silvi Clúa,DM,9,0,0,0,9,0,6
+Oriol Romeu,DM,90,0,0,0,84,0,36
+Daley Blind,LB,90,0,0,0,114,0,50
+Ladislav Krejčí,CB,90,1,0,1,115,0.8,53
+David López,CB,90,0,0,0,115,0,49
+Arnau Martinez,RB,90,0,0,0,82,0,38
+Paulo Gazzaniga,GK,90,0,0,0,49,0,30
+Alejo Véliz,FW,63,0,0,0,15,0,2
+Irvin Cardona,FW,27,0,0,2,12,0.1,5
+Javi Puado,"LW,LM",90,1,0,1,26,0,18
+Alex Král,"DM,CM",90,0,0,0,30,0,18
+Rafael Bauza,"CM,DM",63,0,0,2,33,0,18
+Álvaro Aguado,DM,27,0,0,2,15,0.2,11
+Jofre,"AM,RM",90,0,1,1,34,0,15
+Carlos Romero,LB,45,0,0,0,20,0,9
+Brian Oliván,LB,45,0,0,0,20,0,7
+Leandro Cabrera,CB,90,0,0,0,35,0,15
+Sergi Gómez,CB,63,0,0,0,26,0,12
+Marash Kumbulla,CB,27,0,0,1,10,0,6
+Omar El Hilali,"RB,CB",90,0,0,0,39,0,9
+Álvaro Tejero,"RB,RW",80,0,0,0,25,0,9
+Pol Lozano,RW,10,0,0,0,2,0,0
+Joan García,GK,90,0,0,0,27,0,13
+Anastasios Douvikas,FW,74,0,0,0,12,0,8
+Borja Iglesias,FW,16,0,0,2,6,0.5,4
+Iago Aspas,FW,89,0,0,2,42,0.6,32
+Pablo Durán,FW,1,0,0,0,5,0,4
+Jonathan Bamba,LM,61,0,0,2,28,0.3,22
+Alfon,LM,29,1,0,2,13,0.5,11
+Ilaix Moriba,CM,90,0,0,1,44,0,31
+Fran Beltrán,CM,74,0,0,0,35,0,21
+Hugo Sotelo,CM,16,0,0,0,17,0,12
+Hugo Álvarez,RM,90,1,0,3,47,0.6,27
+Óscar Mingueza,LB,90,0,0,1,75,0,43
+Marcos Alonso,CB,90,0,0,2,58,0.1,39
+Carl Starfelt,CB,90,0,0,0,55,0,28
+Javi Rodríguez,RB,90,0,1,0,65,0,30
+Vicente Guaita,GK,90,0,0,0,38,0,27
+Robert Lewandowski,FW,88,1,0,1,27,0.4,14
+Pau Victor Delgado,FW,2,0,0,0,2,0,2
+Dani Olmo,LW,88,0,0,1,60,0,25
+Pablo Torre,LW,2,0,0,0,4,0,1
+Raphinha,RW,90,1,0,5,47,0.9,33
+Gavi,AM,74,0,0,0,64,0,33
+Frenkie de Jong,AM,16,0,0,0,11,0,7
+Marc Casado,DM,81,0,0,1,86,0,37
+Pedri,DM,74,0,0,0,38,0,20
+Fermin López,DM,16,0,0,1,13,0.3,5
+Gerard Martín,LB,45,0,0,0,40,0,13
+Héctor Fort,LB,45,0,0,0,41,0,16
+Iñigo Martínez,CB,90,0,0,0,88,0,49
+Pau Cubarsí,CB,90,0,0,0,77,0,38
+Jules Koundé,RB,90,0,1,0,77,0,33
+Iñaki Peña,GK,90,0,0,0,53,0,28
+Ante Budimir,FW,86,2,0,1,21,0.9,11
+Raúl,FW,4,0,0,0,2,0,1
+Bryan Zaragoza,LW,77,0,0,0,31,0,24
+Moi Gómez,LW,13,0,0,0,2,0,2
+Rubén García,RW,65,0,1,0,29,0,19
+Rubén Peña,RW,25,0,0,0,11,0,3
+Aimar Oroz,LM,85,0,0,0,45,0,29
+Abel,LM,5,0,0,0,3,0,3
+Lucas Torró,CM,90,0,0,0,65,0,26
+Jon Moncayola,RM,65,0,0,1,37,0.1,25
+Iker Muñoz,RM,25,0,0,1,17,0,11
+Juan Cruz Armada,LB,90,0,0,0,53,0,22
+Enzo Boyomo,CB,90,0,0,0,45,0,24
+Catena,CB,90,0,0,0,53,0,30
+Jesús Areso,RB,90,0,0,0,56,0,27
+Sergio Herrera,GK,90,0,0,0,43,0,18
+Ramón Terrats,FW,45,0,0,1,29,0,15
+Gerard Moreno,FW,45,1,0,3,33,1,22
+Thierno Barry,FW,90,0,0,4,42,0.5,25
+Alex Baena,LM,90,1,0,1,72,0.6,46
+Santi Comesaña,CM,71,0,0,0,53,0,20
+Denis Suárez,CM,19,0,0,1,15,0.2,9
+Daniel Parejo,CM,90,0,0,1,82,0,43
+Yeremi Pino,RM,85,0,1,1,52,0,30
+Pau Cabanes,RM,5,0,0,0,8,0,5
+Sergi Cardona,LB,76,0,0,1,56,0,27
+Juan Bernat,LB,14,0,0,0,9,0,4
+Logan Costa,CB,90,0,0,3,54,0.1,34
+Raúl Albiol,CB,90,0,0,0,59,0,32
+Pau Navarro,RB,90,0,0,0,63,0,34
+Diego Conde,GK,90,0,0,0,29,0,15
+Isaac Romero,FW,90,0,1,2,30,0.3,15
+Peque,LW,72,0,0,0,30,0,12
+Jesús Navas,RW,18,0,0,1,12,0,3
+Dodi Lukebakio,RW,72,0,0,3,34,0.1,18
+Suso,LW,18,0,0,0,13,0,8
+Djibril Sow,AM,79,1,0,1,35,0.3,9
+Juanlu Sánchez,AM,11,0,0,1,11,0,4
+Albert Sambi Lokonga,DM,90,0,0,1,61,0.1,34
+Nemanja Gudelj,DM,90,0,0,1,65,0,21
+Adrià Pedrosa,LB,80,0,0,0,56,0,19
+Valentín Barco,LB,10,0,0,0,6,0,3
+Kike Salas,CB,90,0,0,0,72,0,29
+Loïc Bade,CB,90,0,0,0,68,0,31
+Carmona,RB,90,0,0,1,52,0,9
+Álvaro Fernández,GK,90,0,0,0,30,0,13
+Randy Nteka,FW,70,0,0,2,23,0.2,11
+Pedro Díaz,DM,20,0,0,1,20,0.2,7
+Álvaro García,LW,90,0,0,3,26,0.3,10
+Jorge de Frutos,RW,85,0,0,0,24,0,8
+Adri Embarba,RW,5,0,0,0,2,0,1
+Unai López,LM,44,0,0,1,32,0.1,23
+Óscar Valentín,CM,45,0,0,0,23,0,5
+Pathé Ciss,"DM,CB",45,0,0,0,29,0,13
+Gerard Gumbau,"RM,DM",70,0,0,0,27,0,13
+Sergio Camello,FW,20,0,0,1,10,0,7
+Pep Chavarría,LB,90,0,0,0,64,0,30
+Abdul Mumin,CB,90,0,0,0,77,0,32
+Florian Lejeune,CB,85,0,0,1,59,0,36
+Isaac Palazón Camacho,AM,5,0,0,0,5,0,3
+Andrei Ratiu,RB,90,0,0,0,53,0,22
+Augusto Batalla,GK,90,0,0,0,47,0,23
+Miguel,FW,85,0,0,0,16,0,12
+Diego,FW,5,0,0,0,4,0,4
+Munir El Haddadi,"LW,AM",58,0,0,1,14,0,8
+Dani Raba,RW,32,0,0,0,21,0,11
+Darko Brašanac,"CM,AM",74,0,0,0,28,0,14
+Sébastien Haller,CM,16,0,0,0,6,0,4
+Yvan Neyou,CM,57,0,0,0,40,0,22
+Julián Chicco,CM,33,0,0,1,24,0,14
+Renato Tapia,CM,90,0,0,0,52,0,21
+Juan Cruz,"RW,LW,WB",90,0,0,1,41,0,31
+Adrià Altimira,"RB,WB",74,0,0,0,38,0,15
+Valentin Rosier,RB,16,0,0,0,15,0,7
+Javi Hernández,"LB,CB",90,0,0,1,37,0,15
+Matija Nastasić,CB,90,0,0,0,30,0,11
+Sergi,CB,90,0,0,0,48,0,19
+Marko Dmitrović,GK,90,0,0,0,27,0,12
+Kylian Mbappé,FW,82,1,0,5,56,0.8,40
+Luka Modrić,LM,8,0,0,0,15,0,7
+Vinicius Júnior,FW,90,0,1,1,47,0.1,39
+Jude Bellingham,"LM,FW",86,1,0,1,72,0.3,46
+Endrick,FW,4,0,0,0,5,0,1
+Dani Ceballos,CM,90,0,0,0,97,0,60
+Eduardo Camavinga,CM,90,0,0,0,79,0,49
+Arda Güler,RM,74,0,1,5,53,0.4,37
+Brahim Díaz,RM,16,0,0,2,10,0.1,7
+Fran Garcia,LB,90,0,0,0,62,0,37
+Antonio Rüdiger,CB,90,0,0,1,83,0.1,45
+Raúl Asencio,CB,90,0,0,0,58,0,31
+Federico Valverde,RB,90,1,0,1,85,0,42
+Thibaut Courtois,GK,90,0,0,0,40,0,29
+Álvaro djaló,FW,59,0,0,4,16,0.3,7
+Gorka Guruzeta,FW,31,0,0,1,17,0,8
+Nico Williams,LW,90,0,1,1,50,0.2,33
+Iñaki Williams,RW,76,0,0,1,31,0,17
+Álex Berenguer,RW,14,0,0,0,7,0,4
+Oihan Sancet,AM,69,1,0,2,34,0.3,19
+Unai Gómez,AM,21,0,0,0,7,0,2
+Beñat Prados,DM,59,0,0,2,29,0.4,13
+Mikel Jauregizar,DM,31,0,0,0,7,0,4
+Iñigo Ruiz de Galarreta,DM,76,0,0,1,47,0,21
+Ander Herrera,DM,14,0,0,0,9,0,2
+Yuri Berchiche,LB,90,0,0,0,45,0,15
+Yeray Álvarez,CB,90,0,0,0,41,0,15
+Daniel Vivian,CB,90,0,0,0,50,0,18
+Óscar de Marcos,RB,90,0,0,0,65,0,22
+Julen Agirrezabala,GK,90,0,0,0,35,0,20
+Mikel Oyarzabal,FW,90,0,0,1,18,0.1,5
+Ander Barrenetxea,LM,59,0,0,0,43,0,22
+Sheraldo Becker,RM,31,0,0,0,5,0,2
+Luka Sučić,CM,90,0,0,1,40,0.1,19
+Sergio Gómez,"CM,LM",90,0,0,1,65,0,21
+Takefusa Kubo,RM,59,0,0,1,31,0.1,13
+Brais Méndez,CM,31,0,0,0,17,0,7
+Martín Zubimendi,DM,90,0,0,2,97,0.4,37
+Javi López,LB,74,0,0,0,59,0,24
+Aihen Muñoz,LB,16,0,0,0,23,0,11
+Nayef Aguerd,CB,90,0,0,0,99,0,62
+Igor Zubeldia,CB,90,0,0,0,73,0,45
+Jon Aramburu,RB,83,0,0,0,51,0,22
+Aritz Elustondo,RB,7,0,0,0,6,0,2
+Álex Remiro,GK,90,0,0,0,37,0,20
+Cyle Larin,FW,78,1,0,3,22,0.2,17
+Abdón Prats,FW,12,1,0,1,4,0.4,2
+Sergi Darder,LW,84,0,1,0,42,0,35
+Omar Mascarell,CM,6,0,0,0,2,0,1
+Roberto Navarro,RW,69,0,0,2,47,0.1,32
+Antonio Sánchez,"CM,RW",21,0,0,0,10,0,6
+Dani Rodríguez,AM,69,0,1,1,31,0,23
+Valery Fernández,"RW,LW",21,0,0,0,6,0,4
+Samu Costa,"DM,CM",90,0,0,0,69,0,41
+Manu Morlanes,"DM,CM",90,0,0,1,53,0,31
+Johan Mojica,LB,90,0,0,0,54,0,36
+Antonio Raillo,CB,90,0,0,1,65,0,35
+Martin Valjent,CB,90,0,0,0,61,0,41
+Mateu Morey,RB,77,0,0,0,63,0,34
+Pablo Maffeo,RB,13,0,0,0,6,0,1
+Dominik Greif,GK,90,0,0,0,45,0,30
+Hugo Duro,FW,90,0,0,0,20,0,12
+Diego López,LM,90,0,0,2,46,0,27
+Javier Guerra,CM,74,0,0,0,61,0,27
+José Luis García Vayá,CM,16,0,0,0,21,0,6
+Enzo Barrenechea,CM,83,0,0,2,50,0.1,22
+Domingos André Ribeiro Almeida,CM,7,0,0,0,9,0,7
+Luis Rioja,RM,74,1,0,0,30,0.8,17
+Germán Valera,RM,16,0,0,0,7,0,6
+José Luis Gayà,LB,90,0,0,0,65,0,38
+Yarek Gasiorowski,CB,83,0,0,0,67,0,35
+Dani Gómez,"FW,CB",7,0,0,1,5,0.3,5
+Cristhian Mosquera,CB,90,0,0,0,52,0,37
+César Tárrega,CB,90,0,0,0,77,0,48
+Dimitri Foulquier,RB,90,0,0,1,53,0,28
+Giorgi Mamardashvili,GK,90,0,0,0,41,0,19
+Robert Lewandowski,FW,90,0,0,4,31,0.6,18
+Pablo Torre,LW,45,0,0,0,31,0,17
+Lamine Yamal,"RW,LW",45,0,0,4,32,0.3,24
+Raphinha,"RW,LW",90,1,0,5,67,0.3,39
+Fermin López,AM,56,0,0,3,24,0.2,12
+Ferrán Torres,AM,34,0,0,3,28,0.2,18
+Pedri,DM,90,0,1,3,95,0.2,60
+Gavi,DM,56,0,0,0,47,0,24
+Frenkie de Jong,DM,34,0,0,0,36,0,26
+Alejandro Balde,LB,25,0,0,0,20,0,13
+Gerard Martín,LB,65,0,0,0,51,0,23
+Iñigo Martínez,CB,90,0,0,1,113,0,78
+Pau Cubarsí,CB,89,0,0,2,85,0.4,47
+Pau Victor Delgado,CB,1,0,0,0,1,0,0
+Jules Koundé,RB,55,0,0,2,56,0.1,31
+Héctor Fort,RB,35,0,0,0,27,0,14
+Iñaki Peña,GK,90,0,0,0,34,0,20
+Fábio Silva,FW,72,1,0,2,19,0.1,9
+Jaime Mata,FW,18,0,0,0,8,0,2
+Alberto Moleiro,"LW,RW,CM",90,0,0,0,24,0,17
+Sandro Ramírez,RW,72,1,0,1,28,0.1,16
+Marvin,"RB,RW",18,0,0,0,9,0,3
+Javier Muñoz,"AM,CB",90,0,1,1,38,0,21
+José Campaña,DM,67,0,0,0,26,0,11
+Enzo Loiodice,"DM,CM",23,0,0,0,10,0,1
+Kirian Rodríguez,DM,82,0,1,0,44,0,20
+Fabio González,"DM,CM",8,0,0,0,2,0,1
+Mika Màrmol,LB,89,0,0,0,46,0,10
+Oliver McBurnie,FW,1,0,0,0,2,0,0
+Scott McKenna,CB,90,0,0,1,35,0.3,8
+Álex Suárez,CB,90,0,0,0,28,0,5
+Viti,RB,82,0,0,0,38,0,19
+Benito Ramírez,"LW,LB",8,0,0,0,0,0,0
+Jasper Cillessen,GK,90,0,0,0,53,0,34
+Kiké,FW,90,0,0,4,41,0.1,22
+Carlos Martín,LW,69,0,0,2,25,0.1,13
+Stoichkov,LW,21,0,0,1,16,0,13
+Carlos Vicente,"RW,RB",90,1,0,3,50,0.3,23
+Jon Guridi,LM,76,0,0,1,40,0.1,23
+Joan Jordán,LM,14,0,1,0,21,0,11
+Antonio Blanco,CM,69,0,0,1,22,0,6
+Toni Martínez,"RM,CM",21,0,0,2,9,0.1,3
+Ander Guevara,"RM,CM",90,0,0,0,61,0,25
+Moussa Diarra,LB,90,0,0,0,70,0,40
+Santiago Mouriño,CB,90,0,0,1,65,0.1,41
+Abdel Abqar,CB,90,0,0,0,60,0,32
+Nahuel Tenaglia,RB,76,0,0,3,34,0.3,13
+Luka Romero,RW,14,0,0,0,10,0,5
+Antonio Sivera,GK,90,0,0,0,26,0,14
+Diego,FW,81,0,0,1,20,0.2,12
+Jorge Sáenz,CB,9,0,0,0,7,0,1
+Juan Cruz,LW,62,0,0,0,17,0,9
+Miguel,"LW,FW",28,0,0,1,12,0.1,9
+Dani Raba,RW,76,0,1,1,40,0,13
+Julián Chicco,"RM,RW",14,0,0,0,7,0,4
+Óscar Rodríguez Arnaiz,"AM,LM",90,1,0,1,41,0.5,17
+Yvan Neyou,"DM,CM",90,0,0,0,46,0,20
+Renato Tapia,"DM,CM",90,0,0,1,47,0.1,18
+Javi Hernández,LB,90,0,0,0,35,0,8
+Matija Nastasić,CB,90,0,0,0,39,0,6
+Sergi,CB,90,0,0,0,43,0,16
+Valentin Rosier,RB,90,0,0,1,42,0.1,12
+Marko Dmitrović,GK,90,0,0,0,41,0,22
+Irvin Cardona,FW,66,1,0,1,21,0.1,8
+Walid Cheddira,FW,24,1,0,1,14,0.2,5
+Javi Puado,LM,90,0,1,0,26,0,16
+Alex Král,CM,90,0,0,0,25,0,14
+Justin Smith,CM,60,0,0,0,19,0,9
+Rafael Bauza,CM,30,0,0,0,7,0,5
+Jofre,RM,83,0,0,4,21,0.4,17
+Álvaro Tejero,RM,7,0,0,0,2,0,0
+Pol Lozano,DM,66,0,0,0,37,0,13
+Carlos Romero,DM,24,0,0,0,7,0,0
+Brian Oliván,LB,90,0,0,0,17,0,9
+Leandro Cabrera,CB,90,1,1,3,30,0.1,11
+Marash Kumbulla,CB,90,0,0,0,39,0,17
+Omar El Hilali,RB,90,0,0,0,49,0,11
+Joan García,GK,90,0,0,0,29,0,15
+Anastasios Douvikas,FW,45,0,0,1,13,0.1,8
+Borja Iglesias,FW,45,0,0,0,14,0,11
+Iago Aspas,"RW,FW",90,1,0,3,65,1.1,51
+Ilaix Moriba,"DM,CM",79,0,0,2,97,0.1,69
+Alfon,CM,11,0,0,0,4,0,5
+Damián Rodríguez,"DM,CM",66,0,0,0,77,0,54
+Hugo Sotelo,CM,24,0,0,0,35,0,22
+Óscar Mingueza,"RM,DM",90,0,0,2,82,0.1,61
+Hugo Álvarez,"WB,LM",45,0,0,2,48,0.1,28
+Williot Swedberg,LM,45,0,0,1,32,0,25
+Jonathan Bamba,"LW,WB",90,0,0,1,61,0,42
+Marcos Alonso,CB,79,0,0,2,110,0.1,94
+Javier Manquillo,CB,11,0,0,0,6,0,5
+Carl Starfelt,CB,90,0,0,0,117,0,85
+Javi Rodríguez,CB,90,0,0,1,96,0,75
+Vicente Guaita,GK,90,0,0,0,23,0,13
+Mamadou Sylla,FW,61,0,0,2,15,0.3,4
+Juanmi Latasa,FW,29,0,0,1,7,0.1,1
+Raúl Moro,LM,45,0,0,0,14,0,10
+Víctor Meseguer,CM,45,0,0,0,33,0,22
+Kike Pérez,CM,84,0,0,1,49,0,28
+Mario Martín,CM,6,0,0,0,13,0,9
+Selim Amallah,CM,11,0,0,0,5,0,5
+Stanko Jurić,CM,79,0,0,3,44,0.2,27
+Iván Sánchez,"RW,RM",90,0,0,1,43,0,33
+Lucas Oliveira Rosa,LB,90,0,0,0,51,0,29
+Javi Sánchez,CB,45,0,0,0,42,0,31
+Anuar,LW,45,0,0,0,15,0,13
+Eray Cömert,CB,90,0,0,0,99,0,72
+Abdulai Juma Bah,CB,90,0,0,0,74,0,56
+Luis Pérez,RB,90,0,0,1,57,0,30
+Karl Jakob Hein,GK,90,0,0,0,58,0,43
+Julián Álvarez,FW,63,1,1,2,32,0.8,18
+Ángel Correa,FW,27,0,1,1,13,0,9
+Antoine Griezmann,FW,63,1,0,3,55,0.6,20
+Alexander Sørloth,FW,27,1,0,1,14,0.8,5
+Conor Gallagher,"LM,CM",90,0,0,1,58,0.1,34
+Pablo Barrios,CM,78,0,0,0,61,0,38
+Samuel Lino,LM,12,0,0,0,6,0,3
+Rodrigo De Paul,CM,63,1,0,2,78,0.5,58
+Koke,CM,27,0,0,0,25,0,8
+Giuliano Simeone,RM,90,0,0,1,55,0,28
+Javi Galán,LB,45,0,1,0,36,0,22
+Reinildo Mandava,LB,45,0,0,0,34,0,14
+Clément Lenglet,CB,90,1,0,1,78,0.9,46
+José María Giménez,CB,90,0,0,1,79,0.1,47
+Marcos Llorente,RB,90,0,1,0,77,0,47
+Jan Oblak,GK,90,0,0,0,26,0,13
+Thierno Barry,FW,71,1,0,3,21,0.9,10
+Gerard Moreno,FW,19,0,0,1,8,0.1,5
+Pape Gueye,"FW,CM",90,0,0,2,30,0.2,22
+Alex Baena,"LM,CM",89,1,0,3,38,0.4,31
+Pau Navarro,CM,1,0,0,0,3,0,0
+Daniel Parejo,CM,77,0,0,0,37,0,25
+Denis Suárez,LW,13,0,0,1,6,0.2,6
+Santi Comesaña,CM,90,0,0,1,57,0.2,36
+Yeremi Pino,RM,71,0,1,2,31,0.2,22
+Pau Cabanes,"RW,RM",19,0,0,0,9,0,4
+Sergi Cardona,LB,90,0,0,0,50,0,21
+Logan Costa,CB,90,0,0,0,58,0,33
+Raúl Albiol,CB,90,0,0,0,58,0,37
+Kiko Femenía,RB,90,0,0,0,51,0,29
+Diego Conde,GK,90,0,0,0,42,0,28
+Bojan Miovski,FW,57,0,0,0,9,0,1
+Cristhian Stuani,FW,33,0,1,2,13,0.1,3
+Arnaut Danjuma,LW,45,0,0,1,26,0,18
+Abel Ruiz,"AM,LW",45,0,0,1,14,0.1,8
+Bryan Gil,"RW,WB",90,0,0,2,83,0,53
+Donny van de Beek,AM,72,1,0,1,26,0,11
+Portu,AM,18,0,0,0,17,0,4
+Oriol Romeu,"DM,CM",90,0,0,0,96,0,58
+Iván Martín,DM,58,0,0,0,74,0,52
+Jhon Solis,"CM,DM",32,0,0,0,29,0,15
+Miguel Gutiérrez,"LB,WB",90,0,0,5,70,0.3,46
+Ladislav Krejčí,CB,90,1,0,1,104,0,63
+David López,CB,90,0,0,0,104,0,56
+Arnau Martinez,RB,72,0,0,0,77,0,42
+Daley Blind,CB,18,0,0,0,22,0,13
+Paulo Gazzaniga,GK,90,0,0,0,34,0,16
+Rodrygo,FW,66,0,0,1,42,0.1,23
+Luka Modrić,LM,24,0,0,0,25,0,11
+Kylian Mbappé,LW,90,1,0,5,53,1.4,34
+Brahim Díaz,"RW,FW",90,0,0,1,43,0.6,21
+Jude Bellingham,LM,45,1,1,1,34,0.8,24
+Arda Güler,"RW,RM",45,0,0,0,31,0,21
+Dani Ceballos,"CM,LM",90,0,0,0,105,0,72
+Federico Valverde,"RM,CM",90,0,0,1,74,0.1,36
+Fran Garcia,LB,90,0,0,1,67,0.1,34
+Antonio Rüdiger,CB,90,0,0,1,78,0.1,53
+Raúl Asencio,CB,90,0,0,0,87,0,56
+Lucas Vázquez,RB,90,0,0,1,70,0,28
+Thibaut Courtois,GK,90,0,0,0,54,0,34
+Álvaro Rodríguez,FW,88,0,0,0,30,0,12
+Peter Federico,FW,2,0,0,0,1,0,1
+Mauro Arambarri,FW,45,0,0,0,9,0,6
+Coba da Costa,LW,45,0,0,1,16,0,11
+Carles Pérez,"LM,RW",65,0,0,1,16,0,13
+Alex Sola,RW,25,0,0,0,10,0,6
+Omar Alderete,"CM,DM,CB",90,0,0,1,37,0.1,24
+Luis Milla,"DM,CM",90,0,0,1,44,0.1,25
+Allan Nyom,RM,45,0,0,0,9,0,4
+Chrisantus Uche,AM,20,0,0,1,7,0.1,7
+John Joe,AM,25,0,0,1,15,0.1,13
+Diego Rico,LB,90,0,0,1,49,0,25
+Juan Berrocal,CB,77,0,0,0,27,0,17
+Jesús Santiago,DM,13,0,0,0,16,0,14
+Domingos Duarte,CB,90,0,0,0,29,0,17
+Iglesias,RB,90,0,0,1,48,0,18
+David Soria,GK,90,0,0,0,32,0,12
+Adri Embarba,FW,63,0,0,1,28,0,12
+Jorge de Frutos,RM,27,0,0,0,17,0,6
+Randy Nteka,FW,64,1,0,2,17,0.1,9
+Sergio Camello,FW,26,0,0,0,7,0,7
+Álvaro García,LM,90,0,0,1,40,0,15
+Óscar Valentín,CM,81,0,0,0,36,0,16
+Pedro Díaz,CM,9,0,0,0,6,0,1
+Pathé Ciss,CM,73,0,0,0,35,0,15
+Gerard Gumbau,CM,17,0,0,0,13,0,3
+Isaac Palazón Camacho,"RM,FW",73,0,0,1,41,0,20
+Óscar Trejo,FW,17,0,0,0,13,0,2
+Pep Chavarría,LB,90,0,0,0,71,0,24
+Abdul Mumin,CB,90,0,0,0,60,0,45
+Florian Lejeune,CB,90,0,0,2,67,0.1,39
+Andrei Ratiu,RB,90,0,0,0,66,0,29
+Augusto Batalla,GK,90,0,0,0,51,0,29
+Gorka Guruzeta,FW,55,0,0,2,21,0.2,12
+Oihan Sancet,AM,35,2,0,2,19,0.1,11
+Nico Williams,LW,90,0,1,4,47,0.3,25
+Iñaki Williams,"RW,FW",63,0,0,0,15,0,9
+Álvaro djaló,FW,27,0,0,0,8,0,7
+Álex Berenguer,"AM,RW",90,0,0,1,53,0,30
+Mikel Jauregizar,DM,56,0,0,1,30,0,16
+Unai Gómez,DM,34,0,0,0,17,0,9
+Iñigo Ruiz de Galarreta,DM,74,0,0,0,43,0,25
+Mikel Vesga,DM,16,0,0,0,13,0,2
+Yuri Berchiche,LB,90,0,0,2,64,0,25
+Aitor Paredes,CB,90,0,0,0,62,0,24
+Yeray Álvarez,CB,90,0,0,0,100,0,58
+Iñigo Lekue,RB,55,0,0,0,47,0,29
+Óscar de Marcos,RB,35,0,1,0,23,0,9
+Julen Agirrezabala,GK,90,0,0,0,45,0,30
+Mikel Oyarzabal,FW,70,1,0,0,26,0.8,11
+Umar Sadiq,FW,20,0,0,1,8,0,7
+Ander Barrenetxea,LW,54,0,0,0,17,0,15
+Sergio Gómez,LW,36,0,0,0,18,0,7
+Takefusa Kubo,RW,90,0,0,0,46,0,25
+Beñat Turrientes,LM,54,0,0,0,26,0,10
+Pablo Marín,LM,36,0,0,0,24,0,7
+Martín Zubimendi,CM,90,0,0,0,66,0,24
+Brais Méndez,RM,79,0,0,0,48,0,24
+Olasagasti,RM,11,0,0,0,8,0,3
+Aihen Muñoz,LB,90,0,0,0,47,0,20
+Nayef Aguerd,CB,45,0,0,0,42,0,22
+Jon Pacheco,CB,45,0,0,0,16,0,5
+Igor Zubeldia,CB,90,0,0,0,43,0,11
+Jon Aramburu,RB,90,0,0,0,53,0,14
+Álex Remiro,GK,90,0,0,0,36,0,21
+Vitor Roque,FW,70,0,0,1,19,0,14
+Cédric Bakambu,FW,20,0,0,1,6,0.1,3
+Abde Ezzalzouli,LW,54,0,0,0,27,0,21
+Ezequiel Ávila,RW,36,0,0,0,20,0,13
+Jesus Rodríguez,"RW,LW",82,0,0,1,41,0.1,25
+Juanmi,LW,8,0,0,0,3,0,1
+Giovani Lo Celso,AM,90,0,0,1,72,0,42
+Sergi Altimira,DM,82,0,0,1,87,0.1,51
+Mateo Flores,DM,8,0,0,0,6,0,4
+Carlos Guirao,DM,54,0,0,0,31,0,13
+Iker Losada,DM,36,0,0,0,24,0,14
+Romain Perraud,LB,90,0,0,0,71,0,28
+Diego Llorente,CB,90,0,0,1,83,0,46
+Marc Bartra,CB,90,0,0,1,92,0.1,50
+Youssouf Sabaly,RB,90,0,0,0,84,0,44
+Rui Silva,GK,90,0,0,0,38,0,24
+Isaac Romero,FW,90,0,0,0,33,0,20
+Peque,LW,63,0,0,1,36,0,19
+Saúl Ñíguez,"DM,LM",27,0,1,0,26,0,10
+Dodi Lukebakio,RW,90,1,0,3,47,0.8,27
+Albert Sambi Lokonga,"LM,CM,DM",85,0,0,1,70,0,47
+Lucien Agoume,DM,5,0,0,0,8,0,3
+Nemanja Gudelj,"CM,CB",90,0,0,1,67,0,23
+Djibril Sow,RM,74,0,0,1,34,0.3,16
+Juanlu Sánchez,"AM,RM",16,0,0,0,9,0,2
+Adrià Pedrosa,LB,63,0,0,0,54,0,15
+Suso,LW,27,0,0,0,19,0,13
+Kike Salas,"CB,LB",90,0,0,2,68,0,35
+Loïc Bade,CB,90,0,0,1,76,0.1,39
+Carmona,RB,85,0,0,2,59,0.1,16
+Jesús Navas,RB,5,0,0,0,17,0,6
+Álvaro Fernández,GK,90,0,0,0,27,0,13
+Ante Budimir,FW,90,1,0,3,19,0.4,8
+Bryan Zaragoza,"LW,RW",76,0,0,1,26,0,19
+José Arnaiz,RW,6,0,0,0,4,0,3
+Rubén Peña,RM,8,0,0,0,5,0,3
+Rubén García,RW,69,0,0,0,36,0,12
+Abel,"LW,LB",21,0,0,0,7,0,4
+Aimar Oroz,LM,90,0,0,1,35,0,23
+Iker Muñoz,CM,69,0,0,0,19,0,10
+Pablo Ibáñez,CM,21,0,0,1,10,0.1,4
+Jon Moncayola,"RM,CM",90,0,0,1,33,0.1,12
+Juan Cruz Armada,LB,82,0,0,0,38,0,14
+Jorge Herrando,CB,8,0,0,0,8,0,2
+Enzo Boyomo,CB,90,0,0,0,33,0,13
+Catena,CB,90,0,0,0,47,0,18
+Jesús Areso,RB,90,0,1,0,57,0,21
+Sergio Herrera,GK,90,0,0,0,36,0,16
+Antonio Sánchez,"FW,RM",77,0,0,1,23,0,8
+Mateu Morey,RB,13,0,0,0,11,0,1
+Vedat Muriqi,FW,77,1,0,1,20,0.7,6
+Abdón Prats,FW,13,0,0,0,8,0,3
+Sergi Darder,LM,66,0,0,1,38,0,15
+Dani Rodríguez,"LM,FW",24,0,0,1,13,0,6
+Samu Costa,CM,90,0,0,2,49,0.1,21
+Manu Morlanes,CM,90,0,0,0,41,0,19
+Valery Fernández,RM,66,0,0,0,21,0,11
+Roberto Navarro,"RM,LM",24,0,0,0,15,0,5
+Johan Mojica,LB,90,0,0,0,59,0,24
+Antonio Raillo,CB,90,0,0,0,44,0,14
+Martin Valjent,CB,90,0,0,0,39,0,15
+Pablo Maffeo,RB,77,0,1,0,50,0,19
+Cyle Larin,FW,13,0,0,0,5,0,0
+Leo Román,GK,90,0,0,0,38,0,11
+Ferrán Torres,FW,72,1,0,5,23,0.6,16
+Pau Victor Delgado,FW,18,1,0,2,8,1,6
+Raphinha,LW,86,2,0,3,39,2.2,20
+Fermin López,LW,4,0,0,0,3,0,2
+Lamine Yamal,RW,90,0,1,6,49,1,34
+Dani Olmo,AM,71,0,0,2,30,0.1,17
+Frenkie de Jong,AM,19,1,1,1,7,0.2,2
+Marc Casado,DM,81,0,0,0,63,0,30
+Eric García,DM,9,0,0,0,7,0,0
+Pedri,DM,81,0,0,0,58,0,26
+Gavi,DM,9,0,0,0,9,0,3
+Alejandro Balde,LB,90,0,0,0,48,0,32
+Iñigo Martínez,CB,90,0,0,0,96,0,50
+Pau Cubarsí,CB,90,0,0,0,90,0,59
+Jules Koundé,RB,90,0,0,0,67,0,28
+Iñaki Peña,GK,90,0,0,0,40,0,26
+Álex Berenguer,FW,62,1,0,2,26,1.1,16
+Gorka Guruzeta,FW,28,1,0,1,8,0.4,4
+Nico Williams,LW,90,0,0,2,38,0.1,22
+Iñaki Williams,RW,90,0,0,1,46,0,29
+Oihan Sancet,AM,78,0,0,1,31,0.1,22
+Unai Gómez,AM,12,0,0,0,7,0,7
+Beñat Prados,DM,63,0,0,1,40,0,33
+Iñigo Ruiz de Galarreta,DM,27,0,0,0,9,0,5
+Mikel Jauregizar,DM,90,0,0,1,50,0,32
+Adama Boiro,LB,83,0,0,0,33,0,21
+Yuri Berchiche,LB,7,0,0,0,6,0,0
+Yeray Álvarez,CB,90,0,0,0,47,0,27
+Daniel Vivian,CB,90,0,0,0,60,0,31
+Andoni Gorosabel,RB,78,0,0,0,46,0,20
+Óscar de Marcos,RB,12,0,0,0,3,0,1
+Julen Agirrezabala,GK,90,0,0,0,36,0,18
+Kylian Mbappé,FW,90,0,0,2,41,1,25
+Rodrygo,FW,87,0,0,2,50,0.1,32
+Endrick,FW,3,0,0,0,2,0,1
+Jude Bellingham,LM,90,1,0,1,60,0.6,27
+Dani Ceballos,CM,57,0,0,0,62,0,38
+Brahim Díaz,RM,33,0,0,0,19,0,16
+Aurélien Tchouaméni,CM,70,0,0,0,45,0,27
+Luka Modrić,CM,20,0,0,0,24,0,15
+Federico Valverde,"RM,CM,RB",90,0,0,1,61,0,33
+Fran Garcia,LB,70,0,0,1,70,0,33
+Ferland Mendy,LB,20,0,0,0,12,0,7
+Antonio Rüdiger,CB,90,0,0,2,105,0.1,65
+Raúl Asencio,CB,90,0,0,0,86,0,52
+Lucas Vázquez,RB,87,0,0,0,60,0,33
+Arda Güler,CM,3,0,0,0,13,0,7
+Thibaut Courtois,GK,90,0,0,0,63,0,39
