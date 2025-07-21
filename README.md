@@ -1,4 +1,4 @@
-# football_xg_prediction_model
+# Football xG Prediction Model
 # ⚽ Predicting Expected Goals (xG) from Football Match Stats Using Machine Learning
 
 ## 📌 About the Project
@@ -43,6 +43,34 @@ Even without using the xG column directly, the model successfully learns relatio
 
 ---
 
+## 🌐 API Deployment
+
+This project now includes a working **REST API** built with Flask to make real-time predictions.
+
+### 🔗 How the API Works
+
+- **Endpoint:** `/predict`
+- **Method:** `POST`
+- **Input:** JSON object with player match stats
+- **Output:** Predicted `xG` value
+
+### 🧪 Sample Request (using `curl`)
+```bash
+curl -X POST http://localhost:5000/predict \
+  -H "Content-Type: application/json" \
+  -d '{
+           "Minutes": 90,
+           "Assists": 0,
+           "Total Shoot": 3,
+           "Touches": 78,
+           "Carries": 0
+      }'
+✅ **Sample Response**
+{
+  "predicted_xG": 0.52
+}
+---
+
 ## 🛠️ How It Works
 
 1. Loads and preprocesses the dataset
@@ -74,7 +102,7 @@ Even without using the xG column directly, the model successfully learns relatio
 
 - Train a second model to predict **Goals** using your **predicted xG**
 - Visualize player overperformance: `Goals - xG`
-- Deploy the model as a Flask API
+- Deploy the model as a Flask API **[✅ **Done**]**
 - Build a fantasy football helper app using this model
 
 ---
