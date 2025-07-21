@@ -1,0 +1,5 @@
+[build]
+nixpacksPlan = "python"
+
+[start]
+cmd = "gunicorn app:app"
