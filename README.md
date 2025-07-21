@@ -96,18 +96,18 @@ Run all cells step by step
 Input a player's match stats to get their predicted xG
 
 ### 🌟 Why This Project Matters
-✅ Builds your own logic behind how xG is estimated
+✅ Built my logic behind how xG is estimated
 
 ✅ Mimics real-world football data systems
 
-✅ Great foundation for more advanced analytics like goal prediction, overperformance tracking, or player scouting
+✅ Great foundation for more advanced analytics like goal prediction, overperformance tracking or player scouting
 
 ### 🔮 Possible Extensions
-Train a second model to predict Goals using your predicted xG
+Train a second model to predict Goals using your predicted xG [In Progress]
 
 Visualize player overperformance: Goals - xG
 
-Deploy the model as a Flask API ✅ Done
+Deployed the model as a Flask API [✅ Done]
 
 Build a fantasy football helper app using this model
 
