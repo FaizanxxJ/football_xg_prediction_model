@@ -11,19 +11,19 @@ This model learns how to predict xG values for individual player performances us
 
 ## 📊 Dataset
 
-- Format: `.csv` file containing player match-by-match statistics
-- Features: `Shots`, `Touches`, `Carries`, `Key Passes`, `Assists`, `Minutes`, etc.
-- Target: `Expected Goals (xG)`
-- Source: Manually compiled + cleaned data
+- Format: `.csv` file containing player match-by-match statistics  
+- Features: `Shots`, `Touches`, `Carries`, `Key Passes`, `Assists`, `Minutes`, etc.  
+- Target: `Expected Goals (xG)`  
+- Source: Manually compiled + cleaned data  
 
 ---
 
 ## 🤖 Machine Learning Approach
 
-- **Model:** Gradient Boosting Regressor
-- **Train/Test Split:** 80/20
-- **Libraries:** scikit-learn, pandas, seaborn, matplotlib
-- **Platform:** Google Colab (with Google Drive integration)
+- **Model:** Gradient Boosting Regressor  
+- **Train/Test Split:** 80/20  
+- **Libraries:** scikit-learn, pandas, seaborn, matplotlib  
+- **Platform:** Google Colab (with Google Drive integration)  
 
 ---
 
@@ -31,10 +31,10 @@ This model learns how to predict xG values for individual player performances us
 
 The model was evaluated using real match scenarios and the results are very promising:
 
-| Metric                | Value                           |
-|-----------------------|---------------------------------|
-| **Mean Squared Error**| `0.0204` (Low error)            |
-| **R-squared (R²)**    | `0.4069` (Explains ~40.7% variance) |
+| Metric                | Value                                |
+|-----------------------|--------------------------------------|
+| **Mean Squared Error**| `0.0204` (Low error)                 |
+| **R-squared (R²)**    | `0.4069` (Explains ~40.7% variance)  |
 | **Real Match Example 1** | Actual Goals: `2` → Predicted xG: `2.01` ✅ |
 | **Real Match Example 2** | Actual Goals: `1` → Predicted xG: `0.54` ⚠ |
 | **Real Match Example 3** | Actual Goals: `2` → Predicted xG: `1.93` ✅ |
@@ -43,75 +43,77 @@ Even without using the xG column directly, the model successfully learns relatio
 
 ---
 
-## 🌐 API Deployment
+## 🌐 Live API Demo
 
-This project now includes a working **REST API** built with Flask to make real-time predictions.
+You can test the trained xG model using a public Flask-based API.
 
-### 🔗 How the API Works
+🔗 **Live URL:**  
+[https://7d5ea032-fbbf-4953-9cd7-d8ac39c8a33b-00-1mvj8t1y36w8k.pike.replit.dev](https://7d5ea032-fbbf-4953-9cd7-d8ac39c8a33b-00-1mvj8t1y36w8k.pike.replit.dev)
 
-- **Endpoint:** `/predict`
-- **Method:** `POST`
-- **Input:** JSON object with player match stats
-- **Output:** Predicted `xG` value
+### 📮 Endpoint: `POST /predict`
 
-### 🧪 Sample Request (using `curl`)
-```bash
-curl -X POST http://localhost:5000/predict \
-  -H "Content-Type: application/json" \
-  -d '{
-           "Minutes": 90,
-           "Assists": 0,
-           "Total Shoot": 3,
-           "Touches": 78,
-           "Carries": 0
-      }'
-✅ **Sample Response**
+Send match stats as JSON to get predicted xG.
+
+#### ✅ Example Request:
+```json
 {
-  "predicted_xG": 0.52
+  "shots": 12,
+  "passes": 500,
+  "possession": 55.3,
+  "fouls": 9,
+  "corners": 4
 }
----
+🔁 Example Response:
+json
+Copy
+Edit
+{
+  "predicted_xG": 2.18
+}
+🧪 Test with curl:
+bash
+Copy
+Edit
+curl -X POST https://7d5ea032-fbbf-4953-9cd7-d8ac39c8a33b-00-1mvj8t1y36w8k.pike.replit.dev/predict \
+  -H "Content-Type: application/json" \
+  -d '{"shots": 12, "passes": 500, "possession": 55.3, "fouls": 9, "corners": 4}'
+🛠️ How It Works
+Loads and preprocesses the dataset
 
-## 🛠️ How It Works
+Drops unnecessary columns (Player, Position, actual xG from input)
 
-1. Loads and preprocesses the dataset
-2. Drops unnecessary columns (`Player`, `Position`, actual `xG` from input)
-3. Trains a **Gradient Boosting Regressor** on the remaining features
-4. Evaluates performance on the test set
-5. Predicts xG for real match stats as a test case
+Trains a Gradient Boosting Regressor on the remaining features
 
----
+Evaluates performance on the test set
 
-## 🚀 How to Use
+Predicts xG for real match stats as a test case
 
-1. Open the notebook in Google Colab or Jupyter
-2. Upload or mount your own CSV file (or use the existing one)
-3. Run all cells step by step
-4. Input a player's match stats to get their predicted xG
+🚀 How to Use
+Open the notebook in Google Colab or Jupyter
 
----
+Upload or mount your own CSV file (or use the existing one)
 
-## 🌟 Why This Project Matters
+Run all cells step by step
 
-- ✅ Builds your own logic behind how xG is estimated
-- ✅ Mimics real-world football data systems
-- ✅ Great foundation for more advanced analytics like goal prediction, overperformance tracking, or player scouting
+Input a player's match stats to get their predicted xG
 
----
+🌟 Why This Project Matters
+✅ Builds your own logic behind how xG is estimated
 
-## 🔮 Possible Extensions
+✅ Mimics real-world football data systems
 
-- Train a second model to predict **Goals** using your **predicted xG**
-- Visualize player overperformance: `Goals - xG`
-- Deploy the model as a Flask API **[✅ **Done**]**
-- Build a fantasy football helper app using this model
+✅ Great foundation for more advanced analytics like goal prediction, overperformance tracking, or player scouting
 
----
+🔮 Possible Extensions
+Train a second model to predict Goals using your predicted xG
 
-## 👤 Author
+Visualize player overperformance: Goals - xG
 
-**Faizan J.**  
-BS Software Engineering  
-📫 [fazanii092@gmail.com]  
+Deploy the model as a Flask API ✅ Done
 
+Build a fantasy football helper app using this model
 
-
+👤 Author
+Faizan J.
+BS Software Engineering
+📫 fazanii092@gmail.com
