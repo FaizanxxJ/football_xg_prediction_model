@@ -65,16 +65,10 @@ Send match stats as JSON to get predicted xG.
   "corners": 4
 }
 🔁 Example Response:
-json
-Copy
-Edit
 {
   "predicted_xG": 2.18
 }
 ### 🧪 Test with curl:
-bash
-Copy
-Edit
 curl -X POST https://7d5ea032-fbbf-4953-9cd7-d8ac39c8a33b-00-1mvj8t1y36w8k.pike.replit.dev/predict \
   -H "Content-Type: application/json" \
   -d '{"shots": 12, "passes": 500, "possession": 55.3, "fouls": 9, "corners": 4}'
