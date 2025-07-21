@@ -70,14 +70,14 @@ Edit
 {
   "predicted_xG": 2.18
 }
-🧪 Test with curl:
+### 🧪 Test with curl:
 bash
 Copy
 Edit
 curl -X POST https://7d5ea032-fbbf-4953-9cd7-d8ac39c8a33b-00-1mvj8t1y36w8k.pike.replit.dev/predict \
   -H "Content-Type: application/json" \
   -d '{"shots": 12, "passes": 500, "possession": 55.3, "fouls": 9, "corners": 4}'
-🛠️ How It Works
+### 🛠️ How It Works
 Loads and preprocesses the dataset
 
 Drops unnecessary columns (Player, Position, actual xG from input)
@@ -88,7 +88,7 @@ Evaluates performance on the test set
 
 Predicts xG for real match stats as a test case
 
-🚀 How to Use
+### 🚀 How to Use
 Open the notebook in Google Colab or Jupyter
 
 Upload or mount your own CSV file (or use the existing one)
@@ -97,14 +97,14 @@ Run all cells step by step
 
 Input a player's match stats to get their predicted xG
 
-🌟 Why This Project Matters
+### 🌟 Why This Project Matters
 ✅ Builds your own logic behind how xG is estimated
 
 ✅ Mimics real-world football data systems
 
 ✅ Great foundation for more advanced analytics like goal prediction, overperformance tracking, or player scouting
 
-🔮 Possible Extensions
+### 🔮 Possible Extensions
 Train a second model to predict Goals using your predicted xG
 
 Visualize player overperformance: Goals - xG
@@ -113,7 +113,7 @@ Deploy the model as a Flask API ✅ Done
 
 Build a fantasy football helper app using this model
 
-👤 Author
+### 👤 Author
 Faizan J.
 BS Software Engineering
 📫 fazanii092@gmail.com
