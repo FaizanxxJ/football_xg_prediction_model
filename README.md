@@ -1,4 +1,4 @@
-# football_xg_prediction_model
+# Football xG Prediction Model
 # ⚽ Predicting Expected Goals (xG) from Football Match Stats Using Machine Learning
 
 ## 📌 About the Project
@@ -69,6 +69,7 @@ curl -X POST http://localhost:5000/predict \
 {
   "predicted_xG": 0.52
 }
+---
 
 ## 🛠️ How It Works
 
