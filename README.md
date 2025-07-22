@@ -14,7 +14,8 @@ This model learns how to predict xG values for individual player performances us
 - Format: `.csv` file containing player match-by-match statistics  
 - Features: `Shots`, `Touches`, `Carries`, `Key Passes`, `Assists`, `Minutes`, etc.  
 - Target: `Expected Goals (xG)`  
-- Source: Manually compiled + cleaned data  
+- Source: https://www.kaggle.com/datasets/eduardopalmieri/laliga-players-stats
+- data cleaning was performed myself 
 
 ---
 
